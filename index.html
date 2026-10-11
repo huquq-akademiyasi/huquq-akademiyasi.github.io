@@ -38,6 +38,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 .shell{display:grid;grid-template-columns:240px minmax(0,1fr);min-height:100vh}
 .side{position:sticky;top:0;height:100vh;padding:24px 16px;border-right:1px solid var(--rule);display:flex;flex-direction:column;gap:20px;background:var(--paper)}
 .brand{font:700 1.35rem/1.1 var(--f-display);color:var(--ink);text-decoration:none}
+.brand-logo{display:block;width:72px;height:72px;border-radius:50%;margin-bottom:12px;box-shadow:0 2px 8px rgba(11,110,90,.25)}
 .brand small{display:block;font:500 .7rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--seal);margin-top:6px}
 .nav{display:flex;flex-direction:column;gap:2px}
 .nav a{display:flex;justify-content:space-between;align-items:center;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none;font-weight:500}
@@ -150,13 +151,14 @@ input[type=search]{width:100%;max-width:480px;padding:10px 12px;border:1px solid
   .mob-brand{display:block!important}
 }
 .mob-brand{display:none;font:700 1.1rem var(--f-display);margin-bottom:16px;color:var(--ink);text-decoration:none}
+.mob-brand img{width:36px;height:36px;border-radius:50%;vertical-align:middle;margin-right:10px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
 <div class="shell">
   <aside class="side">
-    <a class="brand" href="#home">Huquq Akademiyasi<small>Davlat va huquq nazariyasi</small></a>
+    <a class="brand" href="#home"><img class="brand-logo" src="apple-touch-icon.png" alt="">Huquq Akademiyasi<small>Davlat va huquq nazariyasi</small></a>
     <nav class="nav" id="nav">
       <a href="#home" data-r="home">Bosh sahifa</a>
       <a href="#mavzular" data-r="mavzu">Mavzular</a>
@@ -237,7 +239,7 @@ function go() {
   window.scrollTo(0, 0);
   app.focus?.();
 }
-const mobBrand = `<a class="mob-brand" href="#home">Huquq Akademiyasi</a>`;
+const mobBrand = `<a class="mob-brand" href="#home"><img src="apple-touch-icon.png" alt="">Huquq Akademiyasi</a>`;
 
 function renderHome() {
   const t = DATA.topics, tests = t.reduce((s, x) => s + x.tests.length, 0), terms = t.reduce((s, x) => s + x.terms.length, 0);
