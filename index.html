@@ -476,14 +476,19 @@ function renderLibrary() {
 }
 let PDFJS = null;
 function loadPdfJs() {
+  // avval saytdagi pdfjs papkasidan, bo'lmasa cdnjs dan yuklaydi
   if (PDFJS) return PDFJS;
-  PDFJS = new Promise((ok, fail) => {
+  const srcs = [["pdfjs/pdf.min.js", "pdfjs/pdf.worker.min.js"],
+    ["https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js", "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"]];
+  const tryLoad = i => new Promise((ok, fail) => {
+    if (i >= srcs.length) return fail();
     const sc = document.createElement("script");
-    sc.src = "pdfjs/pdf.min.js";
-    sc.onload = () => { pdfjsLib.GlobalWorkerOptions.workerSrc = "pdfjs/pdf.worker.min.js"; ok(pdfjsLib); };
-    sc.onerror = () => { PDFJS = null; fail(); };
+    sc.src = srcs[i][0];
+    sc.onload = () => { pdfjsLib.GlobalWorkerOptions.workerSrc = srcs[i][1]; ok(pdfjsLib); };
+    sc.onerror = () => { sc.remove(); tryLoad(i + 1).then(ok, fail); };
     document.head.appendChild(sc);
   });
+  PDFJS = tryLoad(0).catch(e => { PDFJS = null; throw e; });
   return PDFJS;
 }
 let READER = null;
