@@ -1,0 +1,192 @@
+{
+ "categories": [
+  {
+   "title": "O'zbek tilida",
+   "books": [
+    {
+     "id": "b01ad23896",
+     "title": "Islomov Z.M. - Davlat va huquq nazariyasi (2007)",
+     "ext": "doc",
+     "size": 4898304,
+     "file": "kitoblar/b01ad23896.doc"
+    },
+    {
+     "id": "3abbdaf743",
+     "title": "Kelzen H. - Davlat va huquqning umumiy nazariyasi (tarjima)",
+     "ext": "docx",
+     "size": 186126,
+     "file": "kitoblar/3abbdaf743.docx"
+    },
+    {
+     "id": "0a9de58229",
+     "title": "Odilqoriyev X.T. - Davlat va huquq nazariyasi. Darslik",
+     "ext": "pdf",
+     "size": 2997179,
+     "file": "kitoblar/0a9de58229.pdf"
+    },
+    {
+     "id": "814d28671a",
+     "title": "Saburov N., Saydullayev Sh. - Davlat va huquq nazariyasi",
+     "ext": "doc",
+     "size": 1003520,
+     "file": "kitoblar/814d28671a.doc"
+    },
+    {
+     "id": "5fe4f1db86",
+     "title": "Saydullayev Sh. - Davlat va huquq nazariyasi (2018)",
+     "ext": "pdf",
+     "size": 2993865,
+     "file": "kitoblar/5fe4f1db86.pdf"
+    }
+   ],
+   "links": []
+  },
+  {
+   "title": "Rus tilida",
+   "books": [
+    {
+     "id": "a72cd06610",
+     "title": "Hart H.L.A. - Ponyatie prava",
+     "ext": "pdf",
+     "size": 1460083,
+     "file": "kitoblar/a72cd06610.pdf"
+    },
+    {
+     "id": "3d93147b9e",
+     "title": "Lazarev V.V. (red.) - Obshchaya teoriya prava i gosudarstva (2001)",
+     "ext": "doc",
+     "size": 2894336,
+     "file": "kitoblar/3d93147b9e.doc"
+    },
+    {
+     "id": "8f3758ff07",
+     "title": "Melekhin A.V. - Teoriya gosudarstva i prava (2007)",
+     "ext": "doc",
+     "size": 5307392,
+     "file": "kitoblar/8f3758ff07.doc"
+    },
+    {
+     "id": "bf97ae8e99",
+     "title": "Morozova L.A. - Teoriya gosudarstva i prava",
+     "ext": "pdf",
+     "size": 2548758,
+     "file": "kitoblar/bf97ae8e99.pdf"
+    }
+   ],
+   "links": []
+  },
+  {
+   "title": "Ingliz tilida",
+   "books": [
+    {
+     "id": "61a21b2f90",
+     "title": "Bluntschli J.K. - The Theory of the State",
+     "ext": "pdf",
+     "size": 1083189,
+     "file": "kitoblar/61a21b2f90.pdf"
+    },
+    {
+     "id": "1328626233",
+     "title": "Finnis J. - Natural Law. The Classical Tradition",
+     "ext": "pdf",
+     "size": 361696,
+     "file": "kitoblar/1328626233.pdf"
+    },
+    {
+     "id": "cd8b4fd582",
+     "title": "Habermas J. - Between Facts and Norms",
+     "ext": "pdf",
+     "size": 5712799,
+     "file": "kitoblar/cd8b4fd582.pdf"
+    },
+    {
+     "id": "958354a3de",
+     "title": "Kelsen H. - General Theory of Law and State (2009)",
+     "ext": "pdf",
+     "size": 17077969,
+     "file": "kitoblar/958354a3de.pdf"
+    },
+    {
+     "id": "8247eaa4a7",
+     "title": "Korkunov N.M. - General Theory of Law",
+     "ext": "pdf",
+     "size": 17317881,
+     "file": "kitoblar/8247eaa4a7.pdf"
+    },
+    {
+     "id": "0451c67e68",
+     "title": "Rule of Law, Legitimate Governance and Development in the Pacific",
+     "ext": "pdf",
+     "size": 1071637,
+     "file": "kitoblar/0451c67e68.pdf"
+    },
+    {
+     "id": "8f8c74308e",
+     "title": "Tamanaha B. - On the Rule of Law",
+     "ext": "pdf",
+     "size": 1277569,
+     "file": "kitoblar/8f8c74308e.pdf"
+    },
+    {
+     "id": "322d95477d",
+     "title": "Theory of Law. Norm, Logic, System, Doctrine",
+     "ext": "pdf",
+     "size": 2046240,
+     "file": "kitoblar/322d95477d.pdf"
+    },
+    {
+     "id": "3eb2cb28f6",
+     "title": "Veitch S. va boshq. - Jurisprudence. Themes and Concepts",
+     "ext": "pdf",
+     "size": 1812956,
+     "file": "kitoblar/3eb2cb28f6.pdf"
+    },
+    {
+     "id": "42fb91b10c",
+     "title": "Whittington K. va boshq. - The Oxford Handbook of Law and Politics",
+     "ext": "pdf",
+     "size": 32113772
+    }
+   ],
+   "links": []
+  },
+  {
+   "title": "Normativ hujjatlar",
+   "books": [
+    {
+     "id": "c1375c5673",
+     "title": "PF-5618 (09.01.2019) - Huquqiy ong va huquqiy madaniyatni yuksaltirish to'g'risida",
+     "ext": "doc",
+     "size": 333680,
+     "file": "kitoblar/c1375c5673.doc"
+    }
+   ],
+   "links": [
+    {
+     "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+     "url": "https://lex.uz/docs/6445145"
+    },
+    {
+     "title": "«O'zbekiston Respublikasining Konstitutsiyaviy sudi to'g'risida»gi Konstitutsiyaviy qonun",
+     "url": "https://lex.uz/docs/3221763"
+    },
+    {
+     "title": "«Parlament nazorati to'g'risida»gi qonun",
+     "url": "https://lex.uz/docs/2929477"
+    },
+    {
+     "title": "«Sudyalar oliy kengashi to'g'risida»gi qonun",
+     "url": "https://lex.uz/docs/3153668"
+    },
+    {
+     "title": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Reglamenti",
+     "url": "https://lex.uz/docs/39573"
+    },
+    {
+     "title": "O'zbekiston Respublikasi Oliy Majlisi Senatining Reglamenti",
+     "url": "https://lex.uz/docs/60232"
+    }
+   ]
+  }
+ ]
+}
