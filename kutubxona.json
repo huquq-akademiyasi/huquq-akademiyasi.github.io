@@ -4,18 +4,18 @@
    "title": "O'zbek tilida",
    "books": [
     {
-     "id": "b01ad23896",
+     "id": "2180ed3aef",
      "title": "Islomov Z.M. - Davlat va huquq nazariyasi (2007)",
-     "ext": "doc",
-     "size": 4898304,
-     "file": "kitoblar/b01ad23896.doc"
+     "ext": "pdf",
+     "size": 8844729,
+     "file": "kitoblar/2180ed3aef.pdf"
     },
     {
-     "id": "3abbdaf743",
+     "id": "daa2ca5e1a",
      "title": "Kelzen H. - Davlat va huquqning umumiy nazariyasi (tarjima)",
-     "ext": "docx",
-     "size": 186126,
-     "file": "kitoblar/3abbdaf743.docx"
+     "ext": "pdf",
+     "size": 993756,
+     "file": "kitoblar/daa2ca5e1a.pdf"
     },
     {
      "id": "0a9de58229",
@@ -25,11 +25,11 @@
      "file": "kitoblar/0a9de58229.pdf"
     },
     {
-     "id": "814d28671a",
+     "id": "7e9383fed1",
      "title": "Saburov N., Saydullayev Sh. - Davlat va huquq nazariyasi",
-     "ext": "doc",
-     "size": 1003520,
-     "file": "kitoblar/814d28671a.doc"
+     "ext": "pdf",
+     "size": 1738692,
+     "file": "kitoblar/7e9383fed1.pdf"
     },
     {
      "id": "5fe4f1db86",
@@ -52,18 +52,18 @@
      "file": "kitoblar/a72cd06610.pdf"
     },
     {
-     "id": "3d93147b9e",
+     "id": "8778c1b70b",
      "title": "Lazarev V.V. (red.) - Obshchaya teoriya prava i gosudarstva (2001)",
-     "ext": "doc",
-     "size": 2894336,
-     "file": "kitoblar/3d93147b9e.doc"
+     "ext": "pdf",
+     "size": 5395263,
+     "file": "kitoblar/8778c1b70b.pdf"
     },
     {
-     "id": "8f3758ff07",
+     "id": "f90701b6a0",
      "title": "Melekhin A.V. - Teoriya gosudarstva i prava (2007)",
-     "ext": "doc",
-     "size": 5307392,
-     "file": "kitoblar/8f3758ff07.doc"
+     "ext": "pdf",
+     "size": 8579367,
+     "file": "kitoblar/f90701b6a0.pdf"
     },
     {
      "id": "bf97ae8e99",
@@ -154,11 +154,11 @@
    "title": "Normativ hujjatlar",
    "books": [
     {
-     "id": "c1375c5673",
+     "id": "784ca6391d",
      "title": "PF-5618 (09.01.2019) - Huquqiy ong va huquqiy madaniyatni yuksaltirish to'g'risida",
-     "ext": "doc",
-     "size": 333680,
-     "file": "kitoblar/c1375c5673.doc"
+     "ext": "pdf",
+     "size": 651877,
+     "file": "kitoblar/784ca6391d.pdf"
     }
    ],
    "links": [
