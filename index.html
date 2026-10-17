@@ -597,9 +597,10 @@ $("#botlink").innerHTML = BOT_USERNAME ? `Telegram botda jonli seminar va reytin
 $("#fans").innerHTML = fanLinks();
 $("#subj").textContent = FAN.title;
 document.title = `${FAN.title} · Huquq Akademiyasi`;
-fetch(FAN.file).then(r => r.json()).then(d => {
+// ?v= — brauzer va GitHub keshidagi eski content.json o'rniga yangisini olish uchun (content.json yangilanganda oshiring)
+fetch(FAN.file + "?v=2").then(r => r.json()).then(d => {
   DATA = FAN.id === "dhn" ? d : (d.more || []).find(x => x.short === "JH");  // ikkala fan bitta faylda
-  if (!DATA) throw new Error("fan topilmadi");
+  if (!DATA) { $("#app").innerHTML = `<p>${esc(FAN.title)} hali saytga yuklanmagan. <a href="?fan=dhn#home">DHN ga qaytish</a></p>`; return; }
   buildPool(); updateDue();
   window.onhashchange = go; go();
 }).catch(() => { $("#app").innerHTML = `<p>Kontent yuklanmadi. Sahifani yangilang.</p>`; });
