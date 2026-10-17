@@ -482,7 +482,7 @@ function renderLibrary() {
       const bot = b => BOT_USERNAME ? `<a class="btn ghost" href="https://t.me/${BOT_USERNAME}?start=k${b.id}" target="_blank" rel="noopener">Botda</a>` : "";
       const open = b => b.file ? `<a class="btn" href="#oqish-${b.id}">O'qish</a>` : "";
       return `<section class="lib-cat"><h2>${esc(c.title)}</h2><ul class="lib">
-        ${books.map(b => `<li><span class="ico" aria-hidden="true">${ICON[b.ext] || "📄"}</span><span class="t"><b>${esc(b.title)}</b><small>${b.ext} · ${size(b.size)}${b.file ? "" : " · faqat botda"}</small></span><span class="acts">${open(b)}${bot(b)}</span></li>`).join("")}
+        ${books.map(b => `<li><span class="ico" aria-hidden="true">${ICON[b.ext] || "📄"}</span><span class="t"><b>${esc(b.title)}</b><small>${b.ext}${b.size ? " · " + size(b.size) : ""}${b.file ? "" : " · faqat botda"}</small></span><span class="acts">${open(b)}${bot(b)}</span></li>`).join("")}
         ${links.map(l => `<li><span class="ico" aria-hidden="true">🔗</span><span class="t"><b>${esc(l.title)}</b><small>lex.uz · amaldagi tahrir</small></span><span class="acts"><a class="btn ghost" href="${esc(l.url)}" target="_blank" rel="noopener">Ochish</a></span></li>`).join("")}
       </ul></section>`;
     }).join("");

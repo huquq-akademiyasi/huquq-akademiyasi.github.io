@@ -195,6 +195,41 @@
     "title": "Darsliklar va sharhlar",
     "books": [
      {
+      "id": "14ef87db14",
+      "title": "Rustambayev M.X. - Jinoyat huquqi kursi. 1-tom. Umumiy qism. Jinoyat haqida ta'limot (2018)",
+      "ext": "pdf",
+      "size": 0,
+      "file": "kitoblar/14ef87db14.pdf"
+     },
+     {
+      "id": "f3f9388498",
+      "title": "Rustambayev M.X. - Jinoyat huquqi kursi. 2-tom. Umumiy qism. Jazo haqida ta'limot (2018)",
+      "ext": "pdf",
+      "size": 0,
+      "file": "kitoblar/f3f9388498.pdf"
+     },
+     {
+      "id": "076f88bd6b",
+      "title": "Rustambayev M.X. - Jinoyat huquqi kursi. 3-tom. Maxsus qism. Shaxsga, tinchlik va xavfsizlikka qarshi jinoyatlar (2018)",
+      "ext": "pdf",
+      "size": 0,
+      "file": "kitoblar/076f88bd6b.pdf"
+     },
+     {
+      "id": "d751a61eb8",
+      "title": "Rustambayev M.X. - Jinoyat huquqi kursi. 4-tom. Maxsus qism. Iqtisodiyot, ekologiya va boshqaruv tartibiga qarshi jinoyatlar (2018)",
+      "ext": "pdf",
+      "size": 0,
+      "file": "kitoblar/d751a61eb8.pdf"
+     },
+     {
+      "id": "4a8a2f54bd",
+      "title": "Rustambayev M.X. - Jinoyat huquqi kursi. 5-tom. Maxsus qism. Jamoat xavfsizligi, jamoat tartibi va harbiy xizmatga qarshi jinoyatlar (2018)",
+      "ext": "pdf",
+      "size": 0,
+      "file": "kitoblar/4a8a2f54bd.pdf"
+     },
+     {
       "id": "45b3af8cf6",
       "title": "Rustambayev M.X. - Jinoyat kodeksiga sharhlar. Maxsus qism (2016)",
       "ext": "pdf",
