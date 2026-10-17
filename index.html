@@ -45,6 +45,10 @@ button{font:inherit;color:inherit;cursor:pointer}
 .nav a:hover{background:var(--seal-soft)}
 .nav a.on{background:var(--seal);color:var(--sheet)}
 .badge{font:500 .72rem var(--f-mono);background:var(--bad);color:var(--sheet);border-radius:99px;padding:1px 7px}
+.fans{display:flex;gap:4px;flex-wrap:wrap}
+.fans a{font:500 .74rem var(--f-mono);padding:4px 9px;border:1px solid var(--rule);border-radius:99px;color:var(--ink);text-decoration:none}
+.fans a.on{background:var(--seal);border-color:var(--seal);color:var(--sheet)}
+.mob-fans{display:none;margin:-8px 0 16px}
 .side-foot{margin-top:auto;font-size:.82rem;color:var(--muted)}
 main{padding-block:32px 96px;padding-inline:clamp(16px,4vw,56px);min-width:0}
 .wrap{max-width:68ch}
@@ -163,12 +167,13 @@ input[type=search]{width:100%;max-width:480px;padding:10px 12px;border:1px solid
 @media (max-width:820px){
   .shell{grid-template-columns:minmax(0,1fr)}
   .side{position:fixed;inset:auto 0 0 0;top:auto;height:auto;flex-direction:row;padding:6px 8px calc(6px + env(safe-area-inset-bottom,0px));border-right:0;border-top:1px solid var(--rule);z-index:5;gap:0}
-  .side .brand,.side-foot{display:none}
+  .side .brand,.side .fans,.side-foot{display:none}
   .nav{flex-direction:row;justify-content:space-around;width:100%;overflow-x:auto;scrollbar-width:none}
   .nav a{flex:none}
   .nav a{flex-direction:column;font-size:.72rem;padding:6px 4px;gap:2px}
   .hero,.blocks{grid-template-columns:minmax(0,1fr)}
   .mob-brand{display:block!important}
+  .mob-fans{display:flex!important}
 }
 .mob-brand{display:none;font:700 1.1rem var(--f-display);margin-bottom:16px;color:var(--ink);text-decoration:none}
 .mob-brand img{width:36px;height:36px;border-radius:9px;vertical-align:middle;margin-right:10px}
@@ -178,7 +183,8 @@ input[type=search]{width:100%;max-width:480px;padding:10px 12px;border:1px solid
 <body>
 <div class="shell">
   <aside class="side">
-    <a class="brand" href="#home"><img class="brand-logo" src="apple-touch-icon.png" alt="">Huquq Akademiyasi<small>Davlat va huquq nazariyasi</small></a>
+    <a class="brand" href="#home"><img class="brand-logo" src="apple-touch-icon.png" alt="">Huquq Akademiyasi<small id="subj">Davlat va huquq nazariyasi</small></a>
+    <div class="fans" id="fans"></div>
     <nav class="nav" id="nav">
       <a href="#home" data-r="home">Bosh sahifa</a>
       <a href="#mavzular" data-r="mavzu">Mavzular</a>
@@ -200,9 +206,17 @@ const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const inline = s => esc(s).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+// Fanlar: har birining kontenti va brauzerdagi natijalari alohida. Tanlov ?fan=jh havolasi yoki oxirgi tanlovdan.
+const FANS = [{id: "dhn", file: "content.json", title: "Davlat va huquq nazariyasi", short: "DHN"},
+              {id: "jh", file: "content.json", title: "Jinoyat huquqi", short: "Jinoyat huquqi"}];
+const FAN = (() => {
+  let id = new URLSearchParams(location.search).get("fan");
+  try { if (id) localStorage.setItem("ha_fan", id); else id = localStorage.getItem("ha_fan"); } catch {}
+  return FANS.find(f => f.id === id) || FANS[0];
+})();
 const store = {
-  get(k, d) { try { const v = localStorage.getItem("dhn_" + k); return v ? JSON.parse(v) : d; } catch { return d; } },
-  set(k, v) { try { localStorage.setItem("dhn_" + k, JSON.stringify(v)); } catch {} }
+  get(k, d) { try { const v = localStorage.getItem(FAN.id + "_" + k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(FAN.id + "_" + k, JSON.stringify(v)); } catch {} }
 };
 const DAY = 864e5, REVIEW_GAPS = [1, 3, 7];
 let DATA, POOL = {};
@@ -263,26 +277,28 @@ function go() {
   window.scrollTo(0, 0);
   app.focus?.();
 }
-const mobBrand = `<a class="mob-brand" href="#home"><img src="apple-touch-icon.png" alt="">Huquq Akademiyasi</a>`;
+const fanLinks = () => FANS.map(f => `<a href="?fan=${f.id}#home" class="${f === FAN ? "on" : ""}">${esc(f.short)}</a>`).join("");
+const mobBrand = `<a class="mob-brand" href="#home"><img src="apple-touch-icon.png" alt="">Huquq Akademiyasi</a><div class="fans mob-fans">${fanLinks()}</div>`;
 
 function renderHome() {
   const t = DATA.topics, tests = t.reduce((s, x) => s + x.tests.length, 0), terms = t.reduce((s, x) => s + x.terms.length, 0);
-  const half = 7; // 1–7: davlat nazariyasi, 8–15: huquq nazariyasi
+  const home = DATA.home || {eyebrow: "O'quv kursi · 1-qism", parts: [["Davlat nazariyasi", 1, 7], ["Huquq nazariyasi", 8, 15]],
+    lead: "Mavzulashtirilgan ma'ruzalar, taqdimotlar, tayanch atamalar, keyslar va testlar. O'qing, mashq qiling, xatolaringizni 1, 3 va 7 kundan keyin qayta ishlang.",
+    article: ["Konstitutsiya, 1-modda", "O'zbekiston — boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat."]};
   const item = x => `<li><a href="#mavzu-${x.no}"><span class="n">${String(x.no).padStart(2, "0")}</span><span>${esc(x.title)}<span class="meta">${x.lecture.length} bo'lim · ${x.tests.length} test · ${x.terms.length} atama</span></span></a></li>`;
   $("#app").innerHTML = `${mobBrand}<div class="wide">
   <div class="hero">
     <div class="stack">
-      <span class="eyebrow">O'quv kursi · 1-qism</span>
-      <h1>Davlat va huquq nazariyasi</h1>
-      <p class="lead">Mavzulashtirilgan ma'ruzalar, taqdimotlar, tayanch atamalar, keyslar va testlar. O'qing, mashq qiling, xatolaringizni 1, 3 va 7 kundan keyin qayta ishlang.</p>
+      <span class="eyebrow">${esc(home.eyebrow)}</span>
+      <h1>${esc(DATA.subject)}</h1>
+      <p class="lead">${esc(home.lead)}</p>
       <div class="row"><a class="btn" href="#mavzu-1">1-mavzudan boshlash</a><a class="btn ghost" href="#test">Test ishlash</a>${botBtn()}</div>
       <div class="figures"><div>${t.length}<span>mavzu</span></div><div>${tests + terms}<span>savol</span></div><div>${terms}<span>tayanch atama</span></div></div>
     </div>
-    <div class="article"><b>Konstitutsiya, 1-modda</b>O'zbekiston — boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat.</div>
+    <div class="article"><b>${esc(home.article[0])}</b>${esc(home.article[1])}</div>
   </div>
   <div class="blocks">
-    <section><h2>Davlat nazariyasi</h2><ul class="toc">${t.slice(0, half).map(item).join("")}</ul></section>
-    <section><h2>Huquq nazariyasi</h2><ul class="toc">${t.slice(half).map(item).join("")}</ul></section>
+    ${home.parts.map(([title, a, b]) => `<section><h2>${esc(title)}</h2><ul class="toc">${t.filter(x => x.no >= a && x.no <= b).map(item).join("")}</ul></section>`).join("")}
   </div></div>`;
 }
 function botBtn() { return BOT_USERNAME ? `<a class="btn ghost" href="https://t.me/${BOT_USERNAME}" target="_blank" rel="noopener">Telegram bot</a>` : ""; }
@@ -578,8 +594,13 @@ function renderResults() {
 }
 
 $("#botlink").innerHTML = BOT_USERNAME ? `Telegram botda jonli seminar va reyting: <a href="https://t.me/${BOT_USERNAME}" target="_blank" rel="noopener">@${BOT_USERNAME}</a>` : "";
-fetch("content.json").then(r => r.json()).then(d => {
-  DATA = d; buildPool(); updateDue();
+$("#fans").innerHTML = fanLinks();
+$("#subj").textContent = FAN.title;
+document.title = `${FAN.title} · Huquq Akademiyasi`;
+fetch(FAN.file).then(r => r.json()).then(d => {
+  DATA = FAN.id === "dhn" ? d : (d.more || []).find(x => x.short === "JH");  // ikkala fan bitta faylda
+  if (!DATA) throw new Error("fan topilmadi");
+  buildPool(); updateDue();
   window.onhashchange = go; go();
 }).catch(() => { $("#app").innerHTML = `<p>Kontent yuklanmadi. Sahifani yangilang.</p>`; });
 </script>
