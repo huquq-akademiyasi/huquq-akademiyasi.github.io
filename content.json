@@ -415,6 +415,292 @@
       "Konfederativ ittifoq a'zosi bo'lgan davlat"
      ],
      "answer": 0
+    },
+    {
+     "q": "Davlat va huquq nazariyasining umumnazariy (fundamental) fan ekanligi nimada namoyon bo'ladi?",
+     "options": [
+      "U barcha davlat-huquqiy hodisalar uchun umumiy bo'lgan qonuniyatlarni o'rganadi",
+      "U faqat jinoyat huquqi normalarini o'rganadi",
+      "U faqat amaldagi qonunlarni sharhlaydi",
+      "U davlatlar tarixini xronologik tartibda bayon qiladi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 10–11; O: 8)"
+    },
+    {
+     "q": "Odilqoriyev darsligida davlat va huquq nazariyasi yurisprudensiyaning nimasi deb ataladi?",
+     "options": [
+      "«Alifbosi»",
+      "«Toji»",
+      "«Qalqoni»",
+      "«Xulosasi»"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (8)"
+    },
+    {
+     "q": "Davlat va huquq nazariyasining predmeti qanday ikki katta blokka ajratiladi?",
+     "options": [
+      "Davlat nazariyasi va huquq nazariyasi",
+      "Konstitutsiyaviy huquq va fuqarolik huquqi",
+      "Davlat tarixi va huquq tarixi",
+      "Xalqaro huquq va milliy huquq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (8)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri «davlat nazariyasi» blokiga kiradi?",
+     "options": [
+      "Davlat shakli va davlat mexanizmi",
+      "Huquq normalari va huquq manbalari",
+      "Huquqbuzarlik va yuridik javobgarlik",
+      "Huquqiy ong va huquqiy madaniyat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (8, 15)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri «huquq nazariyasi» blokiga kiradi?",
+     "options": [
+      "Huquqiy munosabatlar",
+      "Davlat tipologiyasi",
+      "Siyosiy rejim",
+      "Jamiyatning siyosiy tizimi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (8, 15)"
+    },
+    {
+     "q": "Davlat va huquq nazariyasining predmeti nimani qamrab oladi?",
+     "options": [
+      "Amaldagi davlat va huquqni hamda ular haqidagi g'oyalar, ta'limotlar va nazariyalarni",
+      "Faqat amaldagi qonunlarni",
+      "Faqat qadimgi davlatlarni",
+      "Faqat xalqaro shartnomalarni"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (7)"
+    },
+    {
+     "q": "Konstitutsiyaviy huquq ham, davlat va huquq nazariyasi ham davlatni o'rganadi. Bu fanlar bir-biridan nima bilan farqlanadi?",
+     "options": [
+      "Predmeti bilan",
+      "Obyekti bilan",
+      "Hech narsa bilan farqlanmaydi",
+      "Faqat o'qitish tili bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Saydullayev (O: 14)"
+    },
+    {
+     "q": "Fanning predmeti «nima o'rganiladi?» degan savolga javob bersa, metod qaysi savolga javob beradi?",
+     "options": [
+      "«Qanday o'rganiladi?»",
+      "«Kim o'rganadi?»",
+      "«Qachon o'rganiladi?»",
+      "«Qayerda o'rganiladi?»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (12)"
+    },
+    {
+     "q": "«Metod» (yunoncha «methodos») so'zi qanday ma'noni anglatadi?",
+     "options": [
+      "Tadqiqot yo'li, bilish usuli",
+      "Qonun, qoida",
+      "Hokimiyat, boshqaruv",
+      "Tartib, intizom"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (15–16)"
+    },
+    {
+     "q": "Davlat va huquqni doimiy rivojlanishda, boshqa hodisalar bilan aloqadorlikda va ichki qarama-qarshiliklari orqali o'rganishni talab etadigan yondashuv qaysi?",
+     "options": [
+      "Dialektik yondashuv",
+      "Metafizik yondashuv",
+      "Formal-yuridik metod",
+      "Statistik metod"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (18)"
+    },
+    {
+     "q": "Davlat va huquqni o'zgarmas va jamiyatdan ajralgan holda ko'radigan, darslikda tanqid qilingan yondashuv qaysi?",
+     "options": [
+      "Metafizik yondashuv",
+      "Dialektik yondashuv",
+      "Tarixiy metod",
+      "Tizimli-strukturaviy metod"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (18–19)"
+    },
+    {
+     "q": "Xususiydan umumiyga qarab fikr yuritish qaysi metod?",
+     "options": [
+      "Induksiya",
+      "Deduksiya",
+      "Sintez",
+      "Modellashtirish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (metodlar ro'yxati) (12)"
+    },
+    {
+     "q": "Davlat va huquqni elementlar va ular o'rtasidagi aloqalar orqali yaxlit tizim sifatida o'rganish qaysi metod?",
+     "options": [
+      "Tizimli-strukturaviy metod",
+      "Tarixiy metod",
+      "Qiyosiy-huquqiy metod",
+      "Aniq-sotsiologik metod"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (21–22)"
+    },
+    {
+     "q": "Anketa so'rovlari va intervyular orqali huquqning jamiyatdagi real ta'sirini o'rganish qaysi metod?",
+     "options": [
+      "Aniq-sotsiologik metod",
+      "Formal-yuridik metod",
+      "Dialektik metod",
+      "Deduksiya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (22)"
+    },
+    {
+     "q": "Yangi huquqiy mexanizmni avval muayyan hududda yoki muddatda sinovdan o'tkazish qaysi metodga kiradi?",
+     "options": [
+      "Huquqiy (ijtimoiy) eksperiment",
+      "Huquqiy modellashtirish",
+      "Statistik metod",
+      "Abstraktlash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (13)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, 1991-yilda Toshkent shahri hokimi lavozimining tajriba tariqasida joriy etilishi qaysi metodga misol bo'ladi?",
+     "options": [
+      "Ijtimoiy eksperiment metodi",
+      "Qiyosiy-huquqiy metod",
+      "Kibernetik metod",
+      "Mantiqiy metod"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (25–26)"
+    },
+    {
+     "q": "Turli davlat-huquqiy hodisalar o'rtasidagi o'xshashlik tufayli ulardan birining modelini o'rganib, boshqalari haqida xulosa chiqarish qaysi usul?",
+     "options": [
+      "Modellashtirish",
+      "Ijtimoiy eksperiment",
+      "Statistik metod",
+      "Tarixiy metod"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (13)"
+    },
+    {
+     "q": "Huquqbuzarliklar va sud ishlari sonining o'zgarishini raqamlar asosida tahlil qilish qaysi metod?",
+     "options": [
+      "Statistik metod",
+      "Formal-yuridik metod",
+      "Dialektik metod",
+      "Germenevtik yondashuv"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (22)"
+    },
+    {
+     "q": "Yangi ilmiy bilimlarni kashf etish va fanning rivojlanishini ta'minlash fanning qaysi funksiyasi?",
+     "options": [
+      "Evristik",
+      "Ontologik",
+      "Mafkuraviy-tarbiyaviy",
+      "Prognostik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (14)"
+    },
+    {
+     "q": "Huquqiy ong va huquqiy madaniyatni, qonun ustuvorligiga hurmatni shakllantirish fanning qaysi funksiyasi?",
+     "options": [
+      "Mafkuraviy-tarbiyaviy",
+      "Evristik",
+      "Metodologik",
+      "Ontologik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Saydullayev (O: 33; S: 14)"
+    },
+    {
+     "q": "Ichki va tashqi siyosat uchun ilmiy asos yaratish, davlat qurilishi va boshqaruvi bo'yicha tavsiyalar berish fanning qaysi funksiyasi?",
+     "options": [
+      "Siyosiy-boshqaruv",
+      "Prognostik",
+      "Ontologik",
+      "Evristik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (14)"
+    },
+    {
+     "q": "Davlat-huquqiy hodisalarning mohiyati va qonuniyatlarini ochib berish fanning qaysi funksiyasi?",
+     "options": [
+      "Ontologik (bilish)",
+      "Metodologik",
+      "Amaliy-siyosiy",
+      "Mafkuraviy-tarbiyaviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (13)"
+    },
+    {
+     "q": "Kriminalistika va sud tibbiyoti yuridik fanlarning qaysi guruhiga kiradi?",
+     "options": [
+      "Amaliy (maxsus) yuridik fanlar",
+      "Nazariy-tarixiy fanlar",
+      "Protsessual fanlar",
+      "Xalqaro-huquqiy fanlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 11; O: 31)"
+    },
+    {
+     "q": "Davlat va huquq nazariyasi davlat va huquq tarixidan nimasi bilan farq qiladi?",
+     "options": [
+      "Tarix muayyan davlatlar rivojini aniq faktlar asosida o'rganadi, nazariya esa ulardan umumiy qonuniyatlarni chiqaradi",
+      "Nazariya faqat qadimgi davlatlarni o'rganadi",
+      "Tarix davlat va huquq kelajagini bashorat qiladi",
+      "Ular hech narsa bilan farq qilmaydi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 11; O: 32)"
+    },
+    {
+     "q": "Falsafa va davlat va huquq nazariyasining chegaradosh sohasida qaysi fan shakllangan?",
+     "options": [
+      "Huquq falsafasi",
+      "Kriminologiya",
+      "Yuridik texnika",
+      "Sud buxgalteriyasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (26–27)"
+    },
+    {
+     "q": "Yangi tahrirdagi O'zbekiston Respublikasi Konstitutsiyasi qachon umumxalq referendumida qabul qilingan?",
+     "options": [
+      "2023-yil 30-aprelda",
+      "1992-yil 8-dekabrda",
+      "2022-yil 8-dekabrda",
+      "2021-yil 24-oktabrda"
+     ],
+     "answer": 0,
+     "src": "O'zbekiston Respublikasi Konstitutsiyasi (lex.uz) ()"
     }
    ]
   },
@@ -822,6 +1108,336 @@
       "Rahbarlarning umumiy yig'ilishda saylanishi"
      ],
      "answer": 0
+    },
+    {
+     "q": "Tor ma'noda «jamiyat» deganda nima tushuniladi?",
+     "options": [
+      "Kishilarning maqsad yo'lida birlashgan uyushmasi",
+      "Muayyan hududda yashovchi barcha aholining umumiy yig'indisi",
+      "Sinflarning bir-biriga qarama-qarshi kurashi natijasi",
+      "Davlat organlari va mansabdor shaxslarning to'liq majmui"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (19)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra jamiyatning birinchi tabiiy bo'g'inini tashkil etuvchi institut qaysi?",
+     "options": [
+      "Oila",
+      "Davlat",
+      "Siyosiy partiya",
+      "Qabilalar ittifoqi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (20)"
+    },
+    {
+     "q": "Saydullayev darsligida hokimiyatga qanday ta'rif berilgan?",
+     "options": [
+      "Ikki yoki undan ko'p subyekt o'rtasida bo'ysunuvga asoslangan munosabatlar tizimi",
+      "Faqat davlat organlari tomonidan qabul qilinadigan va bajarilishi shart bo'lgan qarorlar yig'indisi",
+      "Jamiyat a'zolarining ixtiyoriy kelishuvi bilan tuzilgan mulkiy shartnoma",
+      "Urug' a'zolari o'rtasida mehnat mahsulotini teng taqsimlash tartibi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (21)"
+    },
+    {
+     "q": "Jamiyat rivojiga ta'sir etuvchi omillardan qaysi biri obyektiv omil hisoblanadi?",
+     "options": [
+      "Aholi yashaydigan hudud va iqlim sharoiti",
+      "Muayyan siyosiy partiyaning hokimiyat tepasiga kelishi",
+      "Amir Temur kabi tarixiy shaxslarning faoliyati",
+      "Xalq qo'zg'olonlari va inqiloblar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (22)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra ibtidoiy jamiyatda ijtimoiy normalar asosan qanday ko'rinishda bo'lgan?",
+     "options": [
+      "Odatlar ko'rinishida",
+      "Yozma qonunlar ko'rinishida",
+      "Sud pretsedentlari ko'rinishida",
+      "Xalqaro shartnomalar ko'rinishida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (24)"
+    },
+    {
+     "q": "Ibtidoiy jamiyatda ijtimoiy normalarga amal qilinishi qanday chora bilan ta'minlangan?",
+     "options": [
+      "Ishontirish va majburlash (masalan, urug'dan quvish) bilan",
+      "Davlat tomonidan tayinlangan maxsus politsiya, prokuratura va sud organlari bilan",
+      "Jarima va qamoq jazolari bilan",
+      "Faqat davlat armiyasining kuchi bilan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (24–25)"
+    },
+    {
+     "q": "Ko'pchilik adabiyotlarga ko'ra ibtidoiy jamiyatda dastlab qanday normalar tizimi vujudga kelgan?",
+     "options": [
+      "Tabu – taqiqlovchi normalar",
+      "A'zolarning huquq va majburiyatlarini belgilovchi normalar",
+      "Yozma qonunlarga asoslangan normalar",
+      "Davlat tomonidan sanksiyalangan normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Saydullayev (O: 41; S: 24)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ibtidoiy jamoada qaror topgan ekzogamiya nimani anglatadi?",
+     "options": [
+      "Yaqin qarindoshlar o'rtasida nikohning taqiqlanishini",
+      "Urug' boshlig'ining umrbod saylanishini",
+      "Ov o'ljasining faqat ovchilarga berilishini",
+      "Qabila hududidan begona kishilarning majburan chiqarib yuborilishini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (39)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra urug'lar qanday yirikroq tuzilmalarni tashkil qilgan?",
+     "options": [
+      "Fratriya, qabila, qabilalar ittifoqi",
+      "Oila, mahalla, viloyat",
+      "Sinf, tabaqa, kasta",
+      "Shahar-davlat, imperiya va federatsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (24)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra urug' oqsoqoli lavozimi uning egasiga qanday imtiyoz bergan?",
+     "options": [
+      "Hech qanday imtiyoz bermagan, u oddiy a'zolar kabi mehnat qilgan",
+      "Urug' mulkini meros qilib qoldirish huquqini bergan",
+      "Mehnat qilmasdan eng katta ulush olish huquqini bergan",
+      "Mehnat qilmasdan urug' mahsulotidan eng katta ulushni olish huquqini bergan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (40)"
+    },
+    {
+     "q": "Urug' yig'inida kimlar ishtirok etgan?",
+     "options": [
+      "Urug'ning voyaga yetgan barcha erkak va ayol a'zolari teng ravishda",
+      "Faqat urug' oqsoqollari, kohinlar va saylangan harbiy boshliqlar hamda ularning yordamchilari",
+      "Faqat harbiy boshliqlar va jangchilar",
+      "Faqat mulkdor oilalarning boshliqlari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 25; O: 40)"
+    },
+    {
+     "q": "Urug'chilik tuzumida diniy qoidalarni shakllantirgan va diniy sudlovni amalga oshirgan tuzilma qaysi?",
+     "options": [
+      "Kohinlar",
+      "Harbiy boshliqlar",
+      "Oqsoqollar kengashi",
+      "Qabilalar ittifoqi kengashi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (25)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra «jamiyat» va «davlat» tushunchalari nisbati qanday?",
+     "options": [
+      "Jamiyat kengroq tushuncha, davlat uning faqat siyosiy qismi",
+      "Davlat kengroq tushuncha, jamiyat uning bir qismi",
+      "Ikkala tushuncha ayni bir ma'noni anglatadi",
+      "Jamiyat davlat vujudga kelgandan keyin, uning ichida va uning tashabbusi bilan shakllangan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (26)"
+    },
+    {
+     "q": "Davlat kelib chiqishining «osiyocha» yo'lida asosiy omil sifatida nima e'tirof etiladi?",
+     "options": [
+      "Sug'orma dehqonchilik uchun yirik irrigatsiya ishlarini tashkil etish zarurati",
+      "Xususiy mulk asosida jamiyatning boy va kambag'al tabaqalarga bo'linib ketishi va mulkiy tengsizlik",
+      "Ko'chmanchi qabilalarning qo'shni xalqlarni bosib olishi",
+      "Cherkovning dunyoviy hukmdorlarga yorliq berishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (27–28)"
+    },
+    {
+     "q": "Davlat kelib chiqishining «yevropacha» yo'lida asosiy omil nima bo'lgan?",
+     "options": [
+      "Xususiy mulkning shakllanishi va mulkiy tengsizlik",
+      "Yirik irrigatsiya inshootlarini barpo etish va ularni boshqarish zarurati",
+      "Xudoning irodasi va hukmdorning ilohiyligi",
+      "Oilaning kengayib, katta oilaga aylanishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (28)"
+    },
+    {
+     "q": "Quyidagi mutafakkirlardan qaysi biri teologik nazariya vakillari qatorida keltiriladi?",
+     "options": [
+      "Foma Akvinskiy",
+      "L. Gumplovich",
+      "L. Petrajitskiy",
+      "K. Vittfogel"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 28; O: 44)"
+    },
+    {
+     "q": "G'arbiy Yevropada keng tarqalgan «ikki qilich» nazariyasi nimani asoslagan?",
+     "options": [
+      "Cherkovning dunyoviy davlat ustidan ustunligini",
+      "Qonun chiqaruvchi va ijro hokimiyatlarining tengligini",
+      "Ikki davlat o'rtasidagi harbiy ittifoqni",
+      "Hokimiyatni xalq va hukmdor o'rtasida taqsimlashni"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (28)"
+    },
+    {
+     "q": "XVII asrda «Patriarx» asarida patriarxal nazariya g'oyalarini rivojlantirgan ingliz olimi kim?",
+     "options": [
+      "Filmer",
+      "Jon Lokk",
+      "Tomas Gobbs",
+      "Tomas Mor"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 29; O: 50)"
+    },
+    {
+     "q": "R. Filmerning qarashiga ko'ra hukmdorlar o'z hokimiyatini kimdan olgan?",
+     "options": [
+      "Odam Atodan",
+      "Xalq bilan tuzilgan shartnomadan",
+      "G'olib qabiladan",
+      "Rim papasidan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (50–51)"
+    },
+    {
+     "q": "Konfutsiy qadimgi Xitoy an'analari asosida imperatorni qanday atagan?",
+     "options": [
+      "«Osmon o'g'li»",
+      "«Xalq xizmatkori»",
+      "«Birinchi fuqaro»",
+      "«Qabila oqsoqoli»"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (50)"
+    },
+    {
+     "q": "Arastuning fikricha, davlat qanday yo'l bilan vujudga keladi?",
+     "options": [
+      "Oilalar kengayib qishloqlarni, qishloqlar yig'indisi esa davlatni tashkil etadi",
+      "Kuchli qabila kuchsiz qabilani bosib olib, uni doimiy ravishda o'ziga bo'ysundirib, soliq to'latadi",
+      "Ozod kishilar ixtiyoriy shartnoma tuzib hukmdor saylaydi",
+      "Xudo hokimiyatni bevosita tanlangan hukmdorga topshiradi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (47, 50)"
+    },
+    {
+     "q": "Rim huquqshunoslariga ko'ra rim fuqarolari bilan boshqa xalqlar o'rtasidagi mulkiy munosabatlarni tartibga soluvchi huquq qanday atalgan?",
+     "options": [
+      "Ius gentium",
+      "Ius civile",
+      "Ius naturale",
+      "Ius divinum"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (47)"
+    },
+    {
+     "q": "Qadimgi Xitoyda birinchilardan bo'lib davlat vujudga kelishining shartnoma nazariyasini ilgari surgan mutafakkir kim?",
+     "options": [
+      "Mo-Szi",
+      "Konfutsiy",
+      "Lao-Szi",
+      "Shan Yan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (51)"
+    },
+    {
+     "q": "Insonning tabiiy holatini «hammaning hammaga qarshi urushi» deb tavsiflagan mutafakkir kim?",
+     "options": [
+      "T. Gobbs",
+      "J.J. Russo",
+      "J. Lokk",
+      "Sh. Monteskye"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (54)"
+    },
+    {
+     "q": "Materialistik nazariyaning asosiy qoidalari F. Engelsning qaysi asarida ifodalangan?",
+     "options": [
+      "«Oila, xususiy mulk va davlatning kelib chiqishi»",
+      "«Ijtimoiy shartnoma to'g'risida»",
+      "«Qonunlar ruhi to'g'risida»",
+      "«Kishilar o'rtasidagi tengsizlikning kelib chiqish asoslari»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 30; O: 70)"
+    },
+    {
+     "q": "T. Gobbs davlatni inson tanasiga qiyoslab, fuqarolar urushini nimaga o'xshatgan?",
+     "options": [
+      "O'limga",
+      "Kasallikka",
+      "Sog'liqqa",
+      "Uyquga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (57)"
+    },
+    {
+     "q": "Aflotunning organik qarashlarida inson ruhining uch asosiga davlatdagi qaysi uch tabaqa mos keladi?",
+     "options": [
+      "Hukmdorlar, askarlar va ishlab chiqaruvchilar",
+      "Qullar, quldorlar va kohinlar",
+      "Dehqonlar, savdogarlar va hunarmandlar",
+      "Dehqonlar, savdogarlar, hunarmandlar va ruhoniylar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (57)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra konstitutsiyani muayyan darajada nima deb ta'riflash mumkin?",
+     "options": [
+      "Ijtimoiy shartnoma",
+      "Hukmdorning ilohiy farmoni",
+      "G'olib sinfning zo'rlik quroli",
+      "Odat huquqi to'plami"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (29–30)"
+    },
+    {
+     "q": "O'zbekiston Respublikasi Konstitutsiyasining qaysi bo'limi «Jamiyat va shaxs» deb nomlanadi?",
+     "options": [
+      "Uchinchi bo'lim",
+      "Birinchi bo'lim",
+      "Ikkinchi bo'lim",
+      "Beshinchi bo'lim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya (bo'limlar tuzilishi) (S: 31)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra inson huquq va erkinliklaridan qanday holatda mahrum etish yoki ularni cheklash mumkin emas?",
+     "options": [
+      "Sud qarorisiz",
+      "Prezident farmonisiz",
+      "Mahalla yig'inining roziligisiz",
+      "Prokuror sanksiyasisiz"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 20-modda (S: 32)"
     }
    ]
   },
@@ -1213,6 +1829,336 @@
       "Ateistik"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlatning yuridik mazmundagi ta'rifi qaysi?",
+     "options": [
+      "Hududda ommaviy hokimiyatni amalga oshiruvchi, umummajburiy normalar o'rnatuvchi, suveren siyosiy tashkilot",
+      "Hukmron sinf manfaatlariga xizmat qiluvchi va boshqa barcha sinflarni zo'rlik bilan bostiruvchi siyosiy tashkilot",
+      "Qon-qarindoshlik asosida birlashgan va oqsoqollar boshqaradigan kishilar jamoasi",
+      "Muayyan maqsad yo'lida ixtiyoriy birlashgan, a'zolik badali bilan ishlaydigan uyushma"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (35)"
+    },
+    {
+     "q": "Sinfiy nuqtai nazardan davlatga qanday ta'rif beriladi?",
+     "options": [
+      "Iqtisodiy va siyosiy hukmron sinf manfaatlariga xizmat qiluvchi siyosiy tashkilot",
+      "Barcha ijtimoiy guruhlar manfaatlarini teng muvofiqlashtiruvchi, hech kimga bog'liq bo'lmagan neytral hakam",
+      "Faqat tashqi xavfdan himoyalanish uchun tuzilgan harbiy ittifoq",
+      "Fuqarolarning ixtiyoriy shartnomasi asosida tuzilgan xo'jalik birlashmasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (35)"
+    },
+    {
+     "q": "Davlatni «millat miqyosidagi huquqiy tartib» deb ta'riflagan legistik yondashuv vakili kim?",
+     "options": [
+      "H. Kelzen",
+      "N. Makiavelli",
+      "A. Toynbi",
+      "J. Boden"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 35–36; O: 68–69)"
+    },
+    {
+     "q": "Kelzenning davlatni «ijtimoiy biologik shakl» sifatidagi talqini qaysi nazariya tarafdorlari tomonidan qo'llanilgan?",
+     "options": [
+      "Davlat paydo bo'lishining organik nazariyasi",
+      "Davlat paydo bo'lishining irrigatsiya nazariyasi",
+      "Davlat paydo bo'lishining patriarxal nazariyasi",
+      "Davlat paydo bo'lishining teologik nazariyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 36; O: 69)"
+    },
+    {
+     "q": "Davlat hududi o'z ichiga nimalarni qamrab oladi?",
+     "options": [
+      "Quruqlik, suv, yer osti va havo makonini",
+      "Faqat quruqlik va uning chegaralarini",
+      "Faqat aholi yashaydigan shahar va qishloqlarni",
+      "Faqat davlat mulkidagi yer uchastkalarini"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 37; O: 72–73)"
+    },
+    {
+     "q": "Davlatning qaysi belgisi davlat hokimiyatini yuridik rasmiylashtirib, uni legitim (qonuniy) qiladi?",
+     "options": [
+      "Huquq tizimining mavjudligi",
+      "Soliq tizimiga egaligi",
+      "Davlat ramzlarining mavjudligi",
+      "Aholining hududiy bo'linishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (37)"
+    },
+    {
+     "q": "Davlatning qaysi belgisi davlat organlari faoliyati moliyalashtiriladigan moddiy-moliyaviy bazani shakllantiradi?",
+     "options": [
+      "Soliq tizimiga egaligi",
+      "Huquq tizimining mavjudligi",
+      "Hududiy yaxlitligi",
+      "Fuqarolik instituti"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 37; O: 75–76)"
+    },
+    {
+     "q": "F. Engels davlatning asosiy belgilari sifatida nimalarni ko'rsatgan?",
+     "options": [
+      "Aholining hududiy bo'linishi, ommaviy-siyosiy hokimiyat va soliqlar tizimi",
+      "Davlat bayrog'i, gerbi, madhiyasi va poytaxtining mavjudligi",
+      "Konstitutsiya, ikki palatali parlament va mustaqil sud hokimiyatining mavjudligi",
+      "Davlat tili, davlat dini va xalqaro tan olinishning mavjudligi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (70)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra davlat bayrog'i, gerbi va madhiyasi nima hisoblanadi?",
+     "options": [
+      "Davlatning ramzlari",
+      "Davlatning asosiy belgilari",
+      "Davlatning funksiyalari",
+      "Davlat mexanizmining qismlari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 5-modda (O: 71)"
+    },
+    {
+     "q": "Odilqoriyev darsligida konstitutsiya davlat mavjudligining sharti emasligiga qaysi davlat misol qilib keltirilgan?",
+     "options": [
+      "Buyuk Britaniya",
+      "Fransiya",
+      "AQSH",
+      "Amerika Qo'shma Shtatlari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (71)"
+    },
+    {
+     "q": "Davlat 1) insonlar jamoasi, 2) muayyan hudud, 3) suveren hokimiyat, 4) hukumatdan tashkil topadi, degan olim kim?",
+     "options": [
+      "L. Dyugi",
+      "G.F. Shershenevich",
+      "N.M. Korkunov",
+      "I. Kant"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (62)"
+    },
+    {
+     "q": "«Davlat – bu xalq ishi» degan ta'rifni bergan qadimgi Rim mutafakkiri kim?",
+     "options": [
+      "M.T. Siseron",
+      "Seneka",
+      "Polibiy",
+      "Avreliy Avgustin"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (59)"
+    },
+    {
+     "q": "Suverenitetni «davlatning doimiy va mutlaq hokimiyati» deb ta'riflagan fransuz mutafakkiri kim?",
+     "options": [
+      "Jan Boden",
+      "Sharl Monteskye",
+      "Jan Jak Russo",
+      "Pol Golbax"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (63)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra fuqarolik nima?",
+     "options": [
+      "Shaxsning davlat bilan o'zaro huquq, majburiyat va javobgarlikda ifodalanadigan barqaror huquqiy aloqasi",
+      "Shaxsning muayyan hududda doimiy yoki vaqtincha istiqomat qilish uchun belgilangan tartibda ro'yxatdan o'tganligi",
+      "Shaxsning muayyan millat yoki etnik guruhga mansubligi",
+      "Shaxsning davlat xizmatida ishlash huquqi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (73)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra quyidagilardan qaysi biri davlat suverenitetining ifodasi hisoblanadi?",
+     "options": [
+      "Ichki va tashqi siyosat masalalarida mustaqil qaror qabul qila olish",
+      "Davlat bayrog'i, gerbi va madhiyasining maxsus qonun bilan tasdiqlanganligi",
+      "Davlat poytaxtining hech qachon o'zgarmasligi",
+      "Davlat qarorlarining siyosiy partiyalar bilan kelishilishi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (74–75)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra davlat suvereniteti yana nimada ifodalanadi?",
+     "options": [
+      "Partiyalar, jamoat birlashmalari kabi boshqa ijtimoiy hokimiyatlar qarorlarini bekor qila olishida",
+      "Boshqa davlatlar qonunlari va sud qarorlarini hech qanday tartibsiz o'z hududida bevosita va to'g'ridan-to'g'ri qo'llashida",
+      "Xalqaro tashkilotlar qarorlarini e'tiborga olmaslik huquqida",
+      "Davlat organlarining faqat bir siyosiy partiyadan tuzilishida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (75)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat hokimiyatining universal xarakteri nimada namoyon bo'ladi?",
+     "options": [
+      "U mamlakatning butun hududi va aholisiga nisbatan tatbiq etiladi",
+      "U faqat davlat xizmatchilari va harbiy xizmatchilarga nisbatan tatbiq etiladi",
+      "U faqat urush davrida amal qiladi",
+      "U bir necha davlatlar hududida birdek amal qiladi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (41)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra hokimiyat ijtimoiy darajalariga ko'ra qanday tasniflanadi?",
+     "options": [
+      "Butun jamiyat, muayyan jamoa va ikki individ munosabatlari doirasidagi hokimiyat",
+      "Qonun chiqaruvchi, ijro etuvchi va sud hokimiyati",
+      "Markaziy, mintaqaviy va mahalliy hokimiyat",
+      "Markaziy, mintaqaviy, mahalliy va xalqaro darajadagi hokimiyat hamda ularning organlari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (41)"
+    },
+    {
+     "q": "Davlatni katta korporatsiya sifatida tasavvur qilib, jamiyatni mutaxassis-menejerlar boshqarishi lozim, deydigan nazariya qaysi?",
+     "options": [
+      "Texnokratik nazariya",
+      "Elita nazariyasi",
+      "Konvergensiya nazariyasi",
+      "Plyuralistik demokratiya nazariyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 38–39; O: 67)"
+    },
+    {
+     "q": "Hozirgi jamiyatda sinflar amalda yo'qolib ketgan, jamiyat strata (ijtimoiy birlashma)lar yig'indisidan iborat, degan g'oya qaysi nazariyaga xos?",
+     "options": [
+      "Plyuralistik demokratiya nazariyasi",
+      "Tarixiy-materialistik nazariya",
+      "Davlatning tarixiy-materialistik nazariyasi",
+      "Teologik nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (39)"
+    },
+    {
+     "q": "«Umumiy farovonlik davlati» nazariyasining asosiy g'oyalari XX asrning 30-yillarida kim tomonidan ta'riflab berilgan?",
+     "options": [
+      "D. Keyns",
+      "V. Pareto",
+      "T. Veblen",
+      "R. Dal"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 39; O: 68)"
+    },
+    {
+     "q": "Umumfarovonlik davlati nazariyasi qaysi qarashga qarshi chiqqan?",
+     "options": [
+      "Davlatning ijtimoiy hayotga aralashmasligi («tungi qorovul» davlat) qarashiga",
+      "Davlat hokimiyatini bo'linish prinsipi asosida tashkil etish qarashiga",
+      "Davlat hokimiyatini qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linish prinsipi asosida tashkil etish qarashiga",
+      "Davlat va dinni bir-biridan ajratish qarashiga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Saydullayev (O: 68; S: 39)"
+    },
+    {
+     "q": "Kapitalistik va sotsialistik davlatlarning ijobiy jihatlari uyg'unlashib, yagona tipdagi davlatlar yuzaga keladi, degan nazariya qaysi?",
+     "options": [
+      "Konvergensiya nazariyasi",
+      "Elita nazariyasi",
+      "Davlatning elita nazariyasi",
+      "Psixologik nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (40)"
+    },
+    {
+     "q": "Odilqoriyev darsligida «diktatura» qanday ta'riflanadi?",
+     "options": [
+      "Hech qanday qonun bilan cheklanmagan, zo'ravonlik va kuchga tayanadigan hokimiyat",
+      "Saylangan parlament tomonidan amalga oshiriladigan vakillik hokimiyati",
+      "Xalq tomonidan saylangan parlament orqali amalga oshiriladigan vakillik hokimiyati",
+      "Mahalliy o'zini o'zi boshqarish organlari hokimiyati"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (67)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat tipi nima?",
+     "options": [
+      "Muayyan davlatlarga xos bir xil, muhim va umumiy belgilar yig'indisi",
+      "Davlat hokimiyatini amalga oshirish usullari va vositalarining majmui",
+      "Davlat oliy organlarining tuzilishi va vakolatlari tartibi",
+      "Davlat hududining ma'muriy-hududiy birliklarga bo'linishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (42)"
+    },
+    {
+     "q": "Formatsion (sinfiy) yondashuvga ko'ra bir tipdagi davlat boshqa tipga qanday o'tadi?",
+     "options": [
+      "Faqat inqilob orqali",
+      "Faqat referendum orqali",
+      "Faqat xalqaro shartnoma orqali",
+      "Faqat tadrijiy islohotlar orqali"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (78)"
+    },
+    {
+     "q": "Feodal davlatning iqtisodiy asosini nima tashkil etgan?",
+     "options": [
+      "Feodallarning yerga xususiy mulkchiligi",
+      "Erkin yollanma ishchilarning mehnati",
+      "Ishlab chiqarish vositalariga ijtimoiy mulkchilik",
+      "Qullarning mehnati va ularga egalik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 43; O: 78)"
+    },
+    {
+     "q": "Kapitalistik ekspluatatsiya shakli quldorlik va feodal shakllardan nimasi bilan farq qiladi?",
+     "options": [
+      "Rasman erkin yollanma ishchilarning yashirin iqtisodiy qaramligiga asoslanadi",
+      "Mehnatkashlarning ekspluatatorlarga shaxsan va ochiqdan-ochiq qaramligiga asoslanadi",
+      "Dehqonlarning yerga biriktirib qo'yilishiga asoslanadi",
+      "Ishlab chiqarish vositalarining umumlashtirilishiga asoslanadi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (79)"
+    },
+    {
+     "q": "A. Toynbi jahon tarixida qancha sivilizatsiya mavjud bo'lganligini ko'rsatgan?",
+     "options": [
+      "20 dan ortiq",
+      "4 ta",
+      "7 ta",
+      "100 dan ortiq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (44)"
+    },
+    {
+     "q": "Davlatlarni demokratik va nodemokratik turlarga ajratish qaysi noan'anaviy mezonga asoslanadi?",
+     "options": [
+      "Siyosiy rejimga",
+      "Hududiy joylashuvga",
+      "Xalqaro tashkilotga a'zolikka",
+      "Ijtimoiy-iqtisodiy rivojlanish darajasiga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (44)"
     }
    ]
   },
@@ -1626,6 +2572,336 @@
       "Vazifalar faqat tashqi, funksiyalar faqat ichki bo'ladi"
      ],
      "answer": 0
+    },
+    {
+     "q": "«Funksiya» atamasi lotin tilidan olingan bo'lib, qanday ma'noni anglatadi?",
+     "options": [
+      "Faoliyat",
+      "Vazifa",
+      "Hokimiyat",
+      "Maqsad"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (47)"
+    },
+    {
+     "q": "Fuqarolik jamiyatini shakllantirish yoki huquqiy demokratik davlat barpo etish davlatning nimasiga misol bo'ladi?",
+     "options": [
+      "Davlat maqsadiga",
+      "Davlat funksiyasiga",
+      "Funksiyani amalga oshirish shakliga",
+      "Funksiyani amalga oshirish usuliga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (48)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat vazifasi funksiyaga nisbatan qachon yuzaga keladi?",
+     "options": [
+      "Funksiya amalga oshishidan oldin",
+      "Funksiya amalga oshirilgandan keyin",
+      "Funksiya bilan bir vaqtda va undan mustaqil",
+      "Faqat funksiya bekor qilinganida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (48)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat funksiyalari qaysi to'rt asosiy guruhga tasniflanadi?",
+     "options": [
+      "Faoliyat doirasi, davomiyligi, ijtimoiy ahamiyati va amalga oshirish shakllari bo'yicha",
+      "Hudud kattaligi, aholi soni, boshqaruv shakli va siyosiy rejim bo'yicha",
+      "Qonun chiqaruvchi, ijro etuvchi, sud va nazorat hokimiyati organlarining vakolatlari bo'yicha",
+      "Iqtisodiy, siyosiy, ma'naviy va harbiy sohalar bo'yicha"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (49)"
+    },
+    {
+     "q": "Davlat funksiyalarini asosiy va asosiy bo'lmagan funksiyalarga ajratish qaysi mezonga asoslanadi?",
+     "options": [
+      "Ijtimoiy ahamiyatiga",
+      "Faoliyat doirasiga",
+      "Amal qilish davomiyligiga",
+      "Amalga oshirish shakllariga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (53)"
+    },
+    {
+     "q": "Saydullayev darsligida davlatning doimiy funksiyasiga misol sifatida qaysi funksiya keltirilgan?",
+     "options": [
+      "Iqtisodiy funksiya",
+      "Tabiiy ofat oqibatlarini bartaraf etish",
+      "Texnogen halokatni tugatish",
+      "Vaqtinchalik epidemiyaga qarshi kurash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (53)"
+    },
+    {
+     "q": "Davlat (jamiyat)ning siyosiy hayotini boshqarish, davlat organlarini shakllantirish va ularning faoliyatini tashkil etish qaysi funksiya mazmunini tashkil etadi?",
+     "options": [
+      "Siyosiy funksiya",
+      "Ijtimoiy funksiya",
+      "Tinchlikni ta'minlash funksiyasi",
+      "Huquq-tartibotni ta'minlash funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (50)"
+    },
+    {
+     "q": "Turli millatlar va ijtimoiy guruhlarni murosai madorada saqlab turish, ular o'rtasidagi nizolarning oldini olish qaysi ichki funksiyaga kiradi?",
+     "options": [
+      "Tinchlikni ta'minlash funksiyasi",
+      "Mudofaa funksiyasi",
+      "Iqtisodiy funksiya",
+      "Huquq-tartibotni ta'minlash funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (50–51)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlatning ekologik funksiyasi qaysi uch yo'nalishda amalga oshiriladi?",
+     "options": [
+      "Tabiiy muhit obyektlarini saqlash, resurslardan oqilona foydalanish, resurslarni tiklash",
+      "Soliq yig'ish, bojxona nazorati va moliyaviy hisobot",
+      "Qonun chiqarish, qonunni ijro etish va sud nazorati",
+      "Davlat chegarasini qo'riqlash, fuqaro mudofaasini tashkil etish va zaxirani harbiy tayyorlash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (51)"
+    },
+    {
+     "q": "Davlatning mudofaa funksiyasi qanday usullar bilan amalga oshiriladi?",
+     "options": [
+      "Iqtisodiy, siyosiy, diplomatik va harbiy usullar bilan",
+      "Faqat harbiy usullar bilan",
+      "Faqat diplomatik muzokaralar bilan",
+      "Faqat diplomatik muzokaralar va xalqaro shartnomalar orqali"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 53; O: 118)"
+    },
+    {
+     "q": "Zamonaviy davlatlarning aksariyati qabul qilgan mudofaa doktrinasining mohiyati nimadan iborat?",
+     "options": [
+      "Agressiyani bartaraf etish uchun maqbul darajada yetarli kuch va vositalarni yaratish",
+      "Qo'shni davlatlar hududini oldindan egallab olish uchun imkon qadar ko'proq qurol va qo'shin to'plash",
+      "Qurolli kuchlarni butunlay tugatib, faqat diplomatiyaga tayanish",
+      "Har qanday harbiy ittifoqdan chiqib, chegaralarni yopish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 53; O: 119)"
+    },
+    {
+     "q": "BMTning qaysi doimiy organi nizolarni, shu jumladan qurolli mojarolarni tartibga solish masalalari bilan shug'ullanadi?",
+     "options": [
+      "Xavfsizlik Kengashi",
+      "Bosh Assambleya",
+      "Xalqaro Sud",
+      "Iqtisodiy va Ijtimoiy Kengash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 52; O: 117)"
+    },
+    {
+     "q": "BMT doirasida ta'lim, fan va madaniyat masalalari bo'yicha hamkorlikni muvofiqlashtiruvchi ixtisoslashgan muassasa qaysi?",
+     "options": [
+      "YUNESKO",
+      "MAGATE",
+      "Xalqaro valyuta jamg'armasi",
+      "Jahon savdo tashkiloti"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 52; O: 117)"
+    },
+    {
+     "q": "Hujjatlar loyihalarini tayyorlash, saylovlarni tashkil etish, rejalashtirish va nazorat davlat funksiyalarini amalga oshirishning qaysi shakliga kiradi?",
+     "options": [
+      "Tashkiliy-tartibga soluvchi shaklga",
+      "Tashkiliy-xo'jalik shakliga",
+      "Tashkiliy-mafkuraviy shaklga",
+      "Huquqni muhofaza qilish faoliyati shakliga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)"
+    },
+    {
+     "q": "Yangi qabul qilingan normativ-huquqiy hujjatlarni tushuntirish va ijtimoiy fikrni shakllantirish qaysi shaklga kiradi?",
+     "options": [
+      "Tashkiliy-mafkuraviy shaklga",
+      "Tashkiliy-tartibga soluvchi shaklga",
+      "Huquq ijodkorligi shakliga",
+      "Tashkiliy-xo'jalik shakliga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)"
+    },
+    {
+     "q": "Kishilarni tanlov huquqini cheklagan holda kuch ishlatish orqali muayyan faoliyatga undash qaysi usul?",
+     "options": [
+      "Majburlash",
+      "Ishontirish",
+      "Tavsiya qilish",
+      "Rag'batlantirish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)"
+    },
+    {
+     "q": "Kishilarni jamiyat va davlat nuqtai nazaridan istalgan va ijobiy xatti-harakatni amalga oshirishga yo'naltirish qaysi usul?",
+     "options": [
+      "Tavsiya qilish",
+      "Majburlash",
+      "Man etish",
+      "Rag'batlantirish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra muayyan tovarlar ishlab chiqarish uchun soliqlarni kamaytirish va tarmoqlarga investitsiya kiritish qaysi usulga kiradi?",
+     "options": [
+      "Iqtisodiy usulga",
+      "Ma'muriy usulga",
+      "Majburlash usuliga",
+      "Tashkiliy-mafkuraviy usulga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (56)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat funksiyalarini amalga oshirishning ma'muriy usullari qatoriga nimalar kiradi?",
+     "options": [
+      "Davlat rag'batlantiruvi va man etish usullari",
+      "Ishontirish va tavsiya qilish usullari",
+      "Soliqlarni kamaytirish va investitsiya kiritish",
+      "Kreditlash va statistika hisobi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (56)"
+    },
+    {
+     "q": "«Davlat funksiyalari – faoliyat yo'nalishi, biroq hech qachon faoliyatning o'zi emas», degan fikr qaysi olimga tegishli?",
+     "options": [
+      "Z.M. Islomov",
+      "V.M. Korelskiy",
+      "N.I. Matuzov",
+      "A.V. Malko"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (106)"
+    },
+    {
+     "q": "Hokimiyatlar taqsimlanishi prinsipi asosida davlat funksiyalari qanday turlarga bo'linadi?",
+     "options": [
+      "Qonun chiqarish, boshqaruv, huquqni muhofaza qilish (sudlov) va axborot funksiyalariga",
+      "Iqtisodiy, ijtimoiy, siyosiy va ma'naviy funksiyalarga",
+      "Iqtisodiy, ijtimoiy, siyosiy, ma'naviy va madaniy sohalardagi funksiyalarga hamda ularning turlariga",
+      "Asosiy va asosiy bo'lmagan funksiyalarga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (109)"
+    },
+    {
+     "q": "Odilqoriyev darsligida «to'rtinchi hokimiyat» deb nima ataladi?",
+     "options": [
+      "Ommaviy axborot vositalari",
+      "Prokuratura organlari",
+      "Mahalliy o'zini o'zi boshqarish organlari",
+      "Siyosiy partiyalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (109)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ishlab chiqaruvchilar daromadlarini davlat tomonidan aniqlash va hisobga olishda ifodalanadigan ichki funksiya qaysi?",
+     "options": [
+      "Moliyaviy nazorat funksiyasi",
+      "Ijtimoiy funksiya",
+      "Ekologik funksiya",
+      "Huquq-tartibotni muhofaza qilish funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (113)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra bozor iqtisodiyoti sharoitidagi huquqiy davlatda iqtisodiyotni tartibga solish asosan qanday usullarda amalga oshiriladi?",
+     "options": [
+      "Iqtisodiy usullarda",
+      "Ma'muriy-buyruqbozlik usullarida",
+      "Majburiy taqsimlash usullarida",
+      "Taqiqlash usullarida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (110)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra davlatning iqtisodiyotni tartibga solishdagi ikki asosiy iqtisodiy usuli qaysilar?",
+     "options": [
+      "Muayyan soliq siyosati va ustuvor tarmoqlarni rivojlantirish orqali qulay sharoit yaratish",
+      "Narxlarni markazdan qat'iy belgilash va barcha xususiy mulkni davlat mulkiga majburan aylantirish",
+      "Tadbirkorlikni taqiqlash va mahsulotlarni kartochka bilan taqsimlash",
+      "Tashqi savdoni yopish va valyuta almashinuvini to'xtatish"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (111)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqbuzarliklarga qarshi kurash huquqni muhofaza qilish funksiyasida qanday o'rin tutadi?",
+     "options": [
+      "Muhim tomoni, ammo asosiy yo'nalishi emas",
+      "Uning yagona va asosiy yo'nalishi",
+      "Bu funksiyaga umuman taalluqli emas",
+      "Bu funksiyaga umuman taalluqli emas, chunki u sud ishi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (114)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra sovet davrida davlatning ta'lim sohasidagi faoliyati qanday qaralgan?",
+     "options": [
+      "Tarbiyaviy yoki madaniy-tarbiyaviy funksiya tarkibi sifatida",
+      "Davlatning alohida mustaqil funksiyasi sifatida",
+      "Davlatning tashqi funksiyasi va xalqaro hamkorlik qismi sifatida",
+      "Faqat nodavlat tashkilotlar vazifasi sifatida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (121)"
+    },
+    {
+     "q": "Odilqoriyev darsligida qaysi funksiya misolida ichki funksiyalarning tashqi funksiya tusini olayotgani ko'rsatiladi?",
+     "options": [
+      "Ekologik funksiya",
+      "Moliyaviy nazorat funksiyasi",
+      "Ta'lim funksiyasi",
+      "Huquq-tartibotni ta'minlash funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (127)"
+    },
+    {
+     "q": "Davlat funksiyalarini alohida davlat organlari funksiyalaridan farqlovchi jihat nima?",
+     "options": [
+      "Davlat funksiyalari davlat faoliyatini butunlay qamrab oladi",
+      "Davlat funksiyalari faqat bitta vazirlik tomonidan bajariladi",
+      "Davlat funksiyalari faqat tashqi siyosatga taalluqli",
+      "Davlat funksiyalari faqat sud orqali amalga oshiriladi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Saydullayev (O: 107; S: 47)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat taraqqiyotida yangi funksiyalar yuzaga kelganda eskilari bilan nima sodir bo'ladi?",
+     "options": [
+      "Izsiz yo'qolmaydi, faqat ko'rinishi o'zgarib, yangi mazmun bilan boyishi mumkin",
+      "Darhol va butunlay bekor qilinadi",
+      "Faqat tashqi funksiyalarga aylanadi",
+      "Davlat organlaridan nodavlat tashkilotlarga va fuqarolarning o'zini o'zi boshqarish organlariga to'liq o'tkaziladi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (56)"
     }
    ]
   },
@@ -2009,6 +3285,325 @@
       "Ikki subyektli federatsiya"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra quyidagilardan qaysi biri davlat shakllarining rivojlanishi va o'zgarishiga ta'sir etuvchi omil hisoblanadi?",
+     "options": [
+      "Tabiiy, geografik va iqlimiy shart-sharoitlar",
+      "Davlat ramzlari va madhiyasining badiiy ko'rinishi",
+      "Poytaxt aholisining soni",
+      "Davlat tilining yozuvi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (59)"
+    },
+    {
+     "q": "Olimlarning bir guruhi davlat shakliga faqat boshqaruv shakli va davlat tuzilishi shaklini kiritadi. Ular davlat shakli tarkibiga qaysi elementni qo'shmaydi?",
+     "options": [
+      "Siyosiy rejimni",
+      "Boshqaruv shaklini",
+      "Davlat tuzilishi shaklini",
+      "Monarxiya shaklini"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 68; O: 83)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra «davlat boshqaruv shakli» tushunchasi orqali qaysi savolga javob olinadi?",
+     "options": [
+      "Mamlakatda kim hukmron va u hokimiyatni qanday boshqaradi",
+      "Davlat hududi qanday ma'muriy birliklarga va qanday tartibda bo'linadi",
+      "Hokimiyat qanday usullar bilan amalga oshiriladi",
+      "Davlat qachon vujudga kelgan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (84)"
+    },
+    {
+     "q": "«Monarxiya» atamasi tarkibidagi «arxe» so'zi qanday ma'noni anglatadi?",
+     "options": [
+      "Hokimiyat",
+      "Yakka, yolg'iz",
+      "Yakka",
+      "Qonun"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 60; O: 85)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri monarxiyaning belgisi hisoblanadi?",
+     "options": [
+      "Monarxning boshqaruv natijasi uchun yuridik javobgar emasligi",
+      "Davlat boshlig'ining muayyan muddatga saylanib, qayta saylanishi",
+      "Davlat boshlig'ining saylovchilar oldida mas'ulligi",
+      "Hokimiyatning xalq nomidan amalga oshirilishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 60; O: 85)"
+    },
+    {
+     "q": "Saydullayev darsligida qaysi davlatlar hozirgi kunda mutlaq (absolyut) monarxiya mavjud bo'lgan davlatlarga misol qilib keltirilgan?",
+     "options": [
+      "Bahrayn, Bruney, Qatar",
+      "Iordaniya, Marokash, Malayziya",
+      "Daniya, Belgiya, Ispaniya",
+      "Yaponiya, Shvetsiya, Norvegiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (60)"
+    },
+    {
+     "q": "Monarx ijro hokimiyatiga boshchilik qilib, o'z oldida javobgar hukumatni tuzadigan, qonunchilik hokimiyati esa parlamentga tegishli bo'lgan monarxiya qanday ataladi?",
+     "options": [
+      "Dualistik monarxiya",
+      "Mutlaq monarxiya",
+      "Parlamentar monarxiya",
+      "Teokratik monarxiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 61; O: 87)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra dualistik monarxiyada monarx parlament qabul qilgan qonunlarga nisbatan qanday huquqqa ega?",
+     "options": [
+      "Mutlaq veto qo'yish huquqiga",
+      "Faqat qonunni e'lon qilish huquqiga",
+      "Faqat maslahat berish huquqiga",
+      "Hech qanday huquqqa ega emas"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (61)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra monarx ham dunyoviy, ham diniy hokimiyatga ega bo'lgan monarxiya qanday ataladi?",
+     "options": [
+      "Teokratik monarxiya",
+      "Dualistik monarxiya",
+      "Parlamentar monarxiya",
+      "Konstitutsiyaviy monarxiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (61)"
+    },
+    {
+     "q": "Odilqoriyev darsligida respublika va monarxiya elementlari uyg'unlashgan «noan'anaviy monarxiya»ga qaysi davlat misol qilib keltirilgan?",
+     "options": [
+      "Birlashgan Arab Amirliklari",
+      "Buyuk Britaniya",
+      "Bruney",
+      "Yaponiya imperiyasi (Nippon)"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (88)"
+    },
+    {
+     "q": "Lotincha «res publica» iborasi qanday ma'noni anglatadi?",
+     "options": [
+      "«Jamoa ishi», «xalq ishi»",
+      "«Yakka hokimiyat»",
+      "«Xalq hokimiyati»",
+      "«Ittifoq bilan mustahkamlash»"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (89)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra respublika boshqaruv shakliga xos belgilardan biri qaysi?",
+     "options": [
+      "Hokimiyatning xalq nomidan amalga oshirilishi",
+      "Hokimiyatning meros orqali o'tishi",
+      "Davlat boshlig'ining umrbod hukmronligi",
+      "Davlat boshlig'ining dahlsiz deb e'lon qilinishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (61–62)"
+    },
+    {
+     "q": "Ikkala darslikka ko'ra qadimgi Sparta va Rim qanday respublika bo'lgan?",
+     "options": [
+      "Aristokratik respublika",
+      "Demokratik respublika",
+      "Parlamentar respublika",
+      "Sotsialistik (xalq demokratik) respublika"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 62; O: 89)"
+    },
+    {
+     "q": "«Kuchli parlament» qoidasi qaysi boshqaruv shakliga xos?",
+     "options": [
+      "Parlamentar respublikaga",
+      "Prezidentlik respublikasiga",
+      "Mutlaq monarxiyaga",
+      "Dualistik monarxiyaga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (90)"
+    },
+    {
+     "q": "Ikkala darslikda ham aralash respublikaga misol qilib keltirilgan davlat qaysi?",
+     "options": [
+      "Fransiya",
+      "AQSh",
+      "Germaniya",
+      "Italiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 62; O: 91)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra aralash respublikada hukumat kimlar oldida mas'ul bo'ladi?",
+     "options": [
+      "Ham parlament, ham prezident oldida",
+      "Faqat prezident oldida, parlament esa unga ta'sir qila olmaydi",
+      "Faqat parlament oldida",
+      "Faqat Oliy sud oldida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (91)"
+    },
+    {
+     "q": "Saydullayev darsligida qaysi davlatlar prezidentlik respublikasiga misol qilib keltirilgan?",
+     "options": [
+      "AQSh, Braziliya, Argentina",
+      "Italiya, Isroil, Germaniya",
+      "Fransiya, Finlyandiya",
+      "Daniya, Norvegiya, Shvetsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (62)"
+    },
+    {
+     "q": "Odilqoriyev darsligida avtonom hududli unitar davlatga qaysi davlat misol qilib keltirilgan?",
+     "options": [
+      "Daniya (Farer orollari va Grenlandiya)",
+      "Amerika Qo'shma Shtatlari (AQSh)",
+      "Germaniya Federativ Respublikasi (16 ta yer)",
+      "Meksika"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (92)"
+    },
+    {
+     "q": "Ikkala darslikka ko'ra Rossiya Federatsiyasi federatsiyaning qaysi turiga misol bo'ladi?",
+     "options": [
+      "Milliy-hududiy federatsiyaga",
+      "Hududiy federatsiyaga",
+      "Milliy federatsiyaga",
+      "Konfederatsiyaga, ya'ni davlatlarning muvaqqat ittifoqiga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 63; O: 95)"
+    },
+    {
+     "q": "Federativ davlat parlamentining yuqori palatasi asosan nimani ifodalaydi?",
+     "options": [
+      "Federatsiya subyektlarining manfaatlarini",
+      "Faqat poytaxt va yirik shaharlar aholisining manfaatlarini",
+      "Hukumat a'zolarining manfaatlarini",
+      "Xalqaro tashkilotlarning manfaatlarini"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 64; O: 94)"
+    },
+    {
+     "q": "Odilqoriyev darsligida 1815–1848-yillarda konfederatsiyadan federatsiyaga aylangan davlat sifatida qaysi davlat keltirilgan?",
+     "options": [
+      "Shveytsariya",
+      "Senegambiya (Senegal va Gambiya)",
+      "Kanada",
+      "Avstriya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (96)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra federatsiya va konfederatsiya birlashish asosi bo'yicha qanday farqlanadi?",
+     "options": [
+      "Federatsiya konstitutsiya, konfederatsiya shartnoma asosida",
+      "Federatsiya shartnoma, konfederatsiya esa konstitutsiya asosida",
+      "Ikkalasi ham faqat shartnoma asosida",
+      "Ikkalasi ham faqat referendum asosida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (96)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra «siyosiy rejim» tushunchasi yuridik adabiyotda qachon paydo bo'lgan?",
+     "options": [
+      "XX asrning 60-yillarida",
+      "Ma'rifatparvarlik davrida, XVIII asr oxirida",
+      "XIX asr o'rtalarida",
+      "XXI asr boshida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (97)"
+    },
+    {
+     "q": "Bir millatning boshqalardan afzalligi to'g'risidagi millatchilik mafkurasiga tayanadigan, totalitar rejimning avj olgan shakli qaysi?",
+     "options": [
+      "Fashistik rejim",
+      "Liberal rejim",
+      "Aristokratik rejim",
+      "Oligarxik rejim"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (98–99)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra hokimiyatga egalik insonlarning mulk senziga qarab belgilanadigan rejim qaysi?",
+     "options": [
+      "Oligarxiya",
+      "Aristokratiya",
+      "Despotiya",
+      "Tiraniya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (99)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra hokimiyati odatda zo'ravonlik, bosib olish yoki qonuniy hokimiyatni ag'darish natijasida qaror topadigan yakka shaxs rejimi qaysi?",
+     "options": [
+      "Tiraniya",
+      "Aristokratiya",
+      "Oligarxiya",
+      "Liberal rejim"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (100)"
+    },
+    {
+     "q": "Davlat ahamiyatiga ega masalalarni umumxalq ovoziga (referendumga) qo'yish demokratiyaning qaysi shakliga kiradi?",
+     "options": [
+      "Bevosita demokratiyaga",
+      "Vakillik demokratiyasiga",
+      "Liberal demokratiyaga",
+      "Sotsial demokratiyaga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (101)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlatning iqtisodiyotga ta'siri minimal darajada bo'lishi demokratik rejimning qaysi turiga xos?",
+     "options": [
+      "Liberal-demokratik rejimga",
+      "Sotsial-demokratik (ijtimoiy) rejimga",
+      "Totalitar rejimga",
+      "Avtokratik rejimga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (65)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra O'zbekiston Respublikasi tarkibiga suveren respublika sifatida qaysi tuzilma kiradi?",
+     "options": [
+      "Qoraqalpog'iston Respublikasi",
+      "Toshkent shahri",
+      "Toshkent viloyati",
+      "Farg'ona vodiysi viloyatlari ittifoqi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 85-modda (66)"
     }
    ]
   },
@@ -2403,6 +3998,325 @@
       "Markaziy saylov komissiyasi"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat mexanizmi qanday tuzilmalardan iborat?",
+     "options": [
+      "Davlat apparati va davlat tashkilotlari (korxona va muassasalari)",
+      "Faqat qonun chiqaruvchi organlar",
+      "Siyosiy partiyalar va jamoat birlashmalari",
+      "Faqat sudlar, prokuratura va boshqa huquqni muhofaza qiluvchi organlar tizimi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (70)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra «davlat apparati» va «davlat mexanizmi» atamalari qanday farqlanadi?",
+     "options": [
+      "Apparat tuzilishni, mexanizm funksional jihatni tavsiflaydi",
+      "Apparat funksional jihatni, mexanizm faqat tuzilishni tavsiflaydi",
+      "Apparat faqat sudlarni, mexanizm faqat parlamentni bildiradi",
+      "Hech qanday farqi yo'q, ular faqat turli tillardagi nomlardir"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (136)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra metro, tramvay, elektr energiyasi tarmog'ini boshqarish, aloqa tizimi kabi strategik funksiyalarni bajaruvchi tuzilmalar qanday ataladi?",
+     "options": [
+      "Davlat tashkilotlari",
+      "Davlat organlari",
+      "Jamoat birlashmalari",
+      "Mahalliy o'zini o'zi boshqarish organlari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (136)"
+    },
+    {
+     "q": "Davlat mexanizmi piramida shaklida tuzilib, yuqori turuvchi organlar quyi organlarga nisbatan ko'proq vakolatga ega bo'lishi va ular faoliyatiga ta'sir ko'rsata olishi qaysi prinsipni ifodalaydi?",
+     "options": [
+      "Ierarxiya (pog'onama-pog'ona bo'ysunish)",
+      "Ochiqlik (oshkoralik)",
+      "Hokimiyatlar bo'linishi va tiyib turish (muvozanat) tizimi",
+      "Hokimiyatlar bo'linishi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (134, 140)"
+    },
+    {
+     "q": "Odilqoriyev darsligida prokuratura, ichki ishlar, bojxona, milliy xavfsizlik xizmati, jazoni ijro etish muassasalari davlat mexanizmining qaysi belgisi doirasida tilga olinadi?",
+     "options": [
+      "Majburlov apparatining mavjudligi",
+      "Maqsad va vazifalarning umumiyligi",
+      "Ochiqlik prinsipi",
+      "Saylanish va tayinlanish uyg'unligi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (135)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra qonun chiqaruvchi, ijro etuvchi va sud hokimiyatidan tashqari ba'zan yana qaysi hokimiyatlar ajratib ko'rsatiladi?",
+     "options": [
+      "Ta'sis etuvchi, saylovchi va nazorat hokimiyati",
+      "Diniy, harbiy va iqtisodiy hokimiyat",
+      "Oilaviy, maktab va mahalla hokimiyati",
+      "Partiyaviy, kasaba uyushmaviy va ommaviy axborot hokimiyati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (71)"
+    },
+    {
+     "q": "Hokimiyatlar bo'linishi prinsipi ilk bor qaysi konstitutsiyada o'z ifodasini topgan?",
+     "options": [
+      "1787-yilgi AQSh Konstitutsiyasida",
+      "1791-yilgi Fransiya Konstitutsiyasida",
+      "1918-yilgi RSFSR Konstitutsiyasida",
+      "1949-yilgi Germaniya Asosiy qonunida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 71; O: 154)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra hokimiyatlar bo'linishi prinsipining vazifasi nimadan iborat?",
+     "options": [
+      "Hokimiyatning to'liq bir shaxs yoki organ qo'lida jamlanishiga yo'l qo'ymaslik",
+      "Barcha davlat hokimiyatini yagona vakillik organi – parlament qo'lida to'plab qo'yish",
+      "Sud hokimiyatini ijro hokimiyatiga bo'ysundirish",
+      "Davlat organlari sonini kamaytirish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (71)"
+    },
+    {
+     "q": "Jon Lokk hokimiyatni qaysi turlarga bo'lgan?",
+     "options": [
+      "Qonun chiqaruvchi, ijro etuvchi va federal",
+      "Ta'sis etuvchi, saylovchi, nazorat qiluvchi va moliyaviy",
+      "Ta'sis etuvchi, saylovchi va nazorat",
+      "Diniy, dunyoviy va harbiy"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (151)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra Jon Lokk sud hokimiyatini nima uchun alohida e'tirof etmagan?",
+     "options": [
+      "Uni ijro hokimiyatining tarkibiy qismi deb hisoblagan",
+      "Uni qonun chiqaruvchi hokimiyatning ajralmas qismi deb bilgan",
+      "Uni monarxning shaxsiy vakolati deb hisoblagan",
+      "Uni cherkov hokimiyatiga tegishli deb bilgan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (151)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra hokimiyat tarmoqlari o'rtasidagi munosabat masalasida Lokk va Monteskye qarashlari qanday farqlanadi?",
+     "options": [
+      "Lokk qonun chiqaruvchi hokimiyat ustunligini, Monteskye tarmoqlar tengligini yoqlagan",
+      "Lokk hokimiyatlar bo'linishini butunlay rad etgan, Monteskye esa uni faqat qisman qabul qilgan",
+      "Lokk hokimiyatlar bo'linishini rad etgan, Monteskye uni qisman qabul qilgan",
+      "Ikkalasi ham ijro hokimiyatining boshqalardan ustunligini yoqlagan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (153)"
+    },
+    {
+     "q": "Monteskyening hokimiyatlar bo'linishi g'oyasini ajralmas, yagona va bo'linmas «xalq suvereniteti» pozitsiyasidan turib tanqid qilgan fransuz olimi kim?",
+     "options": [
+      "J.J.Russo",
+      "J.Lokk",
+      "T.Gobbs",
+      "A.Barnashov"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (153–154)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra hokimiyatlar taqsimlanishi qaysi uch darajada namoyon bo'ladi?",
+     "options": [
+      "Funksional, institutsional va shaxsiy",
+      "Markaziy, mintaqaviy va mahalliy",
+      "Qonunchilik, ijro va sud",
+      "Siyosiy, iqtisodiy, ma'naviy va mafkuraviy"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (138)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra hokimiyatning shaxslar bo'yicha bo'linishi qaysi mamlakatlarda amal qilmaydi?",
+     "options": [
+      "Hukumat a'zolari bir vaqtda deputat bo'lgan parlamentar mamlakatlarda (Buyuk Britaniya, Germaniya)",
+      "Prezidentlik respublikalarida (AQSh)",
+      "Prezident bir vaqtning o'zida ham davlat, ham hukumat boshlig'i hisoblanadigan prezidentlik respublikalarida (AQSh)",
+      "Barcha federativ davlatlarda"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (139)"
+    },
+    {
+     "q": "Odilqoriyev darsligida qayd etilishicha, amerikalik mutaxassislar fikriga ko'ra hokimiyatlar taqsimlanishining mohiyati qaysi hujjatda yanada mukammalroq talqin topgan?",
+     "options": [
+      "Massachusets shtati Konstitutsiyasida",
+      "Virjiniya shtati Huquqlar to'g'risidagi billida",
+      "Mustaqillik deklaratsiyasida",
+      "Konfederatsiya moddalarida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (155)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra davlat apparati qanday ta'riflanadi?",
+     "options": [
+      "Hokimiyatni amalga oshirish vakolatlariga ega davlat organlari majmui",
+      "Faqat davlat korxonalari va muassasalari yig'indisi",
+      "Mamlakatdagi barcha jamoat birlashmalari va nodavlat tashkilotlarining yig'indisi",
+      "Barcha jamoat birlashmalarining yig'indisi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (72)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri Saydullayev darsligida davlat apparatini tashkil etish va faoliyati tamoyili sifatida ko'rsatilgan?",
+     "options": [
+      "Professionalizm, jumladan kasb etikasi talablariga amal qilish",
+      "Yagona rasmiy mafkuraning ustunligi",
+      "Lavozimlarning meros orqali o'tishi",
+      "Barcha hokimiyat vakolatlarining bitta organ yoki shaxs qo'lida jamlanishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (72–73)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra shakllanish usuliga ko'ra birlamchi davlat organiga misol qaysi?",
+     "options": [
+      "O'zbekiston Respublikasi Prezidenti",
+      "O'zbekiston Respublikasi Vazirlar Mahkamasi",
+      "Davlat qo'mitalari",
+      "Vazirliklar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (73)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra kompetensiyasiga ko'ra maxsus kompetensiyali davlat organlariga nimalar kiradi?",
+     "options": [
+      "Vazirliklar, davlat qo'mitalari, agentliklar",
+      "Oliy Majlis va Prezident",
+      "Vazirlar Mahkamasi va hokimliklar",
+      "Mahalliy xalq deputatlari kengashlari va hokimliklar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (73–74)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra tabiiy ofat yoki ommaviy tartibsizliklar paytida tuziladigan hukumat komissiyasi yoki «operativ shtab» qanday davlat organiga misol?",
+     "options": [
+      "Vaqtinchalik organga",
+      "Doimiy organga",
+      "Birlamchi (saylanadigan) organga",
+      "Sud organiga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (149)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra birlamchi davlat organlari qanday tashkil etiladi?",
+     "options": [
+      "Xalq tomonidan to'g'ridan-to'g'ri saylash yo'li bilan",
+      "Prezident farmoni bilan tayinlash yo'li bilan",
+      "Vazirlar Mahkamasining qarori bilan, tayinlash yo'li orqali",
+      "Sud qarori asosida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (149)"
+    },
+    {
+     "q": "Odilqoriyev darsligida davlat organi belgisi sifatida ko'rsatilgan xususiyat qaysi?",
+     "options": [
+      "Operativ boshqaruvdagi mulkka ega va byudjetdan moliyalashtiriladi",
+      "Faqat a'zolik badallari hisobiga faoliyat yuritadi",
+      "Faqat o'z a'zolariga nisbatan majburiy bo'lgan hujjatlar qabul qiladi",
+      "Hokimiyat vakolatlariga ega emas"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (144)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ochiqlik (oshkoralik) prinsipi bo'yicha sud hukmlari va qarorlari haqidagi ma'lumotlardan qaysi ishlar mustasno qilinadi?",
+     "options": [
+      "Davlat va oila siri bilan bog'liq ishlar",
+      "Barcha jinoyat ishlari",
+      "Barcha fuqarolik ishlari",
+      "Voyaga yetmaganlarga oid bo'lmagan barcha ishlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (141)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra davlat organlari faoliyat shakli bo'yicha qanday turlarga ajratiladi?",
+     "options": [
+      "Vakillik, ijroiya, sud va prokuratura organlari",
+      "Doimiy va vaqtinchalik organlar",
+      "Markaziy va mahalliy organlar",
+      "Kollegial va yakka tartibda qaror qabul qiluvchi organlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (145)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra Qoraqalpog'iston Respublikasi, viloyatlar va Toshkent shahridan Senatga necha nafardan senator saylanadi?",
+     "options": [
+      "To'rt nafardan",
+      "Olti nafardan (jami 84)",
+      "Uch nafardan",
+      "Besh nafardan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 92-modda (O: 140)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra Senatning qancha a'zosini O'zbekiston Respublikasi Prezidenti tayinlaydi?",
+     "options": [
+      "To'qqiz nafarini",
+      "O'n olti nafarini",
+      "O'n nafarini",
+      "Yigirma nafarini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 92-modda (O: 140)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra Prezident Bosh vazirni qaysi organ ma'qullaganidan keyin lavozimga tayinlaydi?",
+     "options": [
+      "Oliy Majlis Qonunchilik palatasi",
+      "Konstitutsiyaviy sud",
+      "Oliy Majlis Senati (yuqori palata)",
+      "Vazirlar Mahkamasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 109-modda (O: 146)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra Konstitutsiyaviy sud va Oliy sud kim tomonidan saylanadi?",
+     "options": [
+      "Senat tomonidan, Prezidentning taqdimiga binoan",
+      "Qonunchilik palatasi tomonidan, Bosh vazir taqdimiga binoan",
+      "Bevosita xalq tomonidan, umumiy saylovda",
+      "Vazirlar Mahkamasi tomonidan, Adliya vaziri taqdimiga binoan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 95-modda (O: 149)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra Vazirlar Mahkamasi kimlardan iborat?",
+     "options": [
+      "Bosh vazir, uning o'rinbosarlari va vazirlardan",
+      "Prezident va viloyat hokimlaridan",
+      "Qonunchilik palatasi Spikeri va qo'mita raislaridan",
+      "Oliy sud raisi va sudyalardan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 114-modda (O: 146–147)"
     }
    ]
   },
@@ -2802,6 +4716,325 @@
       "Jamoat birlashmalarini davlat byudjetidan majburiy moliyalashtirish"
      ],
      "answer": 0
+    },
+    {
+     "q": "Yunoncha «politikos» so'zidan olingan «siyosat» atamasi qanday ma'noni bildiradi?",
+     "options": [
+      "«Davlatni boshqarish san'ati», «davlat ishlari»",
+      "«Xalq hokimiyati»",
+      "«Jamoa ishi»",
+      "«Cheklanmagan, hech kimga bo'ysunmaydigan hokimiyat»"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (161)"
+    },
+    {
+     "q": "«Siyosat – bu davlatni idora etish, boshqarish mahoratidir» degan fikr qaysi qadimgi yunon faylasufiga tegishli?",
+     "options": [
+      "Demokrit",
+      "Aristotel",
+      "Polibiy",
+      "Likurg"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (162)"
+    },
+    {
+     "q": "Siyosatni ijtimoiy masalalarni hal etish usullari, ushbu faoliyat prinsiplari va vaziyat ustidan nazoratni qo'lga kiritish vositasi – uch jihatning birligi sifatida izohlagan ingliz siyosatshunoslari kimlar?",
+     "options": [
+      "G.Ponton va P.Jill",
+      "B.To'ychiyev va K.Gadjiyev",
+      "I.Blauberg va B.Yudin",
+      "J.Lokk va T.Gobbs"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (162)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq normalari, huquq institutlari va huquq sohalarining o'zaro bog'liq yig'indisi qanday ataladi?",
+     "options": [
+      "Huquq tizimi",
+      "Huquqiy tizim",
+      "Siyosiy tizim",
+      "Siyosiy madaniyat"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (161)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra siyosiy tizimni jamiyatning boshqa tizimlaridan farqlovchi xususiyat qaysi?",
+     "options": [
+      "Uning doirasida qabul qilinadigan qarorlar butun jamiyat uchun majburiy",
+      "Uning qarorlari faqat davlat xizmatchilari uchun majburiy",
+      "U jamiyatning ijtimoiy-iqtisodiy tuzilmasi bilan hech qanday bog'liq bo'lmaydi",
+      "U faqat siyosiy partiyalardan iborat bo'ladi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (163)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra jamiyatning siyosiy tizimi to'g'risidagi ta'limotlar yurisprudensiyada qachon namoyon bo'la boshlagan?",
+     "options": [
+      "XX asrning 60–70-yillarida",
+      "XVIII asr oxirida",
+      "XIX asrning 40–50-yillarida",
+      "XXI asr boshida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (164)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra siyosiy hayot shakllarining rivojiga qarab siyosiy tizimlar qanday turlarga bo'linadi?",
+     "options": [
+      "Demokratik, avtoritar va totalitar",
+      "Unitar, federativ va konfederativ tizimlar",
+      "Monarxiya, respublika va aralash",
+      "Markaziy, mintaqaviy va mahalliy"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (165)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra demokratik siyosiy tizimning asosiy xususiyatlaridan biri qaysi?",
+     "options": [
+      "Hukmron va muxolif siyosiy partiyalarning mavjudligi",
+      "Yagona hukmron partiyaning mavjudligi",
+      "Muxolif matbuotning taqiqlanishi",
+      "Hokimiyatning nomenklaturaning yopiq kanallari orqali shakllanishi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (166)"
+    },
+    {
+     "q": "Parlamentning ikkinchi darajali organga aylanib qolishi va hukmron partiyaning davlat apparati bilan qo'shilib ketishi qaysi turdagi siyosiy tizimga xos?",
+     "options": [
+      "Avtoritar siyosiy tizimga",
+      "Demokratik siyosiy tizimga",
+      "Modernizatsiyalashgan siyosiy tizimga",
+      "Liberal siyosiy tizimga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (166)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra hokimiyatning barcha darajalarda nomenklaturaning yopiq kanallari orqali shakllantirilishi qaysi rejimga xos belgi?",
+     "options": [
+      "Totalitar rejimga",
+      "Demokratik rejimga",
+      "Liberal rejimga",
+      "Parlamentar rejimga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (166)"
+    },
+    {
+     "q": "O'tish davri siyosiy tizimlarida namoyon bo'ladigan «oxlokratiya» xavfi nimani anglatadi?",
+     "options": [
+      "Olomon hokimiyatini",
+      "Boylar hokimiyatini",
+      "Zodagonlar hokimiyatini",
+      "Ruhoniylar hokimiyatini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (167)"
+    },
+    {
+     "q": "Odilqoriyev darsligida keltirilgan tasnifga ko'ra rivojlanmagan fuqarolik jamiyati va hokimiyatning xarizmatik usulga asoslanganligi qaysi siyosiy tizimlarga xos?",
+     "options": [
+      "O'tish davri siyosiy tizimlariga",
+      "Modernizatsiyalashgan siyosiy tizimlarga",
+      "Demokratik siyosiy tizimlarga",
+      "An'anaviy siyosiy tizimlarga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (167)"
+    },
+    {
+     "q": "Odilqoriyev darsligida keltirilgan tasnifga ko'ra rivojlangan fuqarolik jamiyati va hokimiyatni ratsional amalga oshirish qaysi siyosiy tizimlarga xos?",
+     "options": [
+      "Modernizatsiyalashgan siyosiy tizimlarga",
+      "O'tish davri siyosiy tizimlariga",
+      "An'anaviy (monarxiyaga asoslangan) tizimlarga",
+      "Marksistik siyosiy tizimlarga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (167)"
+    },
+    {
+     "q": "Siyosiy institutlar o'rtasidagi aloqa vositalari – saylovlar, referendumlar, ommaviy muhokamalar, OAV faoliyati siyosiy tizimning qaysi jihatiga (quyi tizimiga) kiradi?",
+     "options": [
+      "Aloqalar tizimiga oid (kommunikativ) jihatga",
+      "Tashkiliy (institutsional, tuzilmaviy) jihatga",
+      "Me'yoriy (normativ) jihatga",
+      "Mafkuraviy (g'oyaviy) jihatga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (169)"
+    },
+    {
+     "q": "Siyosiy ong va jamiyatda hukmron bo'lgan siyosiy mafkura siyosiy tizimning qaysi jihatini tashkil etadi?",
+     "options": [
+      "Mafkuraviy jihatini",
+      "Tashkiliy jihatini",
+      "Me'yoriy jihatini",
+      "Kommunikativ jihatini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (169)"
+    },
+    {
+     "q": "K.S.Gadjiyevning fikricha, siyosiy madaniyat nima?",
+     "options": [
+      "Siyosiy hamjamiyat subyektlarining ko'pchiligi e'tirof etgan normativ qadriyatlar tizimi",
+      "Davlat organlarining ichki tuzilishi",
+      "Siyosiy partiyalarning faqat moliyaviy hisobotlari va ularning manbalari to'g'risidagi ma'lumotlar majmui",
+      "Faqat konstitutsiyaviy normalar yig'indisi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (171)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ijtimoiy ongning bir turi bo'lib, siyosiy hokimiyatni amalga oshirish mexanizmlarini aks ettiruvchi va kishilarning siyosiy xulq-atvorini yo'naltiruvchi tafakkur qanday ataladi?",
+     "options": [
+      "Siyosiy ong",
+      "Siyosiy faoliyat",
+      "Siyosiy institut",
+      "Siyosiy norma"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (170–171)"
+    },
+    {
+     "q": "Odilqoriyev darsligida siyosiy tizimning asosiy funksiyalaridan biri sifatida nima ko'rsatilgan?",
+     "options": [
+      "Xalqning siyosiy irodasini aniqlash, ifodalash va amalga oshirishga ko'maklashish",
+      "Faqat davlat byudjetini tuzish",
+      "Faqat jinoyatchilikka qarshi kurashish",
+      "Davlatlararo xalqaro shartnomalarni ratifikatsiya qilish va ularning ijrosini nazorat qilish"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (171)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra tarixan qaysi tashkilotni dastlabki siyosiy tashkilot deb hisoblash mumkin?",
+     "options": [
+      "Davlatni",
+      "Siyosiy partiyani",
+      "Kasaba uyushmasini",
+      "Ijtimoiy harakatni"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (172)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra jamiyatning siyosiy tizimi bilan fuqarolik jamiyati o'rtasidagi bog'lovchi va muvofiqlashtiruvchi bo'g'in nima?",
+     "options": [
+      "Davlat",
+      "Siyosiy partiyalar",
+      "Ommaviy axborot vositalari",
+      "Diniy tashkilotlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (173)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra jamoat tashkilotlari qabul qilgan normativ hujjatlar kimlarga nisbatan tatbiq etiladi?",
+     "options": [
+      "Faqat shu jamoat tashkiloti a'zolariga",
+      "Mamlakatning barcha fuqarolari va davlat organlariga",
+      "Barcha davlat organlariga",
+      "Chet el fuqarolariga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (174)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ommaviy jamoat harakatlari siyosiy partiyalardan nimasi bilan farq qiladi?",
+     "options": [
+      "Ularning ro'yxatga olingan a'zolari bo'lmaydi",
+      "Ular siyosiy maqsadlarni ko'zlay olmaydi",
+      "Ular faqat davlat tomonidan tuziladi",
+      "Ular faqat chet el fuqarolaridan iborat bo'ladi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (177)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra siyosiy partiyalar o'z faoliyatining moliyalashtirilishi manbalari haqida qaysi organga oshkora hisobotlar taqdim etadi?",
+     "options": [
+      "Qonunchilik palatasiga yoki u vakil qilgan organga",
+      "Prezident Administratsiyasiga yoki Vazirlar Mahkamasiga",
+      "Oliy sudga",
+      "Markaziy bankka"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 74-modda (O: 178)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra O'zbekiston xalqi nomidan kimlar ish olib borishi mumkin?",
+     "options": [
+      "Faqat xalq saylagan Oliy Majlis va Prezident",
+      "Siyosiy partiyalar va ijtimoiy harakatlar",
+      "Jamoat birlashmalari va ularning rahbarlari",
+      "Davlat ro'yxatidan o'tgan har qanday jamoat birlashmasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 10-modda (S: 67)"
+    },
+    {
+     "q": "Amaldagi Konstitutsiyaga ko'ra fuqarolik jamiyatining asosini nimalar tashkil etadi?",
+     "options": [
+      "Jamoat birlashmalari, NNTlar, o'zini o'zi boshqarish organlari va OAV",
+      "Faqat davlat organlari, ularning mansabdor shaxslari va davlat korxonalari",
+      "Faqat siyosiy partiyalar va harbiy tuzilmalar",
+      "Davlat korxonalari va unitar korxonalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 69-modda (S: 209)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra fuqarolik jamiyatini ishlab chiqarish munosabatlari majmui sifatida tushungan nemis faylasufi kim?",
+     "options": [
+      "Gegel",
+      "Kant",
+      "Marks",
+      "Maks Veber"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (210)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra fuqarolik jamiyatining siyosiy mohiyatini, siyosiy shaklini nima tashkil etadi?",
+     "options": [
+      "Huquqiy davlat",
+      "Bozor iqtisodiyoti",
+      "Xususiy mulk",
+      "Ma'naviy qadriyatlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (211)"
+    },
+    {
+     "q": "Saydullayev tasnifiga ko'ra siyosiy sohadagi manfaatlarni aks ettiruvchi fuqarolik jamiyati institutlariga nimalar kiradi?",
+     "options": [
+      "Siyosiy partiyalar va ijtimoiy-siyosiy harakatlar",
+      "Tadbirkorlar uyushmalari (palatasi) va boshqa iqtisodiy tuzilmalar",
+      "Oila va ta'lim-tarbiya muassasalari",
+      "Diniy tashkilotlar va milliy-madaniy markazlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (209)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra quyidagilardan qaysi biri fuqarolik jamiyatining belgisi hisoblanadi?",
+     "options": [
+      "Shaxsning davlat hokimiyatiga nisbatan mulkiy va iqtisodiy mustaqilligi",
+      "Davlatning shaxs xususiy hayoti va iqtisodiy faoliyatiga cheklanmagan aralashuvi",
+      "Fuqarolarning qonun oldida turli maqomga ega bo'lishi",
+      "Yagona rasmiy mafkuraning majburiy qilib qo'yilishi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (209)"
     }
    ]
   },
@@ -3209,6 +5442,325 @@
       "Estetik normalar"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra ijtimoiy munosabatlar ijtimoiy subyektlar o'rtasida nima yuzasidan kelib chiqadigan aloqalardir?",
+     "options": [
+      "Hayotiy ne'matlarni taqsimlash, moddiy va ma'naviy ehtiyojlarni qondirish yuzasidan",
+      "Faqat davlat organlarining buyruqlarini ijro etish jarayonida va shu bilan bog'liq holda",
+      "Faqat sud qarorlarini bajarish va jazoni ijro etish yuzasidan yuzaga keladigan holatlarda",
+      "Inson va texnika vositalari o'rtasidagi aloqalarni ishlab chiqarishda tashkil etish yuzasidan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (78)"
+    },
+    {
+     "q": "Saydullayev darsligida sanab o'tilgan ijtimoiy munosabatlar turlaridan biri qaysi?",
+     "options": [
+      "Etnik munosabatlar",
+      "Texnik munosabatlar",
+      "Biologik munosabatlar",
+      "Fizikaviy munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (78)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra quyidagilardan qaysi biri ijtimoiy aloqa (ijtimoiy munosabat) sifatida tavsiflanmaydi?",
+     "options": [
+      "Insonning o'simlik va hayvonot dunyosidan foydalanishi",
+      "Ikki fuqaro o'rtasida uy-joyni oldi-sotdi qilish shartnomasining tuzilishi",
+      "Ota-ona va farzandlar o'rtasidagi oilaviy munosabat",
+      "Ish beruvchi va xodim o'rtasidagi mehnat munosabati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (78)"
+    },
+    {
+     "q": "Ijtimoiy munosabatlar deganda jamiyatda kishilar o'rtasida yuzaga keladigan qanday aloqalar tushuniladi?",
+     "options": [
+      "Ongli, maqsadga yo'naltirilgan aloqalar",
+      "Tasodifiy, ongsiz va maqsadsiz aloqalar",
+      "Faqat tabiiy-biologik aloqalar",
+      "Faqat inson va mashina o'rtasidagi aloqalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (78)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra har qanday jamiyatda uning a'zolari munosabatlarini tartibga solish nima hisoblanadi?",
+     "options": [
+      "Jamiyat mavjudligining zaruriy sharti",
+      "Faqat davlat paydo bo'lgandan keyingi ixtiyoriy hodisa",
+      "Faqat ibtidoiy jamiyatga xos hodisa",
+      "Faqat sotsialistik jamiyatga xos talab"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (79)"
+    },
+    {
+     "q": "Normativ tartibga solishda norma (qoida)lar kimga tegishli bo'ladi?",
+     "options": [
+      "Jamiyatning barcha a'zolariga yoxud uning muayyan qismiga",
+      "Faqat bitta aniq shaxsga, faqat bir martalik muayyan vaziyatda va muayyan ish bo'yicha",
+      "Faqat muayyan ish bo'yicha sud jarayoni taraflariga",
+      "Faqat davlat rahbari va uning maslahatchilariga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (79)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra normativ va individual tartibga solish o'zaro qanday nisbatda bo'ladi?",
+     "options": [
+      "Chambarchas bog'liq, bir-biriga ta'sir qiladi va bir-birining mavjudligini taqozo etadi",
+      "Ular bir-birini to'liq istisno etadi: ulardan biri mavjud bo'lsa, ikkinchisi mavjud bo'la olmaydi",
+      "Individual tartibga solish normativ tartibga solishni butunlay bekor qiladi",
+      "Ular bir-biri bilan hech qanday aloqaga ega bo'lmagan mustaqil hodisalardir"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (79)"
+    },
+    {
+     "q": "Jamiyatda amal qiladigan barcha normalarni ijtimoiy va texnik normalarga bo'lish qaysi mezonga asoslanadi?",
+     "options": [
+      "Tartibga solish predmetiga",
+      "Qabul qilingan vaqtiga",
+      "Yuridik kuchiga",
+      "Hududiy amal qilish doirasiga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (79)"
+    },
+    {
+     "q": "Saydullayev ta'rifiga ko'ra ijtimoiy norma nima?",
+     "options": [
+      "Kishilar va ularning jamoalari o'rtasidagi munosabatni tartibga soluvchi xulq-atvor qoidasi",
+      "Insonning texnika vositalaridan xavfsiz foydalanish tartibini belgilovchi qoida",
+      "Faqat davlat tomonidan qabul qilinadigan va sud orqali himoya qilinadigan qoida",
+      "Tabiat hodisalarining takrorlanuvchi, inson irodasi va xohishiga mutlaqo bog'liq bo'lmagan obyektiv qonuniyati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)"
+    },
+    {
+     "q": "Jamiyatni boshqarish jarayonida siyosiy hokimiyat subyektlarining o'zaro va shaxslar bilan munosabatlarini tartibga soluvchi qoidalar qanday ataladi?",
+     "options": [
+      "Siyosiy normalar",
+      "Korporativ normalar",
+      "Diniy normalar",
+      "An'ana normalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra diniy normalar muayyan din hukmron mafkura bo'lgan mamlakatlarda nimani ham tartibga soladi?",
+     "options": [
+      "Shaxslarning o'zaro muomalasiga oid munosabatlarni",
+      "Faqat inson va mashina, inson va mehnat quroli o'rtasidagi munosabatlarni",
+      "Faqat davlatlararo xalqaro munosabatlarni",
+      "Faqat sport musobaqalari qoidalarini"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra korporativ normalar kimlarga nisbatan joriy etiladi va kimlar uchun majburiy?",
+     "options": [
+      "Faqat o'sha tashkilot a'zolariga",
+      "Mamlakatning barcha fuqarolari va chet el fuqarolariga",
+      "Faqat davlat xizmatchilariga",
+      "Faqat chet el fuqarolariga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80–81)"
+    },
+    {
+     "q": "Kishilar o'rtasida ko'p marta takrorlanganligi sababli odatga aylangan va avloddan-avlodga o'tib kelayotgan xulq-atvor qoidalari qanday ataladi?",
+     "options": [
+      "Urf-odat normalari",
+      "Siyosiy normalar",
+      "Texnik normalar",
+      "Korporativ normalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (81)"
+    },
+    {
+     "q": "Jamiyatda qaror topgan ilg'or, ijobiy an'analarni asrash munosabati bilan yuzaga keladigan umumlashgan va barqaror xulq-atvor qoidalari qanday ataladi?",
+     "options": [
+      "An'anaviy normalar",
+      "Texnik-texnologik normalar",
+      "Siyosiy normalar",
+      "Huquq normalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (81)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra axloq normalari qanday tushunchalar ko'rinishida kishilar ongida shakllanadi?",
+     "options": [
+      "Yaxshilik va yomonlik, ezgulik va yovuzlik, or-nomus, vijdon",
+      "Qonuniylik va g'ayriqonuniylik, jazolanish va jazolanmaslik, yuridik majburiyat",
+      "Buyruq va ijro, vakolat va bo'ysunish",
+      "Foyda va zarar, kirim va chiqim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)"
+    },
+    {
+     "q": "Falsafiy nuqtai nazardan huquq va axloq qanday kategoriyalar hisoblanadi?",
+     "options": [
+      "Ustqurma kategoriyalari",
+      "Bazis (iqtisodiy asos) kategoriyalari",
+      "Texnik kategoriyalar",
+      "Biologik kategoriyalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (81)"
+    },
+    {
+     "q": "Huquq va axloqning umumiy jihatlaridan biri sifatida ular inson faoliyatini tartibga soluvchi omil sifatida nimaga asoslanadi?",
+     "options": [
+      "Shaxs irodasining erkinligi va xatti-harakatlarni tanlash imkoniyatlariga",
+      "Faqat davlat majburlovi va jismoniy kuch qo'llash imkoniyatiga, shaxs irodasidan qat'i nazar",
+      "Faqat diniy aqidalar va ibodat qoidalariga",
+      "Faqat texnik standartlar va reglamentlarga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (82)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra axloq normalari kim tomonidan yaratiladi?",
+     "options": [
+      "Butun jamiyat tomonidan",
+      "Faqat parlament tomonidan",
+      "Faqat sud tomonidan",
+      "Faqat diniy tashkilotlar tomonidan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (82)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra axloq qoidalarini buzganlik uchun jamiyat ko'rsatadigan ta'sir chorasi qanday bo'lishi mumkin?",
+     "options": [
+      "Ba'zan huquqiy jazodan ham qattiqroq va ta'sirliroq",
+      "Doimo sud tomonidan tayinlanadigan va davlat byudjetiga o'tkaziladigan jarima",
+      "Har doim qonunda aniq belgilangan jazo",
+      "Faqat davlat organlari qo'llaydigan majburlov"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (82)"
+    },
+    {
+     "q": "Ifoda shakliga ko'ra axloq normalari huquq normalaridan nimasi bilan farq qiladi?",
+     "options": [
+      "Ularning yuzaga kelish vaqti, sababi va amal qilish muddatini aniq ko'rsatib bo'lmaydi",
+      "Ular faqat kodekslar va farmonlarda rasmiy e'lon qilinadi",
+      "Ular davlat organi tomonidan qabul qilinib, rasmiy nashrda chop etiladi va muayyan sanadan kuchga kiradi",
+      "Ular faqat xalqaro shartnomalarda mustahkamlanadi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (82–83)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquq normalari subyektlar o'rtasidagi munosabatlarni qaysi nuqtai nazardan tartibga soladi?",
+     "options": [
+      "Qonuniylik va g'ayriqonuniylik, jazolanish va jazolanmaslik",
+      "Ezgulik va yovuzlik, maqtov va qoralash",
+      "Olijanoblik va pastkashlik, halollik va nopoklik, vijdon va or-nomus nuqtai nazaridan",
+      "Go'zallik va xunuklik, did va didsizlik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (83)"
+    },
+    {
+     "q": "Axloq qoidalarini buzganlik uchun javobgarlik nimada ifodalanadi?",
+     "options": [
+      "Axloqiy qoralash, tanbeh berish, jamoatchilik ta'siri choralarida",
+      "Qonunda qat'iy belgilangan jinoiy jazoni sud tomonidan protsessual tartibda tayinlashda",
+      "Ma'muriy jarima va mol-mulkni musodara qilishda",
+      "Davlat organi tomonidan ozodlikdan mahrum qilishda"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (83)"
+    },
+    {
+     "q": "Huquq va axloqning amal qilish sohalari bir-biriga nisbatan qanday?",
+     "options": [
+      "Axloqiy makon huquqiy makondan ancha kengdir",
+      "Huquqiy makon axloqiy makondan ancha kengdir",
+      "Ularning amal qilish sohalari to'liq bir xil",
+      "Axloq faqat davlat organlari faoliyatiga taalluqli"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (83)"
+    },
+    {
+     "q": "Odatda qaysi ijtimoiy munosabatlar huquq bilan tartibga solinadi?",
+     "options": [
+      "Davlat va jamiyat manfaatlari nuqtai nazaridan eng muhim munosabatlar",
+      "Jamiyat hayotining barcha, hatto eng mayda shaxsiy va maishiy munosabatlari ham, istisnosiz",
+      "Faqat do'stlik va oilaviy-maishiy odob munosabatlari",
+      "Faqat diniy marosimlar bilan bog'liq munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 83; O: 315)"
+    },
+    {
+     "q": "Saydullayev ta'rifiga ko'ra huquq (yuridik ma'noda) o'zida qaysi tamoyillarni ifodalaydi?",
+     "options": [
+      "Erkinlik, tenglik va adolat",
+      "Itoat, intizom va oliy hokimiyat buyrug'i",
+      "Kuch, majburlov va qo'rquv",
+      "Diniy e'tiqod va ibodat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ijtimoiy munosabatlarni tartibga soluvchi ijtimoiy normalar ichida huquq normasi ayniqsa nimasi bilan ajralib turadi?",
+     "options": [
+      "Shaklan aniq qoida ekanligi bilan",
+      "Faqat og'zaki shaklda mavjudligi bilan",
+      "Tavsiyaviy, maslahat xususiyatidagi qoida ekanligi bilan",
+      "Faqat bir tashkilot a'zolari uchun majburiyligi bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (266)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq normasi o'z mohiyatiga ko'ra nima hisoblanadi?",
+     "options": [
+      "Davlat irodasini ifodalovchi hokimiyat amri",
+      "Muayyan harakatni maslahat beruvchi tavsiyanoma",
+      "Jamoatchilik fikriga tayanuvchi axloqiy da'vat",
+      "Faqat diniy ulamolar tomonidan berilgan fatvo"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (265–266)"
+    },
+    {
+     "q": "Odilqoriyev darsligida odat qanday ta'riflanadi?",
+     "options": [
+      "Doimiy takrorlanishi natijasida kishilar ongida shakllangan xulq-atvor qoidasi",
+      "Parlament tomonidan qabul qilingan yozma qonun",
+      "Sud tomonidan chiqarilgan va keyinchalik barcha quyi sudlar uchun majburiy bo'lgan qaror",
+      "Ikki davlat o'rtasida tuzilgan shartnoma qoidasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (214)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra jamiyatda qat'iy tartibni ta'minlay oladigan va shu sababli huquqiy tartibga solishni obyektiv zaruriyatga aylantiradigan omil nima?",
+     "options": [
+      "Davlatning majburlov kuchiga tayanuvchi huquq",
+      "Faqat diniy aqidalar va urf-odatlar",
+      "Faqat jamoatchilik fikri, maqtov va ijtimoiy qoralash choralari",
+      "Faqat texnik normalar va standartlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (460)"
     }
    ]
   },
@@ -3589,6 +6141,336 @@
       "Psixologik yondashuv"
      ],
      "answer": 0
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra «ma'naviy huquq», «xalqlar huquqi» qaysi ma'nodagi huquqqa misol bo'ladi?",
+     "options": [
+      "Umumijtimoiy ma'nodagi huquqqa",
+      "Maxsus yuridik ma'nodagi huquqqa",
+      "Subyektiv huquqqa",
+      "Protsessual huquqqa"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (182)"
+    },
+    {
+     "q": "Odilqoriyev darsligidagi sof yuridik ma'nodagi huquq ta'rifiga ko'ra huquq nima?",
+     "options": [
+      "Davlat o'rnatadigan va ta'minlaydigan umummajburiy yuridik normalar tizimi",
+      "Shaxsning ichki ruhiy kechinmalari, imperativ-atributiv his-tuyg'ulari va emotsiyalari majmui",
+      "Shaxsning ichki ruhiy kechinmalari va his-tuyg'ulari majmui",
+      "Diniy ulamolar tomonidan sharhlangan ibodat qoidalari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (182)"
+    },
+    {
+     "q": "Rim yuristi Pavelga ko'ra «hamisha odilona va oqilona bo'lgan narsa» ma'nosidagi huquq qanday ataladi?",
+     "options": [
+      "Tabiiy huquq",
+      "Fuqarolik (tsivil) huquqi",
+      "Pozitiv huquq",
+      "Xalqaro huquq"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (182–183)"
+    },
+    {
+     "q": "Qadimgi Rim yuristi Ulpianga ko'ra «jus» (huquq) so'zi qaysi so'zdan olingan?",
+     "options": [
+      "«Justitia» – haqiqat, adolat",
+      "«Lex» – qonun, hukmdor buyrug'i",
+      "«Potestas» – hokimiyat",
+      "«Mos» – odat"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (183)"
+    },
+    {
+     "q": "Qadimgi yunon mutafakkiri Aristotel ta'biri bilan huquq nima bo'lib xizmat qilishi lozim?",
+     "options": [
+      "«Adolat mezoni»",
+      "«Hukmdorning buyrug'i»",
+      "«Xalq ruhining ifodasi»",
+      "«Himoyalangan manfaat»"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (183)"
+    },
+    {
+     "q": "Tabiiy huquq g'oyalarining ifodasi bo'lgan yashash huquqi amaldagi (2023-yilgi) O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida mustahkamlangan?",
+     "options": [
+      "25-moddasida",
+      "24-moddasining 1-qismida",
+      "18-moddasida",
+      "13-moddasida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 25-modda (S: 87; O: 184)"
+    },
+    {
+     "q": "Davlat va huquq munosabatiga oid birinchi yondashuvda (davlat — huquq manbai) huquq normalariga qanday qaraladi?",
+     "options": [
+      "«Davlat talablari» sifatida",
+      "«Xalq ruhi» ifodasi sifatida",
+      "Ilohiy amr sifatida",
+      "Shaxsiy kechinmalar sifatida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (186)"
+    },
+    {
+     "q": "Davlat va huquq munosabatiga oid ikkinchi yondashuvga ko'ra qaysi fikr to'g'ri?",
+     "options": [
+      "Huquq davlatdan ustun turadi, uni muvozanatga soladi va chegaralaydi",
+      "Davlat birlamchi, huquq esa ikkilamchi hodisadir",
+      "Davlat hokimiyati huquqqa tobe emas, aksincha, huquqdan ustun turadi va uni yaratadi",
+      "Huquq faqat hukmdorning buyrug'idan iborat"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (186–187)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqning umummajburiyligi (normativligi) kimlarga nisbatan tatbiq etiladi?",
+     "options": [
+      "Fuqarolar, mansabdor shaxslar, tashkilotlar va davlatning o'ziga ham",
+      "Faqat oddiy fuqarolarga, davlat organlariga esa tatbiq etilmaydi",
+      "Faqat davlat organlariga, oddiy fuqarolar va nodavlat tashkilotlarga esa tatbiq etilmaydi",
+      "Faqat sudlanganlik holati mavjud bo'lgan shaxslarga nisbatan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (187)"
+    },
+    {
+     "q": "Shaxs bo'ysunmagan holda qonun bilan nazarda tutilgan choralarga duch kelishdan qo'rqishi qanday majburlov deb ataladi?",
+     "options": [
+      "Ruhiy majburlov",
+      "Jismoniy majburlov",
+      "Iqtisodiy majburlov",
+      "Korporativ majburlov"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (188)"
+    },
+    {
+     "q": "Akademik V.S. Nersesyants bo'yicha huquq va qonunni aynanlashtirishdan kelib chiqadigan huquqni tushunish shakli qanday ataladi?",
+     "options": [
+      "Legistik",
+      "Yuridik",
+      "Libertar",
+      "Integrativ"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (190)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqqa legistik yondashuvni asoslagan ingliz mutafakkirlari kimlar?",
+     "options": [
+      "T. Gobbs va J. Ostin",
+      "J. Lokk va Sh. Monteskye",
+      "F. Savinyi va G. Puxta",
+      "Y. Erlix va F. Jeni"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (190)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra legistik yondashuv tarafdorlari adolatsiz qonunga qanday baho beradi?",
+     "options": [
+      "Uni ham huquqiy deb hisoblaydi",
+      "Uni huquq emas deb inkor etadi",
+      "Uni faqat sud tasdiqlasa huquq deb biladi",
+      "Uni tabiiy huquqqa zid deb bekor qiladi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (191)"
+    },
+    {
+     "q": "Normativizm qaysi ta'limotning bir shakli hisoblanadi?",
+     "options": [
+      "Yuridik pozitivizmning",
+      "Tabiiy huquq nazariyasining",
+      "Tarixiy maktabning",
+      "Psixologik nazariyaning"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (191)"
+    },
+    {
+     "q": "Huquqni yuridik tushunishning libertar-yuridik (erkinlik) shaklini kim ilgari surgan?",
+     "options": [
+      "Akademik V.S. Nersesyants",
+      "Avstriyalik huquqshunos G. Kelzen",
+      "L.I. Petrajitskiy",
+      "F. Savinyi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (192)"
+    },
+    {
+     "q": "Tabiiy huquq nazariyasining asosiy g'oyalariga ko'ra huquq qaysi ijtimoiy hodisa bilan aynanlashtiriladi?",
+     "options": [
+      "Axloq bilan",
+      "Davlat bilan",
+      "Iqtisodiyot bilan",
+      "Din bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (192)"
+    },
+    {
+     "q": "Tabiiy huquq nazariyasiga ko'ra inson huquqlarining manbai nima?",
+     "options": [
+      "Insonning tabiati (tug'ilishdan ega bo'lish)",
+      "Parlament qabul qilgan qonunlar",
+      "Parlament qabul qilgan qonunlar va hukmdor farmonlari",
+      "Hukmdorning farmonlari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (193)"
+    },
+    {
+     "q": "Saydullayev darsligida tabiiy huquq nazariyasining vakillari sifatida kimlar ko'rsatilgan?",
+     "options": [
+      "Lokk, Russo, Monteskye, Radishchev",
+      "Gugo, Savinyi, Puxta va boshqa nemis olimlari",
+      "Petrajitskiy, Ross, Reysner",
+      "Erlix va uning shogirdlari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (87)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqqa sotsiologik yondashuv qachon va qaysi maktab doirasida shakllangan?",
+     "options": [
+      "XIX asrning ikkinchi yarmida, «erkin huquq» maktabi doirasida",
+      "XVII–XVIII asrlarda, tabiiy huquq maktabi doirasida",
+      "XX asr oxirida, integrativ (umumlashtiruvchi) maktab doirasida",
+      "Antik davrda, sofistlar maktabi doirasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (194)"
+    },
+    {
+     "q": "Sotsiologik yondashuvga ko'ra yozilgan qonunlar nimaga o'xshatiladi?",
+     "options": [
+      "To'ldirilishi lozim bo'lgan idishga (bo'sh tovushga)",
+      "Daraxtning ildiziga",
+      "Tilning grammatikasiga",
+      "Normalar piramidasining eng yuqori cho'qqisidagi asosiy normaga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (195)"
+    },
+    {
+     "q": "Sotsiologik yondashuvga ko'ra «jonli huquq»ni dastavval kim yaratadi?",
+     "options": [
+      "Sudyalar",
+      "Parlament deputatlari",
+      "Diniy ulamolar",
+      "Xalqaro tashkilotlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (196)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra sotsiologik maktab asoschisi Erlixning qaysi kitobida bu yo'nalishning asosiy g'oyalari bayon qilingan?",
+     "options": [
+      "«Huquq sotsiologiyasi» (1911)",
+      "«Huquq uchun kurash» va «Huquqda maqsad»",
+      "«Xo'jalik va huquq»",
+      "«Sof huquq nazariyasi»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (89)"
+    },
+    {
+     "q": "Huquqning psixologik nazariyasiga ko'ra qaysi huquq inson xulq-atvorining haqiqiy tartibga soluvchisi va «haqiqiy» huquq sifatida qaralishi kerak?",
+     "options": [
+      "Intuitiv (shaxsiy) huquq",
+      "Pozitiv (davlat o'rnatgan) huquq",
+      "Xalqaro huquq",
+      "Odat huquqi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (197)"
+    },
+    {
+     "q": "Sobiq sovet huquq nazariyasida huquqqa psixologik yondashuv qanday baholangan?",
+     "options": [
+      "Subyektiv idealizmga olib keluvchi nazariya sifatida rad etilgan",
+      "Yagona ilmiy to'g'ri nazariya sifatida qabul qilingan",
+      "Yagona ilmiy to'g'ri nazariya sifatida qabul qilinib, Konstitutsiyaga asos qilib olingan",
+      "Hech qanday baho berilmagan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (198)"
+    },
+    {
+     "q": "Tarixiy maktab vakillari huquqning rivojlanishini nimaning rivojlanishiga o'xshatgan?",
+     "options": [
+      "Tilning",
+      "Texnikaning",
+      "Bozorning",
+      "Armiyaning"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 89; O: 198)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra tarixiy maktab qaysi usulni «sun'iy» deb rad etgan?",
+     "options": [
+      "Kodifikatsiyani",
+      "Urf-odatlarni",
+      "An'analarni",
+      "«Xalq ruhi»ga tayanishni"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (89)"
+    },
+    {
+     "q": "F.K. Savinyiga ko'ra taraqqiyotning birinchi bosqichida huquq qanday shaklda namoyon bo'ladi?",
+     "options": [
+      "Odatlar shaklida",
+      "Kodekslar shaklida",
+      "Sud pretsedentlari shaklida",
+      "Xalqaro shartnomalar shaklida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (199)"
+    },
+    {
+     "q": "«Huquq uchun kurash», «Huquqda maqsad» asarlari muallifi va «huquq – himoyalangan davlat manfaati» degan fikr egasi kim?",
+     "options": [
+      "R. Iyering",
+      "L.I. Petrajitskiy",
+      "Y. Erlix",
+      "F. Savinyi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (87–88)"
+    },
+    {
+     "q": "Huquqni tushunishga integrativ yondashuvga ko'ra huquqning mazmunini nima tavsiflaydi?",
+     "options": [
+      "Erkinlikning adolatli o'lchovlari",
+      "Faqat davlat majburlovi",
+      "Faqat davlat majburlovi va jazo choralari",
+      "Faqat diniy aqidalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (200)"
+    },
+    {
+     "q": "Islom huquq doktrinasida analogiya, o'xshatish yo'li bilan chiqarilgan hukm qanday ataladi?",
+     "options": [
+      "Qiyos",
+      "Ijmo'",
+      "Sunna",
+      "Fatvo (muftiy xulosasi)"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (90)"
     }
    ]
   },
@@ -3976,6 +6858,336 @@
       "Kommunikativ funksiya"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquq prinsiplari, qoida tariqasida, qayerda maxsus tartibda belgilab qo'yiladi?",
+     "options": [
+      "Konstitutsiyada, qonunlar va kodekslarning muqaddima yoki umumiy qoidalar qismida",
+      "Faqat sud hukmlarining asoslantiruvchi qismida hamda sudyalarning alohida fikrlari va sharhlarida",
+      "Faqat vazirliklarning ichki yo'riqnomalarida",
+      "Faqat xalqaro tashkilotlarning tavsiyalarida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)"
+    },
+    {
+     "q": "Huquq prinsiplari huquq ijodkori uchun qanday rol o'ynaydi?",
+     "options": [
+      "Huquq normalarini takomillashtirish yo'llarini belgilovchi dasturiy g'oyalar",
+      "Faqat sud qarorlarini bekor qilish uchun asos",
+      "Faqat jazo choralarining aniq miqdori",
+      "Hech qanday amaliy ahamiyatga ega bo'lmagan, faqat nazariy tusdagi mavhum qarashlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra Konstitutsiya mazmunidan anglanadigan huquqiy prinsiplardan biri qaysi?",
+     "options": [
+      "Barcha mulk shakllarining tengligi",
+      "Yagona davlat mafkurasining majburiyligi",
+      "Hokimiyatlarning bir organda birlashuvi",
+      "Jazoning orqaga qaytish kuchi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra javobgarlikning muqarrarligi va oshkoralik qaysi turdagi prinsiplarga kiradi?",
+     "options": [
+      "Sohalararo prinsiplar",
+      "Umumhuquqiy prinsiplar",
+      "Sohaviy prinsiplar",
+      "Texnik prinsiplar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquq va majburiyatlar birligi qaysi turdagi prinsip hisoblanadi?",
+     "options": [
+      "Umumhuquqiy",
+      "Sohalararo prinsip",
+      "Sohaviy",
+      "Korporativ"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84–85)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq prinsiplari o'z mohiyati va tabiati jihatidan nima bilan belgilanadi?",
+     "options": [
+      "Jamiyatning iqtisodiy, ijtimoiy va siyosiy tizimi bilan",
+      "Tasodifiy omillar va qonun chiqaruvchining kayfiyati bilan",
+      "Faqat xorijiy davlatlar tajribasi bilan",
+      "Faqat sudyalarning shaxsiy qarashlari bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (202)"
+    },
+    {
+     "q": "Amaldagi O'zbekiston Respublikasi Konstitutsiyasining muqaddimasida qaysi prinsip o'z aksini topgan?",
+     "options": [
+      "Inson huquq va erkinliklariga hamda davlat suvereniteti prinsiplariga sodiqlik",
+      "Hokimiyatlar bo'linishini rad etuvchi va hokimiyatni bir organda jamlovchi prinsip",
+      "Hokimiyatlar bo'linishini rad etish prinsipi",
+      "Xalqaro huquq normalarini tan olmaslik prinsipi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, muqaddima (202)"
+    },
+    {
+     "q": "Xalq hokimiyatchiligi prinsipi O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida mustahkamlangan?",
+     "options": [
+      "7-moddasida",
+      "11-moddasida",
+      "2-moddasida",
+      "15-moddasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 7-modda (202)"
+    },
+    {
+     "q": "Davlat hokimiyatining bo'linishi prinsipi O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida mustahkamlangan?",
+     "options": [
+      "11-moddasida",
+      "12-moddasining 2-qismida",
+      "12-moddasida",
+      "20-moddasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 11-modda (202)"
+    },
+    {
+     "q": "Siyosiy institutlar, mafkuralar va fikrlar xilma-xilligi prinsipi O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida mustahkamlangan?",
+     "options": [
+      "12-moddasida",
+      "11-moddasining 1-qismida",
+      "11-moddasida",
+      "19-moddasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 12-modda (202)"
+    },
+    {
+     "q": "Fuqarolarning qonun oldida tengligi prinsipi amaldagi (2023-yilgi) Konstitutsiyaning qaysi moddasida mustahkamlangan?",
+     "options": [
+      "19-moddasida",
+      "18-moddasining 1-qismida",
+      "25-moddasida",
+      "7-moddasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 19-modda (205–206)"
+    },
+    {
+     "q": "«Fuqaro va davlat bir-biriga nisbatan o'zaro huquq va majburiyatlar bilan bog'liqdir» degan qoida amaldagi Konstitutsiyaning qaysi moddasida mustahkamlangan va qaysi prinsipni ifodalaydi?",
+     "options": [
+      "20-moddasida; davlat va shaxsning o'zaro mas'ulligi prinsipi",
+      "19-moddasida; demokratizm va hokimiyatlar bo'linishi prinsipi",
+      "15-moddasida; qonuniylik prinsipi",
+      "11-moddasida; insonparvarlik prinsipi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 20-modda (206)"
+    },
+    {
+     "q": "Aybsizlik prezumpsiyasi amaldagi (2023-yilgi) O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida mustahkamlangan?",
+     "options": [
+      "28-moddasida",
+      "26-moddasining 1-qismida",
+      "19-moddasida",
+      "15-moddasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 28-modda (208)"
+    },
+    {
+     "q": "Odilqoriyev darsligida qaysi prinsiplar «huquq binosining tamal toshlari» deb ataladi?",
+     "options": [
+      "Adolat va erkinlik",
+      "Qonuniylik va oshkoralik",
+      "Demokratizm va federalizm",
+      "Tortishuvlilik va og'zakilik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (203)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq prinsiplari o'z tabiatiga ko'ra qaysi turlarga bo'linadi?",
+     "options": [
+      "Ijtimoiy-iqtisodiy, siyosiy, mafkuraviy, axloqiy, diniy va maxsus-yuridik",
+      "Faqat moddiy huquq va protsessual huquq prinsiplari, boshqa hech qanday tasnifsiz",
+      "Faqat ommaviy va xususiy",
+      "Faqat milliy va xalqaro"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (203)"
+    },
+    {
+     "q": "Huquq ijodkorligi sohasida xalq, deputatlar, jamoat birlashmalari va fuqarolarning qonunchilikni takomillashtirishda keng ishtiroki qaysi prinsipda namoyon bo'ladi?",
+     "options": [
+      "Demokratizm prinsipida",
+      "Insonparvarlik prinsipida",
+      "Qonuniylik prinsipida",
+      "Aybsizlik prezumpsiyasida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (203)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra qonuniylik prinsipi qanday ikki sifat bilan tavsiflanadi?",
+     "options": [
+      "Umumiylik va yagonalik",
+      "Ixtiyoriylik va tavsiyaviylik",
+      "Mahalliylik va vaqtinchalik",
+      "Maxfiylik va tanlanganlik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (204)"
+    },
+    {
+     "q": "Huquqda shaxsni tahqirlovchi, qiynovchi, unga nisbatan noinsoniy munosabatni yoqlab chiquvchi qoidalar bo'lishi mumkin emasligi qaysi prinsipning talabi?",
+     "options": [
+      "Insonparvarlik prinsipi",
+      "Demokratizm va xalq hokimiyatchiligi prinsipi",
+      "Federalizm prinsipi",
+      "Tortishuvlilik prinsipi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (205)"
+    },
+    {
+     "q": "Fuqarolarning qonun oldida tengligi prinsipi Odilqoriyev darsligiga ko'ra yana nimada ifodalanadi?",
+     "options": [
+      "Fuqarolarning qonun oldida birdek mas'ulligida",
+      "Barcha fuqarolarning bir xil daromad olishida",
+      "Huquqlardan barcha amalda bir xil foydalanishida",
+      "Imtiyozlarning butunlay taqiqlanishida"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (206)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra maxsus yuridik prinsiplar aslida nima?",
+     "options": [
+      "Huquqiy tilda ifodalangan ijtimoiy prinsiplar",
+      "Faqat bitta huquq sohasiga xos bo'lgan, boshqa sohalarda qo'llanilmaydigan qoidalar",
+      "Diniy aqidalarning yuridik nomi",
+      "Sud amaliyotida shakllangan odatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (207)"
+    },
+    {
+     "q": "Yangi yoki nisbatan og'irroq yuridik javobgarlikni o'rnatuvchi qonunning orqaga qaytish kuchiga ega emasligi Odilqoriyev darsligida qaysi prinsiplar qatorida keltirilgan?",
+     "options": [
+      "Maxsus yuridik prinsiplar",
+      "Sohaviy (yer huquqi) prinsiplari",
+      "Siyosiy prinsiplar",
+      "Diniy prinsiplar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (208)"
+    },
+    {
+     "q": "Mehnat, fuqarolik va oila huquqi sohalarida qo'llaniladigan moddiy javobgarlik prinsipi qaysi turdagi prinsip?",
+     "options": [
+      "Tarmoqlararo prinsip",
+      "Faqat fuqarolik huquqiga xos sohaviy prinsip",
+      "Umumiy prinsip",
+      "Siyosiy prinsip"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (208)"
+    },
+    {
+     "q": "«Yerga egalik qilish shakllarining ko'pligi va ularning tengligi» prinsipi qaysi turdagi prinsipga misol?",
+     "options": [
+      "Sohaviy (yer huquqi) prinsipiga",
+      "Barcha huquq tarmoqlariga xos umumhuquqiy prinsipga",
+      "Tarmoqlararo prinsipga",
+      "Xalqaro huquq prinsipiga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (208)"
+    },
+    {
+     "q": "Huquq funksiyasining qo'llanishidagi uzluksizlik va davomiylik uning qaysi belgisi bilan tavsiflanadi?",
+     "options": [
+      "Muntazamligi (doimiyligi)",
+      "Tasodifiyligi va bir martalik xususiyati",
+      "Bir martalik xususiyati",
+      "Ixtiyoriyligi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 85; O: 210)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquqning umumijtimoiy funksiyalari qaysi ma'nodagi funksiyalar hisoblanadi?",
+     "options": [
+      "Keng ma'nodagi",
+      "Tor ma'nodagi",
+      "Protsessual ma'nodagi",
+      "Texnik ma'nodagi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra ekologik funksiya huquq funksiyalarining qaysi turiga kiradi?",
+     "options": [
+      "Umumijtimoiy funksiyalarga",
+      "Maxsus yuridik funksiyalarga",
+      "Regulyativ-statik funksiyaga",
+      "Qo'riqlovchi funksiyaga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (86)"
+    },
+    {
+     "q": "Odilqoriyev darsligida sof yuridik nuqtai nazardan huquq funksiyalari qanday ikki turga ajratiladi?",
+     "options": [
+      "Regulyativ va negativ (qo'riqlovchi)",
+      "Iqtisodiy, siyosiy, tarbiyaviy va ekologik",
+      "Ichki va tashqi",
+      "Tarbiyaviy va ekologik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (210)"
+    },
+    {
+     "q": "Regulyativ-statik funksiya qaysi normalar orqali amalga oshadi?",
+     "options": [
+      "Vakolat beruvchi va man etuvchi normalar",
+      "Faqat majburiyat yuklovchi va jazo belgilovchi normalar",
+      "Faqat texnik normalar",
+      "Faqat korporativ normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (210)"
+    },
+    {
+     "q": "Soliqlarni to'lash, harbiy burchni ado etish kabi majburiyatlarni yuklash orqali amalga oshiriladigan funksiya qaysi?",
+     "options": [
+      "Regulyativ-dinamik funksiya",
+      "Regulyativ-statik (mustahkamlovchi) funksiya",
+      "Tarbiyaviy funksiya",
+      "Ekologik funksiya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (211)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqning qo'riqlovchi funksiyasi bilan davlatning huquqni muhofaza etish faoliyati qanday nisbatda?",
+     "options": [
+      "Birinchisi huquqning bevosita amal qilishi, ikkinchisi esa uning moddiy kafolati",
+      "Ular aynan bir xil tushunchalar bo'lib, bir-biridan hech narsasi bilan farq qilmaydi",
+      "Ikkinchisi birinchisining bir turi xolos",
+      "Ular bir-biriga hech qanday aloqasi yo'q"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (212)"
     }
    ]
   },
@@ -4372,6 +7584,336 @@
       "Huquqiy eksperiment"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquqiy ong tarkibiga nechta baholash bilan bog'liq munosabat kiradi?",
+     "options": [
+      "To'rtta",
+      "Ikkita",
+      "Uchta",
+      "Beshtadan ortiq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (94)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquqiy ruhiyat (psixologiya) qanday vujudga keladi?",
+     "options": [
+      "Stixiyali ravishda, huquqiy muhitning bevosita ta'sirida",
+      "Faqat ilmiy tadqiqotlar va monografiyalar natijasida",
+      "Faqat yangi qonun rasman e'lon qilingan kundan boshlab",
+      "Davlat organlarining maxsus buyrug'i asosida, rejali tarzda"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (94)"
+    },
+    {
+     "q": "Gegelning huquq falsafasi, tabiiy-huquqiy va pozitivistik ta'limotlar huquqiy ongning qaysi elementi sifatida e'tirof etiladi?",
+     "options": [
+      "Huquqiy mafkura",
+      "Huquqiy ruhiyat",
+      "Odatiy huquqiy ong",
+      "Huquqiy nigilizm"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (95)"
+    },
+    {
+     "q": "Saydullayev darsligida O'zbekistonda huquqiy mafkuraga yaqqol misol sifatida nima keltiriladi?",
+     "options": [
+      "Huquqiy davlat va fuqarolik jamiyatini barpo etish konsepsiyasi",
+      "Fuqarolarning kundalik kayfiyati va istaklari majmui",
+      "Mahalliy urf-odat va an'analarning yozilmagan, og'zaki shakldagi to'plami",
+      "Yo'l harakati qoidalariga rioya qilish ko'nikmalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (95)"
+    },
+    {
+     "q": "Subyektlariga ko'ra huquqiy ong qanday turlarga bo'linadi?",
+     "options": [
+      "Individual, guruhiy va ijtimoiy",
+      "Oddiy, ilmiy va kasbiy",
+      "Faol va passiv",
+      "Regulyativ, qo'riqlovchi va deklarativ"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (95–96)"
+    },
+    {
+     "q": "Yuridik yo'nalishdagi ilmiy-tadqiqot institutlari va oliy yuridik o'quv yurtlarida faoliyat ko'rsatuvchi huquqshunos olimlar huquqiy ongning qaysi turi egalari hisoblanadi?",
+     "options": [
+      "Ilmiy huquqiy ong",
+      "Odatiy huquqiy ong",
+      "Guruhiy huquqiy ong",
+      "Individual huquqiy ong"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (96–97)"
+    },
+    {
+     "q": "Bevosita kishilarning hayotiy sharoitlari va tajribasi asosida shakllanadigan, his-tuyg'ular muhim rol o'ynaydigan huquqiy ong qaysi?",
+     "options": [
+      "Odatiy (oddiy) huquqiy ong",
+      "Ilmiy huquqiy ong",
+      "Professional (kasbiy) huquqiy ong",
+      "Ijtimoiy huquqiy ong"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 96; O: 293)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra kasbiy huquqiy ong qanday shakllanadi?",
+     "options": [
+      "Yuridik oliy o'quv yurtlarida shakllanib, amaliyotda sayqallanadi",
+      "Faqat oilada, bolalik chog'ida o'z-o'zidan vujudga keladi",
+      "Ommaviy axborot vositalari orqali stixiyali paydo bo'lib, tez o'zgaradi",
+      "Faqat diniy ta'lim muassasalarida o'qish natijasida yuzaga keladi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (293–294)"
+    },
+    {
+     "q": "Adabiyotlarda «bashoratlash funksiyasi» deb ham yuritiladigan huquqiy ong funksiyasi qaysi?",
+     "options": [
+      "Huquqiy modellashtirish funksiyasi",
+      "Baholash funksiyasi",
+      "Huquqiy ongning g'oyaviy-tarbiyaviy funksiyasi",
+      "Bilish funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (98)"
+    },
+    {
+     "q": "Huquqiy ongning qaysi funksiyasi adolat, insonparvarlik, mehr-muruvvat kabi umuminsoniy qadriyatlarni targ'ib etish bilan tavsiflanadi?",
+     "options": [
+      "G'oyaviy-tarbiyaviy funksiya",
+      "Huquqiy modellashtirish funksiyasi",
+      "Bilish funksiyasi",
+      "Tartibga solish funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (98–99)"
+    },
+    {
+     "q": "Odilqoriyev darsligida huquqiy ongning qaysi funksiyasi sezish, eshitish va ko'rishdan vujudga keladigan ruhiy hodisalardan tuzilgan deb ko'rsatiladi?",
+     "options": [
+      "Axborot olish funksiyasi",
+      "Baholash funksiyasi",
+      "Tartibga solish funksiyasi",
+      "Shakllantirish funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (294)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra «huquqning legitimligi» atamasi nimani anglatadi?",
+     "options": [
+      "Huquqning amaldagi tizimini aholining aksariyat qismi tan olishini",
+      "Huquq normalarining faqat sud orqali qo'llanilishini",
+      "Milliy huquqning xalqaro huquqdan ustun turishini",
+      "Barcha qonunlarning faqat umumxalq referendumi orqali qabul qilinishini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (286)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq normalari va ularning majburiyligi komil insonlar ongining bir qismi bo'lishi kerak, shuning uchun huquq ma'naviy hodisa, degan fikr kimga tegishli?",
+     "options": [
+      "Al-Forobiy",
+      "I. Kant",
+      "K. Marks",
+      "Sh. Monteskye"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (285)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqni inson tabiiy huquqlarini rasmiylashtiruvchi vosita va kafolat deb e'tirof etgan mutafakkirlar kimlar?",
+     "options": [
+      "Sh. Monteskye va J.J. Russo",
+      "I. Kant va G. Gegel",
+      "K. Marks va V.I. Lenin",
+      "Al-Forobiy va Abu Rayhon Beruniy"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (285)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquqiy madaniyatga ega shaxs qanday tavsiflanadi?",
+     "options": [
+      "Normalarni bilishi, huquqni hurmat qilishi va shunga mos xulq-atvori bilan",
+      "Faqat oliy yuridik ma'lumotga ega bo'lishi va davlat xizmatida ishlashi bilan",
+      "Barcha kodekslarni yoddan bilishi va advokatlik litsenziyasiga ega bo'lishi bilan",
+      "Faqat jinoiy javobgarlikka tortilmaganligi va soliqlarni o'z vaqtida to'lashi bilan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (99)"
+    },
+    {
+     "q": "Huquqning teran xossalari va qadriyatlari, amal qilish mexanizmi, samaradorligiga ta'sir etuvchi omillarni tushunishning yuksak darajasi bo'lgan huquqiy madaniyat darajasi qaysi?",
+     "options": [
+      "Nazariy daraja",
+      "Odatdagi daraja",
+      "Kasbiy daraja",
+      "Guruhiy daraja"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (100)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqiy madaniyatning birinchi va asosiy tarkibiy qismi nima?",
+     "options": [
+      "Yuridik normalar tizimi bo'lmish huquq",
+      "Qonuniy va qonunga xilof huquqiy xatti-harakat",
+      "Yuridik muassasalar",
+      "Huquqiy munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (303)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqiy madaniyatning davlat va jamiyatning boshqaruv ta'siriga eng kam uchragan elementi qaysi?",
+     "options": [
+      "Huquqiy ong",
+      "Yuridik muassasalar",
+      "Huquq (yuridik normalar)",
+      "Huquqiy munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (305)"
+    },
+    {
+     "q": "Huquqiy madaniyatning qaysi funksiyasi aksiologik (baholovchi) tavsiflar tizimi yordamida aks ettiriladi?",
+     "options": [
+      "Normativ funksiya",
+      "Kommunikativ funksiya",
+      "Prognostik funksiya",
+      "Regulyativ funksiya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (307)"
+    },
+    {
+     "q": "Fuqarolarning huquqiy doiradagi muloqotini, shuningdek o'tmish avlodlar bilan yozma yuridik asarlar orqali «muloqot»ni ta'minlovchi huquqiy madaniyat funksiyasi qaysi?",
+     "options": [
+      "Kommunikativ funksiya",
+      "Normativ funksiya",
+      "Sotsiologik funksiya",
+      "Prognostik (bashorat qilish) funksiyasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (308)"
+    },
+    {
+     "q": "Madaniyatni tabiat yaratgan narsalardan farqli ravishda inson yaratgan ne'matlar yig'indisi deb tushunadigan yondashuv qaysi?",
+     "options": [
+      "Antropologik yondashuv",
+      "Sotsiologik yondashuv",
+      "Falsafiy yondashuv",
+      "Tarixiy-pozitivistik yondashuv"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (302)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra quyidagilardan qaysi biri huquqiy tarbiya vositalariga kiradi?",
+     "options": [
+      "O'zini o'zi tarbiyalash",
+      "Normativ shartnoma tuzish",
+      "Xalqaro shartnomani ratifikatsiya qilish",
+      "Huquq normasini sharhlash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (101)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquqiy tarbiyaning qo'shimcha metodlariga qaysi metodlar kiradi?",
+     "options": [
+      "Rag'batlantirish (taqdirlash va jazolash)",
+      "Ishontirish",
+      "Namuna ko'rsatish",
+      "Namuna ko'rsatish va odatlantirishga o'rgatish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (102)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra tor ma'nodagi huquqiy tarbiya deganda nima tushuniladi?",
+     "options": [
+      "Rasman yuridik o'quv yurtlarida olinadigan huquqiy bilimlar yig'indisi",
+      "Oila, bog'cha va mustaqil mutolaa orqali olinadigan barcha bilimlar",
+      "Ommaviy axborot vositalaridan tasodifan olinadigan ma'lumotlar",
+      "Faqat jazoni ijro etish muassasalarida mahkumlarga beriladigan ko'nikmalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (297)"
+    },
+    {
+     "q": "«Nigilizm» so'zi qaysi so'zdan kelib chiqqan va qanday ma'noni anglatadi?",
+     "options": [
+      "Lotincha «nihil» – «hech narsa», «inkor»",
+      "Yunoncha «nomos» – «qonun», «tartib»",
+      "Lotincha «norma» – «qoida», «namuna»",
+      "Arabcha «nizom» – «tuzum», «tartib-intizom»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 102; O: 309)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra jamiyatdagi kishilar tomonidan amaldagi huquq normalarini mensimaslik huquqiy nigilizmning qaysi ko'rinishi?",
+     "options": [
+      "Sust (passiv) huquqiy nigilizm",
+      "Faol huquqiy nigilizm",
+      "Nazariy (doktrinal) huquqiy nigilizm",
+      "Huquqiy idealizm"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (102)"
+    },
+    {
+     "q": "Huquqiy nigilizm va huquqiy idealizmni «bitta medalning ikki tomoni» deb ta'riflagan olim kim?",
+     "options": [
+      "N. Matuzov",
+      "G. Kelzen",
+      "S.S. Alekseev",
+      "V.S. Nersesyans"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (103)"
+    },
+    {
+     "q": "Huquqiy nigilizm va huquqiy idealizm qanday umumiy ildizdan oziqlanadi?",
+     "options": [
+      "Yuridik bilimsizlik, rivojlanmagan va buzilgan huquqiy ongdan",
+      "Qonunlarning haddan tashqari ko'pligi va sud tizimining kuchliligidan",
+      "Fuqarolarning huquqiy faolligi va yuksak huquqiy madaniyatidan",
+      "Xalqaro huquq normalarining milliy qonunchilikka joriy etilishidan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 103; O: 312)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra jamiyatda hali yuzaga kelib ulgurmagan munosabatlarni tartibga solishga qaratilgan normalar qabul qilinishi («qonunchilikning ildamlab ketishi») qaysi hodisaning shakli?",
+     "options": [
+      "Huquqiy idealizmning",
+      "Huquqiy nigilizmning",
+      "Huquqiy pretsedentning",
+      "Huquqiy tarbiyaning"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (312)"
+    },
+    {
+     "q": "1997-yil 29-avgustda Oliy Majlisning IX sessiyasida qabul qilingan hujjat qaysi?",
+     "options": [
+      "«Jamiyatda huquqiy madaniyatni yuksaltirish milliy dasturi»",
+      "«Huquqiy axborotni tarqatish va undan foydalanishni ta'minlash to'g'risida»gi Qonun",
+      "«Normativ-huquqiy hujjatlar to'g'risida»gi Qonun",
+      "«Huquqiy tarbiyani yaxshilash to'g'risida»gi Vazirlar Mahkamasi qarori"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (307)"
     }
    ]
   },
@@ -4786,6 +8328,336 @@
       "Ilgari qabul qilingani"
      ],
      "answer": 0
+    },
+    {
+     "q": "«Norma» so'zi lotincha qanday ma'noni anglatadi?",
+     "options": [
+      "«Qoida», «namuna»",
+      "«Hokimiyat», «buyruq»",
+      "«Jazo», «majburlov»",
+      "«Erkinlik», «ixtiyor»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 107; O: 264)"
+    },
+    {
+     "q": "Huquq tizimining boshlang'ich, birlamchi tarkibiy elementi (\"hujayrasi\") nima hisoblanadi?",
+     "options": [
+      "Huquq normasi",
+      "Huquq instituti",
+      "Huquq sohasi",
+      "Normativ-huquqiy hujjat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 107; O: 263)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq normasi axloqiy, diniy, korporativ normalardan avvalambor qaysi jihati bilan ajralib turadi?",
+     "options": [
+      "Shaklan aniq qoida ekanligi bilan",
+      "Faqat og'zaki shaklda mavjudligi bilan",
+      "Faqat ixtiyoriy bajarilishi bilan",
+      "Faqat jamoatchilik ta'sirida bajarilishi bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (266)"
+    },
+    {
+     "q": "Huquq normalari aks etgan hujjatlarning rekvizitlarga (qabul qilingan vaqti, joyi, raqami, nomi) ega bo'lishi huquq normasining qaysi belgisida namoyon bo'ladi?",
+     "options": [
+      "Rasmiy va shaklan aniqligida",
+      "Davlat irodasini ifodalovchi irodaviy xarakterida",
+      "Tizimliligida",
+      "Normativligida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (108)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquq normasining normativlik belgisi nimada namoyon bo'ladi?",
+     "options": [
+      "Tipik, barqaror va takrorlanuvchi munosabatlarni tartibga solishida",
+      "Faqat bir marta, aniq bir shaxsga nisbatan qo'llanilib, so'ng kuchini yo'qotishida",
+      "Faqat davlat organlari o'rtasidagi munosabatlarga taalluqliligida",
+      "Faqat xalqaro shartnomalarda mustahkamlanishida"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (108)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ijtimoiy jarayonlar va aloqalarning takrorlanishi tufayli huquq normasi ularning nimasini aks ettiradi va mustahkamlaydi?",
+     "options": [
+      "Tipikligini",
+      "Tasodifiyligini",
+      "Individualligini",
+      "Noqonuniyligini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (268)"
+    },
+    {
+     "q": "Huquq normasining uch elementli mantiqiy tuzilishi qanday formula bilan ifodalanadi?",
+     "options": [
+      "«Agar... bo'lsa, unda..., aks holda esa... bo'ladi»",
+      "«Har kim... huquqiga ega, ammo... majbur emas»",
+      "«Qonun oldida hamma teng, lekin... bundan mustasno»",
+      "«... taqiqlanadi, ... ruxsat etiladi, ... tavsiya qilinadi»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 109; O: 270)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ko'pchilik mualliflar regulyativ normalarda qaysi ikki elementni ajratib ko'rsatadi?",
+     "options": [
+      "Gipoteza va dispozitsiyani",
+      "Dispozitsiya va sanksiyani",
+      "Gipoteza va sanksiyani",
+      "Faqat sanksiya va rag'batni"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (269)"
+    },
+    {
+     "q": "Normaning amal qilishi bir vaqtning o'zida ikki yoki undan ortiq holatlarning mavjudligiga bog'liq bo'lsa, gipoteza qanday ataladi?",
+     "options": [
+      "Murakkab gipoteza",
+      "Oddiy gipoteza",
+      "Alternativ gipoteza",
+      "Blanket gipoteza"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 110; O: 271)"
+    },
+    {
+     "q": "Normaning amal qilishi sanab o'tilgan bir nechta holatlardan biriga (u yoki bunisiga) bog'liq bo'lsa, gipoteza qanday ataladi?",
+     "options": [
+      "Alternativ (muqobil) gipoteza",
+      "Murakkab gipoteza",
+      "Oddiy gipoteza",
+      "Kumulyativ (yig'ma, jamlangan) gipoteza"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 110; O: 271)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra «dispozitsiya» so'zi lotin tilida qanday ma'noni anglatadi?",
+     "options": [
+      "«Joylashuv», «joylashgan»",
+      "«Qat'iy qaror»",
+      "«Faraz», «taxmin»",
+      "«Qoida», «namuna», «o'lchov»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (111)"
+    },
+    {
+     "q": "«Sanksiya» so'zi lug'aviy jihatdan qanday ma'noni bildiradi?",
+     "options": [
+      "«Qat'iy qaror»",
+      "«Joylashuv»",
+      "«Faraz», «taxmin»",
+      "«Ruxsat»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (112)"
+    },
+    {
+     "q": "Xatti-harakat tavsiflab berilmay, hammaga ma'lum tushuncha (masalan, «qasddan odam o'ldirish») yordamida ifodalanadigan dispozitsiya qaysi?",
+     "options": [
+      "Oddiy dispozitsiya",
+      "Tavsiflovchi dispozitsiya",
+      "Blanket dispozitsiya",
+      "Havola etuvchi dispozitsiya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (272)"
+    },
+    {
+     "q": "«O'g'rilik, ya'ni o'zganing mol-mulkini yashirin ravishda talon-toroj qilish» shaklidagi dispozitsiya qanday turga kiradi?",
+     "options": [
+      "Tavsiflovchi dispozitsiya",
+      "Oddiy (sodda) dispozitsiya",
+      "Blanket dispozitsiya",
+      "Muqobil dispozitsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 112; O: 272)"
+    },
+    {
+     "q": "Qo'llanayotgan norma mansub bo'lgan hujjatning boshqa moddasiga (masalan, JKning «Qiynash» moddasi) murojaat etishni nazarda tutuvchi dispozitsiya qaysi?",
+     "options": [
+      "Havola etuvchi dispozitsiya",
+      "Blanket dispozitsiya",
+      "Tavsiflovchi dispozitsiya",
+      "Muqobil (alternativ) dispozitsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 112; O: 273)"
+    },
+    {
+     "q": "Bir nechta xulq-atvor variantlari ko'rsatilib, munosabat ishtirokchilari ulardan biriga amal qilishi mumkin yoki shart bo'lgan dispozitsiya qaysi?",
+     "options": [
+      "Muqobil dispozitsiya",
+      "Oddiy dispozitsiya",
+      "Tavsiflovchi dispozitsiya",
+      "Mutlaq aniq dispozitsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (111)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra asosiy jazodan tashqari qo'shimcha jazo berilishini ham nazarda tutadigan sanksiya qanday ataladi?",
+     "options": [
+      "Kumulyativ sanksiya",
+      "Mutlaq aniq sanksiya",
+      "Nisbatan aniq sanksiya",
+      "Alternativ sanksiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (113)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra «yoki», «yoxud» bog'lovchilari orqali bir nechta jazo sanab o'tilib, qo'llovchi ulardan bittasini tanlaydigan sanksiya qaysi?",
+     "options": [
+      "Alternativ sanksiya",
+      "Mutlaq aniq sanksiya",
+      "Kumulyativ sanksiya",
+      "Nisbiy aniq sanksiya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (274–275)"
+    },
+    {
+     "q": "Faqat bitta aniq majburlov chorasi (masalan, jarimaning aniq miqdori) ko'rsatilgan sanksiya qanday ataladi?",
+     "options": [
+      "Mutlaq aniq sanksiya",
+      "Nisbatan aniq sanksiya",
+      "Alternativ sanksiya",
+      "Kumulyativ sanksiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 113; O: 274)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra ilgari qonunsiz ishdan bo'shatilgan xodimni ishga tiklash, aliment undirish qanday choralarga kiradi?",
+     "options": [
+      "Muhofaza choralariga",
+      "Javobgarlik (jazolovchi) choralariga",
+      "Ogohlantirish choralariga",
+      "Rag'batlantirish choralariga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (274)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra faylasuflar va sotsiologlar sanksiya deganda nimani tushunadilar?",
+     "options": [
+      "Salbiy oqibatlar bilan birga ijobiy (rag'batlantiruvchi) oqibatlarni ham",
+      "Faqat jinoiy jazolarni",
+      "Faqat ma'muriy jarimalarni",
+      "Faqat mulkiy zararni undirish bilan bog'liq fuqarolik-huquqiy javobgarlikni"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (273)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra aksariyat konstitutsiyaviy normalar qaysi elementlardangina iborat bo'ladi?",
+     "options": [
+      "Gipoteza va dispozitsiyadan",
+      "Dispozitsiya va sanksiyadan",
+      "Faqat sanksiya va rag'batlantirishdan",
+      "Gipoteza va sanksiyadan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (275)"
+    },
+    {
+     "q": "Huquq subyektiga muayyan harakatlarni sodir etish lozimligini (shartligini) ko'rsatuvchi normalar qanday ataladi?",
+     "options": [
+      "Majburiyat yuklovchi normalar",
+      "Ruxsat va vakolat beruvchi normalar",
+      "Taqiqlovchi normalar",
+      "Tavsiya etuvchi normalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 114; O: 276)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra Davlat mukofotlari to'g'risidagi qonun, ilg'orlarni taqdirlash qoidalari normalarning qaysi turiga misol bo'ladi?",
+     "options": [
+      "Rag'batlantiruvchi normalar",
+      "Tavsiya etuvchi normalar",
+      "Taqiqlovchi normalar",
+      "Kolliziya («hakam») normalari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (277)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra tavsiya etuvchi normalar odatda kimlarga yo'naltirilgan bo'ladi?",
+     "options": [
+      "Nodavlat tashkilotlar, hissadorlik jamiyatlari, davlat korxonalari, ilmiy muassasalarga",
+      "Faqat sudlar va prokuratura organlariga",
+      "Faqat jinoyat sodir etgan shaxslarga",
+      "Faqat chet el fuqarolari va fuqaroligi bo'lmagan shaxslarga hamda ularning rasmiy vakillariga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (277)"
+    },
+    {
+     "q": "Jamiyat ijtimoiy-siyosiy tuzumining asosini, inson huquq va erkinliklarini, siyosiy va huquqiy tizim asosini mustahkamlovchi normalar qaysi?",
+     "options": [
+      "Ta'sis etuvchi normalar",
+      "Deklarativ normalar",
+      "Dispozitiv normalar",
+      "Kazuistik (konkret) normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (277)"
+    },
+    {
+     "q": "Muayyan huquq yoki majburiyat bermay, faqat axborot berish, bayonot vazifasini bajaradigan va dasturiy ahamiyat kasb etadigan normalar qaysi?",
+     "options": [
+      "Deklarativ normalar",
+      "Definitiv normalar",
+      "Ta'sis etuvchi normalar",
+      "Qo'riqlovchi normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (278)"
+    },
+    {
+     "q": "Huquqlarni amalga oshirish, majburiyatlarni ijro etish tartibini va buzilgan huquqni tiklash jarayonini belgilovchi normalar qanday ataladi?",
+     "options": [
+      "Protsessual normalar",
+      "Moddiy-huquqiy normalar",
+      "Deklarativ normalar",
+      "Lokal normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (279)"
+    },
+    {
+     "q": "Bir munosabat turining muayyan bir qismini tartibga soluvchi (nisbatan konkret) normalar qanday ataladi?",
+     "options": [
+      "Kazuistik normalar",
+      "Abstrakt normalar",
+      "Asosiy (dastlabki) normalar",
+      "Umumiy normalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 114; O: 279)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra muayyan soha vakillari (masalan, sog'liqni saqlash tizimi) faoliyatini tartibga soluvchi normalar amal qilish hududiga ko'ra qanday ataladi?",
+     "options": [
+      "Lokal normalar",
+      "Umumiy amal qiluvchi normalar",
+      "Mahalliy miqyosdagi normalar",
+      "Ta'sis etuvchi normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (280)"
     }
    ]
   },
@@ -5172,6 +9044,336 @@
       "Tizimli usul"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra «manba» va «shakl» so'zlari qaysi tildan olingan va asl ma'nosi nima?",
+     "options": [
+      "Arabcha: «manba» – boshlanish, ibtido; «shakl» – ko'rinish, tarz",
+      "Lotincha: «manba» – qonun, buyruq; «shakl» – jazo, majburlov",
+      "Forscha: «manba» – hokimiyat; «shakl» – davlat ramzi",
+      "Yunoncha: «manba» – qoida, me'yor; «shakl» – namuna, o'lchov, andoza"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (117)"
+    },
+    {
+     "q": "Huquqiy mafkura va ta'limotlar, huquqiy ong huquq manbasining qaysi ma'nosini ifodalaydi?",
+     "options": [
+      "Mafkuraviy ma'nosini",
+      "Moddiy ma'nosini",
+      "Maxsus yuridik ma'nosini",
+      "Tarixiy ma'nosini"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (117)"
+    },
+    {
+     "q": "Qaysi xorijlik olim fikricha, «huquq manbasi» keng mazmunga ega bo'lib, odob-axloq me'yorlari, siyosiy prinsiplar, huquqiy doktrinalarni ham anglatadi?",
+     "options": [
+      "G. Kelzen",
+      "G.F. Shershenevich",
+      "N. Matuzov",
+      "S.S. Alekseev"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (117)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquq manbai normaning paydo bo'lishiga imkon beruvchi zamin (rezervuar) bo'lsa, huquq shakli nimani ifodalaydi?",
+     "options": [
+      "Davlat bilan huquq o'rtasidagi bog'liqlikni, huquqning tashqi ifodasini",
+      "Jamiyatdagi mulkchilik shakllari va moddiy shart-sharoitlarni",
+      "Faqat huquqshunos olimlarning ilmiy qarashlari tizimini va ularning ta'limotlarini",
+      "Faqat sud qarorlarining rasmiy to'plamlarini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (213)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqning nechta tarixiy shakli mavjud?",
+     "options": [
+      "To'rtta",
+      "Ikkita",
+      "Uchta",
+      "Beshtadan ortiq"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (214)"
+    },
+    {
+     "q": "Huquqiy odat oddiy odatdan nimasi bilan farq qiladi?",
+     "options": [
+      "Davlat tomonidan ma'qullangani va majburlov kuchi bilan ta'minlangani",
+      "Faqat ko'p marta takrorlanishi, uzoq vaqt mavjud bo'lishi hamda keng tarqalgani",
+      "Faqat yozma shaklda ifodalanishi va nashr etilishi",
+      "Faqat diniy ulamolar tomonidan tasdiqlanganligi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 118; O: 215)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra huquqiy odat hozirgi vaqtda asosan qaysi munosabatlarni tartibga solishda qo'llanilmoqda?",
+     "options": [
+      "Yer, meros, nikoh va oilaviy munosabatlarni",
+      "Bank va valyuta munosabatlarini",
+      "Soliq va bojxona munosabatlarini",
+      "Kosmik faoliyat va aviatsiya munosabatlarini"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (216)"
+    },
+    {
+     "q": "«Pretsedent» so'zi lotincha «praecedens»dan olingan bo'lib, qanday ma'noni anglatadi?",
+     "options": [
+      "«Avvalgisi», «oldingisi»",
+      "«Qat'iy qaror», «sud hukmi»",
+      "«Joylashuv»",
+      "«Hech narsa»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 119; O: 217)"
+    },
+    {
+     "q": "Ma'muriyatning boshqaruv sohasidagi ishlar yuzasidan qabul qilgan qarori keyingi shunga o'xshash ishga asos sifatida qo'llanishi qanday ataladi?",
+     "options": [
+      "Ma'muriy pretsedent",
+      "Sud pretsedenti",
+      "Huquqiy odat",
+      "Normativ-huquqiy shartnoma"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 119; O: 217)"
+    },
+    {
+     "q": "Qonun va odat normalari to'g'ri kelmay qolganda yangidan huquq normasini yaratuvchi pretsedent ingliz huquqida qanday ataladi?",
+     "options": [
+      "Original precedent",
+      "Declaratory precedent",
+      "Case law reporting",
+      "Statute law"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (217–218)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra pretsedent huquqi qanday tartib asosida amal qiladi?",
+     "options": [
+      "Yuqori sudlar qarorlari quyi sudlar uchun majburiy bo'lgan vertikal tartibda",
+      "Quyi sudlar qarorlari yuqori sudlar uchun majburiy bo'lgan tartibda",
+      "Har bir sud faqat o'zining oldingi qarorlariga bog'liq bo'lib, boshqa sudlarga qaramaydigan tartibda",
+      "Sud qarorlari faqat parlament tasdig'idan keyin majburiy bo'ladigan tartibda"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (121)"
+    },
+    {
+     "q": "NHHlarni boshqa manbalardan farqli ravishda tez qabul qilish, o'zgartirish va bekor qilish mumkinligi qanday ataladi?",
+     "options": [
+      "Tezkorlik",
+      "Tizimlilik",
+      "Rasmiy aniqlik",
+      "Universallik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (122)"
+    },
+    {
+     "q": "Davlat organlari chiqargan qaysi hujjatlargina normativ-huquqiy hujjat sifatida e'tirof etiladi?",
+     "options": [
+      "Umumiy huquq va majburiyatlarni o'rnatuvchi, o'zgartiruvchi yoki bekor qiluvchi",
+      "Muayyan shaxsni lavozimga tayinlash to'g'risidagi hujjatlar",
+      "Aniq bir fuqaroning ishi bo'yicha chiqarilgan sud hukmlari",
+      "Muayyan shaxsni lavozimga tayinlash yoki ozod etish to'g'risidagi individual hujjatlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (122)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra qonun va Prezident farmoni qoidalari o'zaro zid kelib qolsa, qaysi biri ustuvorlik qiladi?",
+     "options": [
+      "Qonun",
+      "Farmon",
+      "Keyinroq qabul qilingani",
+      "Vazirlar Mahkamasi qarori bilan tanlangani"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (225)"
+    },
+    {
+     "q": "2023-yilgi Konstitutsiyaga ko'ra Senat Prezidentning qaysi farmonlarini tasdiqlaydi?",
+     "options": [
+      "Vazirliklar va boshqa respublika ijro etuvchi hokimiyat organlarini tuzish hamda tugatish to'g'risidagi",
+      "Prezident tomonidan qabul qilingan barcha normativ farmonlarni, ularning mazmuni va sohasidan qat'i nazar, istisnosiz",
+      "Faqat davlat mukofotlari bilan taqdirlash to'g'risidagi farmonlarni",
+      "Faqat afv etish to'g'risidagi farmonlarni"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev; Konstitutsiya, 95-modda (O: 225 (eskirgan); Konstitutsiya, 95-modda 6-band)"
+    },
+    {
+     "q": "2023-yilgi Konstitutsiyaga ko'ra qonun qachon yuridik kuchga ega bo'ladi?",
+     "options": [
+      "Qonunchilik palatasi qabul qilib, Senat ma'qullab, Prezident imzolab, rasmiy e'lon qilingach",
+      "Qonunchilik palatasi tomonidan qabul qilingan kundan boshlab, Senat ma'qullashi va Prezident imzosidan qat'i nazar",
+      "Vazirlar Mahkamasi tomonidan ijro uchun qabul qilingan kundan boshlab",
+      "Konstitutsiyaviy sud tomonidan sharh berilgan kundan boshlab"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 99-modda (S: 127; Konstitutsiya, 99-modda)"
+    },
+    {
+     "q": "Rasmiy e'lon qilinmagan qonun asosida shaxsni hukm qilish mumkinmi?",
+     "options": [
+      "Yo'q, hech kim rasmiy e'lon qilinmagan qonun asosida hukm qilinishi mumkin emas",
+      "Ha, agar qonun Qonunchilik palatasi qabul qilgan va Senat ma'qullagan bo'lsa, e'lon shart emas",
+      "Ha, agar sud uni zarur deb topsa",
+      "Faqat ma'muriy ishlarda mumkin"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 30-modda (S: 130; Konstitutsiya, 30-modda)"
+    },
+    {
+     "q": "Agar O'zbekiston Respublikasining xalqaro shartnomasida qonundagidan boshqacha qoidalar belgilangan bo'lsa, qaysi qoidalar qo'llaniladi?",
+     "options": [
+      "Xalqaro shartnoma qoidalari",
+      "Qonun qoidalari",
+      "Vazirlar Mahkamasi belgilagan qoidalar",
+      "Keyinroq qabul qilingan hujjat qoidalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 15-modda (S: 130; O: 227; Konstitutsiya, 15-modda)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra qaysi holatda qonunga orqaga qaytish kuchi berilishi mumkin emas?",
+     "options": [
+      "Javobgarlikni joriy etsa yoki kuchaytirsa",
+      "Javobgarlikni yengillashtirsa",
+      "Fuqarolarning huquqlarini kengaytirsa",
+      "Qonunda to'g'ridan-to'g'ri ko'rsatilgan bo'lsa"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (128)"
+    },
+    {
+     "q": "Davlatlar o'rtasida tuzilgan shartnomaning amal qilish muddati tugamasdan bekor qilinishi xalqaro huquqda qanday ataladi?",
+     "options": [
+      "Denonsatsiya",
+      "Ratifikatsiya",
+      "Implementatsiya",
+      "Kodifikatsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 126; O: 229)"
+    },
+    {
+     "q": "Musulmon huquqida Qur'on va hadislarda aniq ko'rsatma bo'lmaganda faqih va mujtahidlarning yagona fikrga kelib fatvo berishi qanday ataladi?",
+     "options": [
+      "Ijmo'",
+      "Qiyos",
+      "Sunna",
+      "Urf-odat"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (231)"
+    },
+    {
+     "q": "Ijtimoiy munosabatlarni tartibga soluvchi norma «o'zi» faqat shu norma matni bilan emas, balki tegishli barcha hujjatlar doirasida, huquq tizimidagi o'rni orqali aniqlanadigan sharhlash usuli qaysi?",
+     "options": [
+      "Tizimli sharhlash",
+      "Grammatik sharhlash",
+      "Tarixiy-siyosiy sharhlash",
+      "Funksional sharhlash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 180–181; O: 427–428)"
+    },
+    {
+     "q": "Baho beruvchi atamalar («uzrli sabablar», «jiddiy zarar», «katta ziyon») mazmunini joy, vaqt va boshqa omillarni hisobga olib aniqlash qaysi sharhlash usuli?",
+     "options": [
+      "Funksional usul",
+      "Grammatik usul",
+      "Tarixiy-siyosiy usul",
+      "Tizimli usul"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (182)"
+    },
+    {
+     "q": "Huquq normasini sharhlash ikki mustaqil jihatni qamrab oladi. Bular qaysilar?",
+     "options": [
+      "Anglab olish (o'zi uchun) va tushuntirish (boshqalar uchun)",
+      "Normani yaratish va uni bekor qilish",
+      "Normani rasman tasdiqlash va keyinchalik uni rasmiy nashrda e'lon qilish",
+      "Normani ratifikatsiya va denonsatsiya qilish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 178; O: 423–424)"
+    },
+    {
+     "q": "Konstitutsiyaviy sudning Konstitutsiya va qonunlar normalariga beradigan sharhi qanday sharh turiga kiradi?",
+     "options": [
+      "Legal (ruxsat berilgan) normativ sharh",
+      "Kazual sharh",
+      "Doktrinal sharh",
+      "Autentik (muallif tomonidan berilgan) sharh"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 133-modda (S: 179, 184; O: 433–434)"
+    },
+    {
+     "q": "Sud va boshqa vakolatli organlar tomonidan aniq ish bo'yicha berilib, faqat shu ish uchun majburiy bo'ladigan rasmiy sharh qaysi?",
+     "options": [
+      "Kazual sharh",
+      "Autentik sharh",
+      "Legal sharh",
+      "Doktrinal sharh"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 179; O: 434)"
+    },
+    {
+     "q": "Advokat, prokuror, sudya kabi amaliyotchi yuristlar tomonidan amalga oshiriladigan norasmiy sharh qanday ataladi?",
+     "options": [
+      "Malakali (professional, kasbiy) sharh",
+      "Doktrinal (ilmiy, nazariy) norasmiy sharh",
+      "Oddiy sharh",
+      "Autentik sharh"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 180; O: 434–435)"
+    },
+    {
+     "q": "Huquq normasining so'zda ifodalangan ma'nosi uning mantiqiy ma'nosi va mazmunidan keng bo'lganda qo'llaniladigan sharh qaysi?",
+     "options": [
+      "Cheklangan sharh",
+      "Kengaytirilgan sharh",
+      "Aynan (tom ma'noda) sharh",
+      "Kazual sharh"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 183; O: 436)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra kengaytirilgan sharhlashni talab qiluvchi ro'yxatlarda ko'pincha qaysi so'zlar uchraydi?",
+     "options": [
+      "«va hokazo», «va boshqalar»",
+      "«faqat», «bundan mustasno»",
+      "«taqiqlanadi», «yo'l qo'yilmaydi»",
+      "«majburdir», «shart»"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (183)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra huquq normalarini sharhlash hujjatlarining xususiyati qaysi?",
+     "options": [
+      "Yangi norma yaratmaydi, sharhlanayotgan norma bilan birga amal qiladi",
+      "Yangi huquq normalarini yaratadi va eskilarini bekor qiladi",
+      "Amaldagi normalarga o'zgartish va qo'shimchalar kiritadi",
+      "Sharhlanayotgan normadan mustaqil ravishda, alohida hujjat sifatida amal qiladi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (183)"
     }
    ]
   },
@@ -5564,6 +9766,336 @@
       "Ierarxiya bo'yicha"
      ],
      "answer": 0
+    },
+    {
+     "q": "Saydullayev darsligida «bevosita huquq ijodkorligi» qaysi shaklda amalga oshiriladi deb ko'rsatilgan?",
+     "options": [
+      "Umumxalq referendumi orqali",
+      "Prezident farmonlari orqali",
+      "Vazirlar Mahkamasi qarorlari orqali",
+      "Mahalliy kengashlar qarorlari orqali"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 134; O: 234)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, referendum natijalari davlat hokimiyati organlarining tasdiqlashiga muhtojmi?",
+     "options": [
+      "Muhtoj emas",
+      "Parlament tasdiqlashi shart",
+      "Prezident tasdiqlashi shart",
+      "Konstitutsiyaviy sud tasdiqlashi shart"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (235)"
+    },
+    {
+     "q": "Mansabdor shaxsning qaysi faoliyati huquq ijodkorligi doirasiga KIRMAYDI?",
+     "options": [
+      "Huquqni qo'llash bilan bog'liq harakatlari",
+      "Normativ hujjat loyihasini tayyorlash bo'yicha faoliyati",
+      "Normativ-huquqiy hujjatni qabul qilish bo'yicha faoliyati",
+      "Eskirgan normativ hujjatlarni bekor qilish bo'yicha faoliyati"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (236)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, huquq ijodkorligi mazmuni qanday ikki toifa harakatni o'z ichiga oladi?",
+     "options": [
+      "Loyihani tayyorlash va hujjatni chiqarish harakatlari",
+      "Hujjatni rasmiy sharhlash va uni amalda qo'llash bo'yicha harakatlar",
+      "Dastlabki tergov va sud muhokamasini o'tkazish bo'yicha harakatlar",
+      "Ijro ustidan nazorat va huquqbuzarlarni jazolash bo'yicha harakatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (234)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri huquq ijodkorligi jarayonida bajariladigan funksiyalardan biri hisoblanadi?",
+     "options": [
+      "Huquqdagi bo'shliqni (probelni) to'ldirish",
+      "Jinoyat ishlari bo'yicha dastlabki tergov o'tkazish",
+      "Sud hukmlari va qarorlarini majburiy ijro etish",
+      "Fuqarolik holati dalolatnomalarini qayd etib borish"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (237)"
+    },
+    {
+     "q": "Saydullayev darsligida sanab o'tilgan huquq ijodkorligi prinsiplari qatoriga quyidagilardan qaysi biri kiradi?",
+     "options": [
+      "Tezkorlik",
+      "Sinfiylik",
+      "Maxfiylik",
+      "Retroaktivlik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (134)"
+    },
+    {
+     "q": "Huquq ijodkorligidagi ilmiylik prinsipining birinchi jihati nimadan iborat?",
+     "options": [
+      "Puxta ilmiy strategiyaga tayanish",
+      "Faqat xorijiy tajribani ko'chirish",
+      "Loyihani sir saqlash",
+      "Hujjatni tezkor qabul qilish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 134; O: 242)"
+    },
+    {
+     "q": "«Qonunni bilmaslik hech kimni javobgarlikdan ozod qilmaydi» degan prezumpsiya Odilqoriyev darsligida qaysi prinsip bilan bog'liq holda yoritilgan?",
+     "options": [
+      "Oshkoralik prinsipi",
+      "Ilmiylik prinsipi",
+      "Xalqchillik prinsipi",
+      "Tezkorlik prinsipi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (241)"
+    },
+    {
+     "q": "Saydullayev darsligidagi ta'rifga ko'ra, qonun qanday ijtimoiy munosabatlarni tartibga solishga qaratilgan?",
+     "options": [
+      "Eng muhim va barqaror munosabatlarni",
+      "Faqat mahalliy ahamiyatdagi munosabatlarni",
+      "Faqat vaqtinchalik munosabatlarni",
+      "Faqat oilaviy munosabatlarni"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (135)"
+    },
+    {
+     "q": "Huquq yaratishning birinchi bosqichida jamiyatdagi jarayonlarni anglash va huquqni shakllantiruvchi omillarni tahlil etish ro'y beradi, degan fikrni bildirgan ruminiyalik huquqshunos kim?",
+     "options": [
+      "Anita Nashits",
+      "M.N. Marchenko",
+      "D.A. Kerimov",
+      "G.F. Shershenevich"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (245)"
+    },
+    {
+     "q": "Qonunchilik protsedurasini «qonun loyihalarini tayyorlash va qabul qilish bilan bog'liq yuridik mustahkamlangan qoidalarning bir butun majmui» deb ta'riflagan olim kim?",
+     "options": [
+      "M.N. Marchenko",
+      "Anita Nashits",
+      "S.S. Alekseyev",
+      "L.S. Yavich va V.K. Babayev"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (246)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, ikki palatali parlament sharoitida qonun ijodkorligi jarayoni nechta bosqichdan iborat?",
+     "options": [
+      "Beshta",
+      "Uchta",
+      "To'rtta",
+      "Oltita"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (246)"
+    },
+    {
+     "q": "2023-yilgi Konstitutsiyaga ko'ra, saylov huquqiga ega bo'lgan kamida necha nafar fuqaro Qonunchilik palatasiga qonunchilik takliflarini kiritishi mumkin?",
+     "options": [
+      "100 ming nafar",
+      "10 ming nafar",
+      "50 ming nafar",
+      "1 million nafar"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 98-modda (—)"
+    },
+    {
+     "q": "2023-yilgi Konstitutsiyaga ko'ra, qaysi subyektlar qonunchilik tashabbusi huquqiga o'z vakolatlariga kiradigan masalalar bo'yicha ega?",
+     "options": [
+      "Konstitutsiyaviy sud, Oliy sud va Bosh prokuror",
+      "Prezident va Vazirlar Mahkamasi",
+      "Qonunchilik palatasi deputatlari va Senat a'zolari",
+      "Qoraqalpog'iston Respublikasi Jo'qorg'i Kengesi va xalq deputatlari Toshkent shahar Kengashi"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 98-modda (—)"
+    },
+    {
+     "q": "Qonunchilik palatasi qabul qilgan qonun qabul qilingan kundan e'tiboran qancha muddatda Senatga yuboriladi?",
+     "options": [
+      "O'n kundan kechiktirmay",
+      "Uch kundan kechiktirmay",
+      "O'ttiz kundan kechiktirmay",
+      "Oltmish kundan kechiktirmay"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 99-modda (S: 140; O: 256)"
+    },
+    {
+     "q": "2023-yilgi Konstitutsiyaga ko'ra, Senat Qonunchilik palatasidan kelgan qonunni qancha muddatda ko'rib chiqadi?",
+     "options": [
+      "Oltmish kun ichida",
+      "O'n kun ichida",
+      "O'ttiz kun ichida",
+      "Bir yuz yigirma kun ichida"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 99-modda (—)"
+    },
+    {
+     "q": "2023-yilgi Konstitutsiyaga ko'ra, Prezident qonunni qancha muddat ichida imzolaydi va e'lon qiladi?",
+     "options": [
+      "Oltmish kun ichida",
+      "O'n kun ichida",
+      "O'n to'rt kun ichida",
+      "O'ttiz kun ichida"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 99-modda (—)"
+    },
+    {
+     "q": "Prezident e'tirozlari bilan qaytargan qonun avvalgi tahririda palatalarning har birida kamida uchdan ikki ovoz bilan ma'qullansa, Prezident uni qancha muddatda imzolashi shart?",
+     "options": [
+      "O'n to'rt kun ichida",
+      "Yetti kun ichida",
+      "O'ttiz kun ichida",
+      "Oltmish kun ichida yoki keyingi sessiyagacha"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 99-modda (S: 140; O: 257)"
+    },
+    {
+     "q": "Senat rad etgan qonunni Qonunchilik palatasi qanday ko'pchilik ovoz bilan yana ma'qullasa, qonun Oliy Majlis tomonidan qabul qilingan hisoblanadi?",
+     "options": [
+      "Deputatlar umumiy sonining uchdan ikki qismi",
+      "Deputatlar umumiy sonining yarmidan ko'pi",
+      "Majlisda qatnashganlarning oddiy ko'pchiligi",
+      "Deputatlar umumiy sonining to'rtdan uch qismi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 99-modda (S: 138; O: 253)"
+    },
+    {
+     "q": "Qonun loyihasi Qonunchilik palatasida uchinchi o'qishda qanday ko'rib chiqiladi?",
+     "options": [
+      "Muhokamasiz yaxlitligicha ovozga qo'yiladi",
+      "Moddama-modda muhokama qilinib ovozga qo'yiladi",
+      "Faqat konsepsiyasi va zarurati muhokama qilinadi",
+      "Barcha muqobil variantlar bilan birga qayta muhokama qilinadi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 138; O: 251)"
+    },
+    {
+     "q": "Qonunlar va boshqa normativ-huquqiy hujjatlarning e'lon qilinishi qanday ahamiyatga ega?",
+     "options": [
+      "Ularni qo'llashning majburiy sharti",
+      "Faqat tavsiyaviy ahamiyatga ega bo'lgan rasmiyatchilik",
+      "Faqat kodekslar uchun talab qilinadigan qoida",
+      "Faqat xalqaro shartnomalar uchun majburiy bo'lgan shart"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev; Konstitutsiya, 99-modda (S: 141; O: 242)"
+    },
+    {
+     "q": "Saydullayev darsligidagi ta'rifga ko'ra, yuridik texnika normativ hujjatlardan tashqari yana qaysi hujjatlarni qabul qilishda qo'llaniladi?",
+     "options": [
+      "Huquqni qo'llash (individual) hujjatlarini",
+      "Faqat fuqarolarning shaxsiy xatlarini",
+      "Faqat ilmiy maqola va monografiyalarni",
+      "Faqat diniy tashkilotlarning ichki qoidalarini"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (141)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra, normativ-huquqiy hujjat matnida nimalarni qo'llashga yo'l qo'yilmaydi?",
+     "options": [
+      "Majoziy taqqoslash va kinoyalarni",
+      "Atamalar va qisqartmalar izohini",
+      "Moddalar, boblar va bo'limlarga bo'lishni",
+      "Aniq hujjatga ko'rsatilgan havola (blanket) normalarni"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (142)"
+    },
+    {
+     "q": "Normativ-huquqiy hujjatning muqaddimasiga nima kiritilmasligi lozim?",
+     "options": [
+      "Huquqiy normalar",
+      "Hujjat qabul qilinish sabablari",
+      "Hujjat maqsadlari haqida tushuntirish",
+      "Hujjatning umumiy vazifalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (142)"
+    },
+    {
+     "q": "Normativ hujjat hajmining kengayib ketishi va takrorlanishlarning oldini olish uchun yuridik texnikada qanday vosita qo'llaniladi?",
+     "options": [
+      "Havola (blanket) normalar",
+      "Hujjat muqaddimasi",
+      "Majoziy taqqoslash va sifatlashlar",
+      "Loyihaning muqobil variantlari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (143)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra, quyidagilardan qaysi biri normativ-huquqiy hujjatning rekvizitlari qatoriga kiradi?",
+     "options": [
+      "Hujjat qabul qilingan joy, sana va raqam",
+      "Loyiha muallifining ilmiy darajasi va unvoni",
+      "Hujjatning nashr tiraji",
+      "Muhokamada so'zga chiqqan deputatlar ro'yxati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (143)"
+    },
+    {
+     "q": "Odilqoriyev darsligida normativ hujjatning «amal qilish mavzusi» deganda nima tushuniladi?",
+     "options": [
+      "Hujjat qanday munosabatlarga tatbiq etilishi",
+      "Hujjat qachondan kuchga kirishi va qachongacha amal qilishi",
+      "Hujjat qaysi hududda o'z ta'sirini o'tkazishi",
+      "Hujjat qaysi shaxslar doirasiga taalluqli ekanligi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (258)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri Odilqoriyev darsligida normativ hujjat amal qilishini to'xtatish asoslaridan biri sifatida ko'rsatilgan?",
+     "options": [
+      "Hujjatning amal qilish muddati tugashi",
+      "Hujjatni qabul qilgan mansabdor shaxsning vafoti",
+      "Hujjatning bir yildan ortiq qo'llanilmasligi",
+      "Hujjat matnida imlo xatosi topilishi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (261)"
+    },
+    {
+     "q": "Teng kuchli huquqiy hujjatlar to'qnashib qolganda qanday normalar ishga solinadi?",
+     "options": [
+      "Kolliziya normalari",
+      "Blanket (havola) normalar",
+      "Deklarativ normalar",
+      "Dispozitiv normalar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (261–262)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, huquqning harakatlanishi (amal qilishi) qanday ta'rif bilan ifodalanadi?",
+     "options": [
+      "Huquqning makon, zamon va shaxslar doirasidagi munosabatlarga ta'siri",
+      "Huquq normalarini faqat sudlar tomonidan rasmiy sharhlash jarayoni",
+      "Qonun loyihasini qonunchilik tashabbusi subyekti tomonidan parlamentga kiritish jarayoni",
+      "Eskirgan qonunlarni bekor qilish"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (401)"
     }
    ]
   },
@@ -5966,6 +10498,336 @@
       "Yuridik fakt"
      ],
      "answer": 0
+    },
+    {
+     "q": "Huquqiy munosabat nima sababdan irodaviy xarakterga ega deb hisoblanadi?",
+     "options": [
+      "Uning yuzaga kelishi uchun kamida bir tomonning istagi kerak",
+      "Unda faqat davlat organlari va mansabdor shaxslar ishtirok etadi",
+      "U faqat tabiat hodisalari natijasida o'z-o'zidan vujudga keladi",
+      "U davlat tomonidan qo'riqlanmaydi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 161; O: 317–318)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, qaysi huquqiy munosabatlarning vujudga kelishi uchun bir tomonning irodasi yetarli hisoblanadi?",
+     "options": [
+      "Ma'muriy ishlar va jinoyat ishlari",
+      "Nikoh tuzish bilan bog'liq munosabatlar",
+      "Sotuvchi va xaridor o'rtasidagi oldi-sotdi munosabatlari",
+      "Mehnat shartnomasi bo'yicha munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (318)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, huquqiy munosabatlar ijtimoiy munosabatlarning boshqa turlaridan nimasi bilan farq qiladi?",
+     "options": [
+      "Davlat tomonidan maxsus qo'riqlanishi bilan",
+      "Faqat ikki kishi o'rtasida vujudga kelishi bilan",
+      "Faqat notarial yozma shaklda rasmiylashtirilishi bilan",
+      "Faqat moddiy ne'matlarga qaratilganligi bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (318)"
+    },
+    {
+     "q": "Huquqiy munosabatlarni ijtimoiy munosabatlarning alohida bir turi deb hisoblovchi olimlar qatoriga kim kiradi?",
+     "options": [
+      "L.S. Yavich",
+      "G. Kelzen",
+      "R. Iyering",
+      "Sh. Monteskye"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (315)"
+    },
+    {
+     "q": "Oldi-sotdi munosabatida tomonlarni «sotuvchi» va «xaridor» deb belgilash subyektlarni qanday usulda belgilashga misol bo'ladi?",
+     "options": [
+      "Ijtimoiy roliga qarab belgilash",
+      "Nomma-nom (ism-sharifi bilan) belgilash",
+      "To'liq rekvizitlari bo'yicha belgilash",
+      "Hududiy mansubligi va yashash joyiga qarab belgilash"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (317)"
+    },
+    {
+     "q": "Saydullayev darsligiga ko'ra, quyidagilardan qaysi biri huquqiy munosabat yuzaga kelishining yuridik asosi hisoblanadi?",
+     "options": [
+      "Tegishli huquq normasining mavjudligi",
+      "Tomonlarning xohish-istagi",
+      "Tomonlarning moddiy manfaati",
+      "Tomonlar o'rtasidagi do'stona va qarindoshlik aloqalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (161–162)"
+    },
+    {
+     "q": "Huquqbuzarlik sodir etish va buning uchun davlat majburlov chorasini qo'llash zarurati asosida kelib chiqadigan huquqiy munosabatlar qanday ataladi?",
+     "options": [
+      "Qo'riqlovchi huquqiy munosabatlar",
+      "Tartibga soluvchi (regulyativ) munosabatlar",
+      "Kompleks huquqiy munosabatlar",
+      "Umumiy huquqiy munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (319)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, jinoiy-huquqiy va ma'muriy-huquqiy munosabatlar qanday mazmundagi munosabatlarga misol bo'ladi?",
+     "options": [
+      "Hokimlik va bo'ysunish mazmunidagi",
+      "Tomonlar huquq va majburiyatlarining tengligiga asoslangan",
+      "Faqat xususiy-huquqiy",
+      "Faqat mutlaq"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (319)"
+    },
+    {
+     "q": "Er-xotin o'rtasidagi yoki korxona ma'muriyati bilan xodim o'rtasidagi uzoq davom etuvchi, murakkab tarkibli munosabatlar qanday huquqiy munosabatlarga misol bo'ladi?",
+     "options": [
+      "Kompleks huquqiy munosabatlar",
+      "Qo'riqlovchi huquqiy munosabatlar",
+      "Mutlaq huquqiy munosabatlar",
+      "Protsessual huquqiy munosabatlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (319)"
+    },
+    {
+     "q": "Huquq egasi ham, majburiyatli tomon ham aniq belgilangan (masalan, sotuvchi va xaridor) huquqiy munosabat qanday ataladi?",
+     "options": [
+      "Nisbiy huquqiy munosabat",
+      "Mutlaq huquqiy munosabat",
+      "Umumiy huquqiy munosabat",
+      "Qo'riqlovchi huquqiy munosabat"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (320)"
+    },
+    {
+     "q": "Referendum yoki saylovlar o'tkazilganda xalq (saylovchilar) huquqiy munosabatlarning qanday subyekti sifatida maydonga chiqadi?",
+     "options": [
+      "Jamoaviy subyekt",
+      "Jismoniy shaxs",
+      "Yuridik shaxs",
+      "Mansabdor shaxslar guruhi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (321)"
+    },
+    {
+     "q": "Quyidagilardan qaysi biri jismoniy shaxslar toifasiga kiradi?",
+     "options": [
+      "Fuqaroligi bo'lmagan shaxs",
+      "Aksiyadorlik jamiyati",
+      "Davlat vazirligi",
+      "Davlat unitar korxonasi va uning filiali"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 162; O: 321)"
+    },
+    {
+     "q": "Yuridik shaxsning huquq layoqati qachon tugaydi?",
+     "options": [
+      "Uni tugatish yakunlangan paytdan e'tiboran",
+      "Rahbari almashgan paytdan e'tiboran",
+      "Ta'sischisi vafot etgan paytdan e'tiboran",
+      "Birinchi moliya yili tugagan paytdan e'tiboran"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 163; O: 321)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, yuridik shaxsning maxsus huquq layoqati nima bilan belgilanadi?",
+     "options": [
+      "Ustavi, nizomi yoki qonunchilik hujjatlari bilan",
+      "Rahbarining shaxsiy buyrug'i bilan",
+      "Xodimlar umumiy yig'ilishining tavsiyasi va ma'muriyat ko'rsatmasi bilan",
+      "Bankdagi hisob raqami bilan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (321)"
+    },
+    {
+     "q": "Prezident, sudya, prokuror kabi muayyan lavozimni egallash munosabati bilan vujudga keladigan huquqiy munosabatlar ishtirokchisi bo'lish qobiliyati qanday ataladi?",
+     "options": [
+      "Maxsus huquqiy layoqat",
+      "Umumiy huquqiy layoqat",
+      "Sohaviy huquqiy layoqat",
+      "Delikt layoqati"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (323)"
+    },
+    {
+     "q": "Odilqoriyev darsligida «huquqdorlik» tushunchasi qanday ta'riflangan?",
+     "options": [
+      "Huquq sohibi, huquqiy aloqalar ishtirokchisi bo'lish qobiliyati",
+      "Huquqbuzarlik uchun javobgarlikni o'z zimmasiga olish qobiliyati",
+      "Faqat mulkka egalik qilish huquqi",
+      "Davlat organida rahbar lavozimini egallash va farmoyish berish huquqi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (322)"
+    },
+    {
+     "q": "Voyaga yetgunga qadar qonuniy asosda nikohdan o'tgan fuqaro to'liq muomala layoqatiga qachondan ega bo'ladi?",
+     "options": [
+      "Nikohdan o'tgan vaqtdan e'tiboran",
+      "O'n sakkiz yoshga to'lgandan keyin",
+      "Farzand ko'rgan paytdan e'tiboran",
+      "Sud qaror chiqargan paytdan e'tiboran"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Odilqoriyev (S: 163; O: 324)"
+    },
+    {
+     "q": "Nikoh tuzish natijasida ega bo'lingan to'liq muomala layoqati o'n sakkiz yoshga to'lmasdan nikoh bekor qilinsa nima bo'ladi?",
+     "options": [
+      "To'la saqlanib qoladi",
+      "Avtomatik ravishda yo'qoladi",
+      "Yarmi saqlanib qoladi",
+      "Faqat sud orqali tiklanadi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (163)"
+    },
+    {
+     "q": "«Delikt» atamasi lotin tilida qanday ma'noni anglatadi?",
+     "options": [
+      "Huquqbuzarlik, noqonuniy xatti-harakat",
+      "Kelishuv, ikki tomonlama shartnoma",
+      "Mulk, boylik",
+      "Qaror, hukm yoki farmoyish chiqarish vakolati"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (324)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, huquqdorlik tushunchasi tarkibida qaysi layoqat belgilovchi o'rinni egallaydi va qolganlari undan kelib chiqadi?",
+     "options": [
+      "Huquq layoqati",
+      "Muomala layoqati",
+      "Delikt layoqati",
+      "Saylov layoqati"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (324)"
+    },
+    {
+     "q": "Yuk tashish shartnomasi bo'yicha huquqiy munosabatda nima obyekt hisoblanadi?",
+     "options": [
+      "Xulq-atvor natijasi – yukni manzilga yetkazish",
+      "Tashuvchining shaxsiy hayoti va uning sog'lig'i",
+      "Yuk qabul qiluvchining sha'ni",
+      "Tashuvchi tashkilotning ustav kapitali va mol-mulki"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (326)"
+    },
+    {
+     "q": "Inson hayoti, sog'lig'i, sha'ni va qadr-qimmati huquqiy munosabat obyektlarining qaysi guruhiga kiradi?",
+     "options": [
+      "Shaxsiy nomulkiy ne'matlar",
+      "Moddiy olam ne'matlari",
+      "Ma'naviy (intellektual) ijod mahsulotlari",
+      "Qimmatli qog'ozlar"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (326)"
+    },
+    {
+     "q": "Sudga murojaat qilib aliment to'lanishini talab qilish huquqi subyektiv huquqning qaysi vakolatiga misol bo'ladi?",
+     "options": [
+      "Talab tarzidagi huquqiy vakolat",
+      "O'z xatti-harakatlarini amalga oshirish vakolati",
+      "O'zgalarning xatti-harakatiga bo'lgan vakolat",
+      "Tasarruf etish vakolati"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (327)"
+    },
+    {
+     "q": "Yuridik majburiyatni «o'z irodang chegaralanganligini, o'zganing manfaati bilan bog'langanligini anglash» deb ta'riflagan olim kim?",
+     "options": [
+      "G.F. Shershenevich",
+      "L.S. Yavich",
+      "D.A. Kerimov",
+      "M.N. Marchenko va S.S. Alekseyev"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (328)"
+    },
+    {
+     "q": "Ish vaqtidan tashqari ishlaganlik uchun oshirilgan haq to'lash ma'muriyat va xodim uchun nimani anglatadi?",
+     "options": [
+      "Ma'muriyat uchun majburiyat, xodim uchun huquq",
+      "Ma'muriyat uchun huquq, xodim uchun majburiyat",
+      "Ikkala tomon uchun ham faqat huquq",
+      "Ikkala tomon uchun ham faqat ixtiyoriy axloqiy burch"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (329)"
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, nima uchun nikohni FHDYo (ZAGS) organida ro'yxatdan o'tkazish yuridik fakt hisoblanadi?",
+     "options": [
+      "Bu holat qonunda nazarda tutilgan",
+      "U tantanali marosimda, mehmonlar ishtirokida o'tkaziladi",
+      "Unda kamida ikki nafar guvoh ishtirok etadi",
+      "U xalqning qadimiy an'anaviy urf-odatiga asoslanadi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (332)"
+    },
+    {
+     "q": "Ijodkorning ilmiy yoki badiiy asar yaratishi, natijada qonunga ko'ra mualliflik munosabatlari vujudga kelishi yuridik faktning qaysi turiga misol bo'ladi?",
+     "options": [
+      "Yuridik xatti-harakat",
+      "Yuridik akt (bitim)",
+      "Yuridik hodisa",
+      "Huquqqa xilof harakat (delikt)"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (333)"
+    },
+    {
+     "q": "Xodimning boshqa ishga o'tishi, bunda mehnat munosabati saqlanib qolgan holda mazmuni o'zgarishi qanday yuridik fakt hisoblanadi?",
+     "options": [
+      "Huquqni o'zgartiruvchi fakt",
+      "Huquqni yaratuvchi fakt",
+      "Huquqni bekor qiluvchi fakt",
+      "Irodaga bog'liq bo'lmagan yuridik hodisa"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (165)"
+    },
+    {
+     "q": "Bedarak yo'qolgan shaxsni ma'lum muddatdan keyin vafot etgan deb e'lon qilish, keyin uning tirikligi aniqlanishi huquqdagi qaysi hodisaga misol qilib keltirilgan?",
+     "options": [
+      "Fiksiya",
+      "Preyuditsiya",
+      "Prezumpsiya",
+      "Analogiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (166)"
+    },
+    {
+     "q": "Huquqqa xilof harakatlar o'z mazmuni va xususiyatiga qarab qanday turlarga bo'linadi?",
+     "options": [
+      "Jinoiy, ma'muriy, fuqarolik va intizomiy",
+      "Moddiy-huquqiy, protsessual-huquqiy va aralash",
+      "Mutlaq va nisbiy",
+      "Umumiy, sohaviy, maxsus va konkret"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (333)"
     }
    ]
   }
