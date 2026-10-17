@@ -7,7 +7,7 @@
      "id": "2180ed3aef",
      "title": "Islomov Z.M. - Davlat va huquq nazariyasi (2007)",
      "ext": "pdf",
-     "size": 4829109,
+     "size": 8844729,
      "file": "kitoblar/2180ed3aef.pdf"
     },
     {
@@ -55,14 +55,14 @@
      "id": "8778c1b70b",
      "title": "Lazarev V.V. (red.) - Obshchaya teoriya prava i gosudarstva (2001)",
      "ext": "pdf",
-     "size": 2672276,
+     "size": 5395263,
      "file": "kitoblar/8778c1b70b.pdf"
     },
     {
      "id": "f90701b6a0",
      "title": "Melekhin A.V. - Teoriya gosudarstva i prava (2007)",
      "ext": "pdf",
-     "size": 4048929,
+     "size": 8579367,
      "file": "kitoblar/f90701b6a0.pdf"
     },
     {
@@ -154,13 +154,6 @@
    "title": "Normativ hujjatlar",
    "books": [
     {
-     "id": "7d60441952",
-     "title": "O'RQ-687 (27.04.2021) - Konstitutsiyaviy sud to'g'risida",
-     "ext": "pdf",
-     "size": 306941,
-     "file": "kitoblar/7d60441952.pdf"
-    },
-    {
      "id": "784ca6391d",
      "title": "PF-5618 (09.01.2019) - Huquqiy ong va huquqiy madaniyatni yuksaltirish to'g'risida",
      "ext": "pdf",
@@ -174,8 +167,8 @@
      "url": "https://lex.uz/docs/6445145"
     },
     {
-     "title": "«O'zbekiston Respublikasining Konstitutsiyaviy sudi to'g'risida»gi Konstitutsiyaviy qonun (O'RQ-687, 27.04.2021)",
-     "url": "https://lex.uz/docs/-5391934"
+     "title": "«O'zbekiston Respublikasining Konstitutsiyaviy sudi to'g'risida»gi Konstitutsiyaviy qonun",
+     "url": "https://lex.uz/docs/3221763"
     },
     {
      "title": "«Parlament nazorati to'g'risida»gi qonun",
@@ -195,5 +188,36 @@
     }
    ]
   }
- ]
+ ],
+ "jh": {
+  "categories": [
+   {
+    "title": "Darsliklar va sharhlar",
+    "books": [
+     {
+      "id": "45b3af8cf6",
+      "title": "Rustambayev M.X. - Jinoyat kodeksiga sharhlar. Maxsus qism (2016)",
+      "ext": "pdf",
+      "size": 10453022,
+      "file": "kitoblar/45b3af8cf6.pdf"
+     }
+    ],
+    "links": []
+   },
+   {
+    "title": "Normativ hujjatlar",
+    "books": [],
+    "links": [
+     {
+      "title": "O'zbekiston Respublikasining Jinoyat kodeksi",
+      "url": "https://lex.uz/docs/111453"
+     },
+     {
+      "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+      "url": "https://lex.uz/docs/6445145"
+     }
+    ]
+   }
+  ]
+ }
 }

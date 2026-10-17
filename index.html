@@ -459,23 +459,24 @@ function renderGlossary() {
   draw("");
 }
 let LIB = null;
+const libCats = () => FAN.id === "dhn" ? LIB.categories : ((LIB.jh || {}).categories || []);  // har fanning o'z kutubxonasi
 function renderLibrary() {
   const app = $("#app");
   if (!LIB) {
     app.innerHTML = `${mobBrand}<p class="muted">Kutubxona yuklanmoqda…</p>`;
-    fetch("kutubxona.json").then(r => r.json()).then(d => { LIB = d; if ((location.hash || "").slice(1) === "kutubxona") renderLibrary(); })
+    fetch("kutubxona.json?v=2").then(r => r.json()).then(d => { LIB = d; if ((location.hash || "").slice(1) === "kutubxona") renderLibrary(); })
       .catch(() => { app.innerHTML = `${mobBrand}<p>Kutubxona yuklanmadi. Sahifani yangilang.</p>`; });
     return;
   }
   const ICON = {pdf: "📕", doc: "📘", docx: "📘", djvu: "📙", epub: "📗"};
   const size = n => n >= 1048576 ? (n / 1048576).toFixed(1) + " MB" : Math.max(1, Math.round(n / 1024)) + " KB";
-  const total = LIB.categories.reduce((s, c) => s + c.books.length + c.links.length, 0);
+  const total = libCats().reduce((s, c) => s + c.books.length + c.links.length, 0);
   app.innerHTML = `${mobBrand}<div class="wide stack"><span class="eyebrow">${total} ta manba</span><h1>Elektron kutubxona</h1>
-    <p class="wrap">Darsliklar, o'quv qo'llanmalar, xorijiy adabiyotlar va qonun hujjatlari. Kitoblar faqat onlayn o'qish uchun.${BOT_USERNAME ? " Istalgan kitobni Telegram botda ham o'qishingiz mumkin." : ""}</p>
-    <label for="q" class="muted">Muallif yoki nom bo'yicha qidirish</label><input type="search" id="q" placeholder="Masalan: Saydullayev"><div id="list" class="stack"></div></div>`;
+    <p class="wrap">${esc(FAN.title)}: darsliklar, o'quv qo'llanmalar va qonun hujjatlari. Kitoblar faqat onlayn o'qish uchun.${BOT_USERNAME ? " Istalgan kitobni Telegram botda ham o'qishingiz mumkin." : ""}</p>
+    <label for="q" class="muted">Muallif yoki nom bo'yicha qidirish</label><input type="search" id="q" placeholder="Masalan: ${FAN.id === "jh" ? "Rustambayev" : "Saydullayev"}"><div id="list" class="stack"></div></div>`;
   const draw = f => {
     const s = f.trim().toLowerCase(), hit = t => !s || t.toLowerCase().includes(s);
-    const html = LIB.categories.map(c => {
+    const html = libCats().map(c => {
       const books = c.books.filter(b => hit(b.title)), links = c.links.filter(l => hit(l.title));
       if (!books.length && !links.length) return "";
       const bot = b => BOT_USERNAME ? `<a class="btn ghost" href="https://t.me/${BOT_USERNAME}?start=k${b.id}" target="_blank" rel="noopener">Botda</a>` : "";
@@ -513,9 +514,9 @@ async function renderReader(id) {
   if (READER) { READER.stop(); READER = null; }
   if (!LIB) {
     app.innerHTML = `${mobBrand}<p class="muted">Kitob yuklanmoqda…</p>`;
-    try { LIB = await (await fetch("kutubxona.json")).json(); } catch { app.innerHTML = `${mobBrand}<p>Kutubxona yuklanmadi.</p>`; return; }
+    try { LIB = await (await fetch("kutubxona.json?v=2")).json(); } catch { app.innerHTML = `${mobBrand}<p>Kutubxona yuklanmadi.</p>`; return; }
   }
-  const book = LIB.categories.flatMap(c => c.books).find(b => b.id === id);
+  const book = [...LIB.categories, ...((LIB.jh || {}).categories || [])].flatMap(c => c.books).find(b => b.id === id);
   if (!book || !book.file) { app.innerHTML = `${mobBrand}<div class="wrap stack"><h1>Kitob topilmadi</h1><p><a href="#kutubxona">Kutubxonaga qaytish</a></p></div>`; return; }
   app.innerHTML = `<div class="wide"><div class="reader-bar"><a class="btn ghost" href="#kutubxona" style="padding:6px 10px">←</a><span class="t">${esc(book.title)}</span>
     <span class="pg" id="pg">…</span><button id="zo" aria-label="Kichraytirish">−</button><button id="zi" aria-label="Kattalashtirish">+</button></div>
