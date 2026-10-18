@@ -526,7 +526,7 @@ async function renderReader(id) {
   let lib;
   try { lib = await loadPdfJs(); } catch { pages.innerHTML = `<p>O'quvchi dastur yuklanmadi. Internetni tekshiring.</p>`; return; }
   let doc;
-  try { doc = await lib.getDocument({url: book.file, disableAutoFetch: true, disableStream: true, rangeChunkSize: 262144}).promise; } catch { pages.innerHTML = `<p>Kitob ochilmadi. Sahifani yangilang.</p>`; return; }
+  try { doc = await lib.getDocument({url: book.file, rangeChunkSize: 1048576}).promise; } catch { pages.innerHTML = `<p>Kitob ochilmadi. Sahifani yangilang.</p>`; return; }
   if (location.hash !== "#oqish-" + id) return;
   const first = await doc.getPage(1), base = first.getViewport({scale: 1});
   let zoom = 1, alive = true;
