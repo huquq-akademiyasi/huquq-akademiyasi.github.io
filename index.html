@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Huquq Akademiyasi</title>
-<link rel="icon" type="image/png" href="favicon.png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" href="favicon.png?v=2">
+<link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
 <meta name="description" content="Davlat va huquq nazariyasi: mavzulashtirilgan ma'ruzalar, taqdimotlar, atamalar lug'ati, testlar va xatolar daftari.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -183,7 +183,7 @@ input[type=search]{width:100%;max-width:480px;padding:10px 12px;border:1px solid
 <body>
 <div class="shell">
   <aside class="side">
-    <a class="brand" href="#home"><img class="brand-logo" src="apple-touch-icon.png" alt="">Huquq Akademiyasi<small id="subj">Davlat va huquq nazariyasi</small></a>
+    <a class="brand" href="#home"><img class="brand-logo" src="apple-touch-icon.png?v=2" alt="">Huquq Akademiyasi<small id="subj">Davlat va huquq nazariyasi</small></a>
     <div class="fans" id="fans"></div>
     <nav class="nav" id="nav">
       <a href="#home" data-r="home">Bosh sahifa</a>
@@ -278,7 +278,7 @@ function go() {
   app.focus?.();
 }
 const fanLinks = () => FANS.map(f => `<a href="?fan=${f.id}#home" class="${f === FAN ? "on" : ""}">${esc(f.short)}</a>`).join("");
-const mobBrand = `<a class="mob-brand" href="#home"><img src="apple-touch-icon.png" alt="">Huquq Akademiyasi</a><div class="fans mob-fans">${fanLinks()}</div>`;
+const mobBrand = `<a class="mob-brand" href="#home"><img src="apple-touch-icon.png?v=2" alt="">Huquq Akademiyasi</a><div class="fans mob-fans">${fanLinks()}</div>`;
 
 function renderHome() {
   const t = DATA.topics, tests = t.reduce((s, x) => s + x.tests.length, 0), terms = t.reduce((s, x) => s + x.terms.length, 0);
