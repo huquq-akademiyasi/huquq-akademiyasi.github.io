@@ -11552,6 +11552,138 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom; JK (R1: 47; JK 10-modda)"
+      },
+      {
+       "q": "Jinoyat huquqining predmeti – davlatning maxsus vakolatli organlari va ______ o'rtasida vujudga keladigan muayyan ijtimoiy munosabatlar.",
+       "options": [
+        "jinoyat sodir qilgan shaxs",
+        "jabrlanuvchi",
+        "sud va prokuratura organlari",
+        "fuqarolar va jamiyat"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 9)",
+       "fill": true
+      },
+      {
+       "q": "Agar ______ umuman aholi tomonidan jinoyat sodir etilishining oldini olish bo'lsa, ______ jinoiy javobgarlikka tortilgan muayyan shaxs tomonidan kelajakda ijtimoiy xavfli xatti-harakatlar sodir etilishining oldini olishdir.",
+       "options": [
+        "umumiy prevensiya / maxsus prevensiya",
+        "maxsus prevensiya / umumiy prevensiya",
+        "umumiy prevensiya / axloqan tuzatish",
+        "jazoning maqsadi / jazoning vazifasi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 19)",
+       "fill": true
+      },
+      {
+       "q": "Sodir etilgan qilmishning jinoiyligi, jazoga sazovorligi va boshqa huquqiy oqibatlari faqat ______ bilan belgilanadi.",
+       "options": [
+        "Jinoyat kodeksi",
+        "Konstitutsiya va qonunlar",
+        "Oliy sud Plenumi qarorlari",
+        "sud amaliyoti"
+       ],
+       "answer": 0,
+       "src": "JK (JK 4-modda)",
+       "fill": true
+      },
+      {
+       "q": "Hech kim ______ bo'lmay turib jinoyat sodir qilishda aybli deb topilishi va qonunga xilof ravishda jazoga tortilishi mumkin emas.",
+       "options": [
+        "sudning hukmi",
+        "prokurorning qarori",
+        "tergovchining ayblovi",
+        "o'z iqrori"
+       ],
+       "answer": 0,
+       "src": "JK (JK 4-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jazo va boshqa huquqiy ta'sir choralari jismoniy azob berish yoki inson qadr-qimmatini kamsitish maqsadini ko'zlamaydi. Bu ______ prinsipining mazmuni.",
+       "options": [
+        "insonparvarlik",
+        "odillik",
+        "qonuniylik",
+        "ayb uchun javobgarlik"
+       ],
+       "answer": 0,
+       "src": "JK (JK 7-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir etgan shaxsga u axloqan tuzalishi va yangi jinoyat sodir etishining oldini olish uchun ______ bo'ladigan jazo tayinlanishi kerak.",
+       "options": [
+        "zarur hamda yetarli",
+        "eng qattiq",
+        "sanksiyaning eng kam miqdorida",
+        "jabrlanuvchi talab qilgan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 7-modda)",
+       "fill": true
+      },
+      {
+       "q": "______ prinsipiga ko'ra, hech kim aynan bitta jinoyat uchun ikki marta javobgarlikka tortilishi mumkin emas.",
+       "options": [
+        "Odillik",
+        "Qonuniylik",
+        "Javobgarlikning muqarrarligi",
+        "Insonparvarlik"
+       ],
+       "answer": 0,
+       "src": "JK (JK 8-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shaxs qonunda belgilangan tartibda ______ ijtimoiy xavfli qilmishlari uchungina javobgar bo'ladi.",
+       "options": [
+        "aybi isbotlangan",
+        "o'zi tan olgan",
+        "jabrlanuvchi ko'rsatgan",
+        "tergovda aniqlangan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 9-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qilmishida ______ mavjudligi aniqlangan har bir shaxs javobgarlikka tortilishi shart (javobgarlikning muqarrarligi prinsipi).",
+       "options": [
+        "jinoyat tarkibining",
+        "ijtimoiy xavflilikning",
+        "huquqqa xiloflikning",
+        "og'irlashtiruvchi holatning"
+       ],
+       "answer": 0,
+       "src": "JK (JK 10-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat-huquqiy tushuncha va hodisalarni o'rganishda qo'llaniladigan usul va vositalar yig'indisi, tizimi jinoyat huquqi ______ deyiladi.",
+       "options": [
+        "metodikasi",
+        "predmeti",
+        "tizimi",
+        "instituti"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 11)",
+       "fill": true
+      },
+      {
+       "q": "O'xshash ijtimoiy munosabatlarni tartibga soluvchi turdosh yuridik normalar majmui jinoyat huquqi ______ deyiladi.",
+       "options": [
+        "instituti",
+        "normasi",
+        "manbasi",
+        "predmeti"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 55)",
+       "fill": true
       }
      ]
     },
@@ -12251,6 +12383,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom (R1: 107–108)"
+      },
+      {
+       "q": "Modda qismining muayyan jinoiy qilmish va uning belgilari ko'rsatilgan elementi ______, shu jinoyat uchun jazo turi va doirasini belgilovchi elementi esa ______ deyiladi.",
+       "options": [
+        "dispozitsiya / sanksiya",
+        "sanksiya / dispozitsiya",
+        "gipoteza / sanksiya",
+        "dispozitsiya / gipoteza"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 59–60)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat belgilarini JKda yoritmasdan, boshqa huquq sohasiga oid qonunlar yoki normativ hujjatlarga havola qiluvchi dispozitsiya ______ dispozitsiya deyiladi.",
+       "options": [
+        "blanket",
+        "havolaki",
+        "tasvirlov",
+        "oddiy"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 59)",
+       "fill": true
+      },
+      {
+       "q": "Qilmishning jinoiyligi va jazoga sazovorligi ana shu qilmish ______ amalda bo'lgan qonun bilan belgilanadi.",
+       "options": [
+        "sodir etilgan vaqtda",
+        "aniqlangan vaqtda",
+        "sudda ko'rilgan vaqtda",
+        "hukm chiqarilgan vaqtda"
+       ],
+       "answer": 0,
+       "src": "JK (JK 13-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qilmishning jinoiyligini bekor qiladigan, jazoni yengillashtiradigan yoki shaxsning ahvolini boshqacha tarzda yaxshilaydigan qonun ______ kuchiga ega.",
+       "options": [
+        "orqaga qaytish",
+        "faqat kelajakka nisbatan amal qilish",
+        "ustun yuridik",
+        "to'g'ridan-to'g'ri amal qilish"
+       ],
+       "answer": 0,
+       "src": "JK (JK 13-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qilmishni jinoyat deb hisoblaydigan, jazoni kuchaytiradigan yoki shaxsning holatini boshqacha tarzda yomonlashtiradigan qonun orqaga qaytish kuchiga ______.",
+       "options": [
+        "ega emas",
+        "ega",
+        "faqat sud qarori bilan ega",
+        "faqat sudlanmaganlarga nisbatan ega"
+       ],
+       "answer": 0,
+       "src": "JK (JK 13-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qilmish O'zbekiston hududidan tashqarida sodir etilib, jinoiy ______ O'zbekiston hududida yuz bergan bo'lsa, u O'zbekiston hududida sodir etilgan jinoyat deb topiladi.",
+       "options": [
+        "oqibati",
+        "maqsadi",
+        "niyati",
+        "tayyorgarligi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 11-modda)",
+       "fill": true
+      },
+      {
+       "q": "O'zbekiston fuqarosi chet el davlati hududida sodir etgan jinoyati uchun, agar xalqaro shartnomalar yoki bitimlarda boshqacha hol nazarda tutilmagan bo'lsa, ______ mumkin emas.",
+       "options": [
+        "ushlab berilishi",
+        "javobgarlikka tortilishi",
+        "sudlanishi",
+        "jazolanishi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 12-modda)",
+       "fill": true
+      },
+      {
+       "q": "Davlat hududining boshqa davlat chegaralari bilan o'rab olingan va dengizga chiqish imkoniyatiga ega bo'lmagan qismi ______ deyiladi.",
+       "options": [
+        "anklav",
+        "akvatoriya",
+        "kondominium",
+        "bufer zona"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 64)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir etgan yoki sodir etishda gumon qilinayotgan shaxsni javobgarlikka tortish yoki ayblov hukmini ijro etish uchun bir davlat tomonidan boshqa davlatga berish ______ deyiladi.",
+       "options": [
+        "ekstraditsiya",
+        "deportatsiya",
+        "reabilitatsiya",
+        "amnistiya"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 81)",
+       "fill": true
+      },
+      {
+       "q": "Jinoiy jazolanuvchi qilmishlarni ma'muriy, intizomiy yoki boshqa huquqbuzarlik turiga o'tkazish ______ deyiladi.",
+       "options": [
+        "dekriminalizatsiya",
+        "kriminalizatsiya",
+        "reabilitatsiya",
+        "kvalifikatsiya"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 100)",
+       "fill": true
       }
      ]
     },
@@ -12964,6 +13216,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom (R1: 144)"
+      },
+      {
+       "q": "Ushbu Kodeks bilan taqiqlangan, ______ ijtimoiy xavfli qilmish (harakat yoki harakatsizlik) jazo qo'llash tahdidi bilan jinoyat deb topiladi.",
+       "options": [
+        "aybli",
+        "qasddan sodir etilgan",
+        "g'arazli",
+        "takroran sodir etilgan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 14-modda)",
+       "fill": true
+      },
+      {
+       "q": "Kodeks bilan qo'riqlanadigan obyektlarga zarar yetkazadigan yoki shunday zarar yetkazish ______ keltirib chiqaradigan qilmish ijtimoiy xavfli qilmish deyiladi.",
+       "options": [
+        "real xavfini",
+        "nazariy ehtimolini",
+        "shubhasini",
+        "ijtimoiy noroziligini"
+       ],
+       "answer": 0,
+       "src": "JK (JK 14-modda)",
+       "fill": true
+      },
+      {
+       "q": "Agar ijtimoiy xavflilik ______ jinoyatning sifat belgisini ifodalasa, ijtimoiy xavflilik ______ bir xil xususiyatdagi jinoyatlar xavfliligining miqdor ko'rsatkichidir.",
+       "options": [
+        "xususiyati / darajasi",
+        "darajasi / xususiyati",
+        "darajasi / hajmi",
+        "mazmuni / shakli"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 124)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavfi katta bo'lmagan jinoyatlarga qasddan sodir etilib, qonunda ______ ko'p bo'lmagan muddatga ozodlikdan mahrum qilish nazarda tutilgan jinoyatlar kiradi.",
+       "options": [
+        "uch yildan",
+        "besh yildan",
+        "ikki yildan",
+        "bir yildan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 15-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ehtiyotsizlik oqibatida sodir etilib, qonunda besh yildan ortiq muddatga ozodlikdan mahrum qilish nazarda tutilgan jinoyatlar ______ jinoyatlar hisoblanadi.",
+       "options": [
+        "uncha og'ir bo'lmagan",
+        "og'ir",
+        "o'ta og'ir",
+        "ijtimoiy xavfi katta bo'lmagan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 15-modda)",
+       "fill": true
+      },
+      {
+       "q": "Og'ir jinoyatlarga qasddan sodir etilib, qonunda ______ ozodlikdan mahrum qilish jazosi nazarda tutilgan jinoyatlar kiradi.",
+       "options": [
+        "besh yildan ortiq, lekin o'n yildan ko'p bo'lmagan muddatga",
+        "uch yildan ortiq, lekin besh yildan ko'p bo'lmagan muddatga",
+        "o'n yildan ortiq muddatga",
+        "yetti yildan ortiq, lekin o'n besh yildan ko'p bo'lmagan muddatga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 15-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ushbu Kodeksda nazarda tutilgan jinoyat tarkibining ______ mavjud bo'lgan qilmishni sodir etish javobgarlikka tortish uchun asos bo'ladi.",
+       "options": [
+        "barcha alomatlari",
+        "asosiy alomatlari",
+        "obyektiv alomatlari",
+        "kamida bitta alomati"
+       ],
+       "answer": 0,
+       "src": "JK (JK 16-modda)",
+       "fill": true
+      },
+      {
+       "q": "Garchi JKda jinoyat sifatida nazarda tutilgan qilmishning alomatlari mavjud bo'lsa-da, o'zining ______ tufayli ijtimoiy xavfli bo'lmagan harakat yoki harakatsizlik jinoyat deb topilmaydi.",
+       "options": [
+        "kam ahamiyatliligi",
+        "ehtiyotsizlikda sodir etilgani",
+        "birinchi marta sodir etilgani",
+        "zarar qoplangani"
+       ],
+       "answer": 0,
+       "src": "JK (JK 36-modda)",
+       "fill": true
+      },
+      {
+       "q": "Aniq ijtimoiy xavfli qilmishni jinoyat deb baholash uchun zarur bo'lgan, jinoyat qonunida mustahkamlangan obyektiv va subyektiv elementlar yig'indisi ______ deyiladi.",
+       "options": [
+        "jinoyat tarkibi",
+        "jinoyat kvalifikatsiyasi",
+        "jinoyat dispozitsiyasi",
+        "ijtimoiy xavflilik darajasi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 137)",
+       "fill": true
+      },
+      {
+       "q": "Birortasi bo'lmasa javobgarlikka tortish uchun asos ham bo'lmaydigan belgilar ______, kvalifikatsiyaga ta'sir etmaydigan, lekin jazoni individuallashtirishda hisobga olinadigan belgilar esa ______ belgilar deyiladi.",
+       "options": [
+        "zaruriy / fakultativ",
+        "fakultativ / zaruriy",
+        "obyektiv / subyektiv",
+        "kvalifikatsiya qiluvchi / imtiyozli"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 139–140)",
+       "fill": true
       }
      ]
     },
@@ -13690,6 +14062,126 @@
        ],
        "answer": 0,
        "src": "JK (JK 296-modda)"
+      },
+      {
+       "q": "Jinoiy tajovuz qaratilgan va ana shu tajovuz orqali unga zarar yetkazilishi mumkin bo'lgan ijtimoiy munosabat jinoyat ______ deyiladi.",
+       "options": [
+        "obyekti",
+        "predmeti",
+        "obyektiv tomoni",
+        "oqibati"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 147)",
+       "fill": true
+      },
+      {
+       "q": "Agar jinoyat ______ tajovuz qaratilgan ijtimoiy munosabat bo'lsa, jinoyat ______ aybdor to'g'ridan-to'g'ri ta'sir etadigan obyektiv olamdagi jonli yoki jonsiz moddiy narsadir.",
+       "options": [
+        "obyekti / predmeti",
+        "predmeti / obyekti",
+        "obyekti / quroli",
+        "predmeti / vositasi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 147, 153)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat qonuni bilan qo'riqlanadigan barcha ijtimoiy munosabatlar majmui ______ obyekt deyiladi.",
+       "options": [
+        "umumiy",
+        "maxsus",
+        "turdosh",
+        "bevosita"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 150)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavfli tajovuz sodir etilayotganda bevosita tajovuz qaratilgan ijtimoiy munosabat ______ obyekt deyiladi.",
+       "options": [
+        "bevosita",
+        "umumiy",
+        "turdosh",
+        "fakultativ"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 151)",
+       "fill": true
+      },
+      {
+       "q": "Asosiy obyektga tajovuz qilish natijasida xavf ostida qoladigan ijtimoiy munosabat ______ obyekt deyiladi.",
+       "options": [
+        "qo'shimcha",
+        "fakultativ",
+        "turdosh",
+        "umumiy"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 152)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat bevosita qaratilgan, jinoyat natijasida zarar yetgan va zarar yetkazilish xavfi ostida qolgan shaxs ______ deyiladi.",
+       "options": [
+        "jabrlanuvchi",
+        "jinoyat predmeti",
+        "jinoyat subyekti",
+        "fuqaroviy da'vogar"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 154)",
+       "fill": true
+      },
+      {
+       "q": "Shaxsning bajarishi shart va mumkin bo'lgan harakatni bajarmaslikda ifodalanadigan passiv xulq-atvori jinoiy ______ deyiladi.",
+       "options": [
+        "harakatsizlik",
+        "beparvolik",
+        "oqibat",
+        "o'z-o'ziga ishonish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 162)",
+       "fill": true
+      },
+      {
+       "q": "Sababiy bog'lanish ______ tarkibli jinoyat obyektiv tomonining zaruriy belgisi bo'lib, ijtimoiy xavfli qilmish va ijtimoiy xavfli oqibat o'rtasidagi aloqadir.",
+       "options": [
+        "moddiy",
+        "formal",
+        "kesik",
+        "imtiyozli"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 167)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir qilinayotganda aybdor tomonidan ishlatiladigan aniq uslub va usullar yoki ularning birligi jinoyat sodir qilish ______ deyiladi.",
+       "options": [
+        "usuli",
+        "vositasi",
+        "holati",
+        "quroli"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 171)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir etishga ixtisoslashtirilgan va jinoyat sodir etishda bevosita ishlatiladigan moddiy dunyo predmeti jinoyat sodir etish ______ deyiladi.",
+       "options": [
+        "quroli",
+        "vositasi",
+        "predmeti",
+        "usuli"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 172)",
+       "fill": true
       }
      ]
     },
@@ -14396,6 +14888,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom; JK (R1: 225; JK 25, 271-moddalar)"
+      },
+      {
+       "q": "______ jinoiy faoliyatning zaruriy elementi bo'lsa, ______ jinoyat sodir eta turib subyekt erishishga intilayotgan xayoliy natijadir.",
+       "options": [
+        "motiv / maqsad",
+        "maqsad / motiv",
+        "ayb / motiv",
+        "qasd / maqsad"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 217)",
+       "fill": true
+      },
+      {
+       "q": "Ushbu Kodeksda nazarda tutilgan ijtimoiy xavfli qilmishni ______ sodir etgan shaxs jinoyat sodir etilishida aybdor deb topilishi mumkin.",
+       "options": [
+        "qasddan yoki ehtiyotsizlik orqasida",
+        "faqat qasddan",
+        "g'arazli maqsadda yoki qasddan",
+        "anglagan holda va istab"
+       ],
+       "answer": 0,
+       "src": "JK (JK 20-modda)",
+       "fill": true
+      },
+      {
+       "q": "Agar shaxs o'z qilmishining ijtimoiy xavfli xususiyatini anglagan, oqibatlariga ko'zi yetgan va ularning yuz berishini ______ bo'lsa, jinoyat to'g'ri qasddan sodir etilgan deb topiladi.",
+       "options": [
+        "istagan",
+        "ongli ravishda yo'l qo'ygan",
+        "befarq qaragan",
+        "kelib chiqmasligiga umid qilgan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 21-modda)",
+       "fill": true
+      },
+      {
+       "q": "Agar shaxs qilmishining ijtimoiy xavfli xususiyatini anglagan, oqibatlariga ko'zi yetgan va ularning yuz berishiga ______ bo'lsa, jinoyat egri qasddan sodir etilgan deb topiladi.",
+       "options": [
+        "ongli ravishda yo'l qo'ygan",
+        "istagan",
+        "asossiz umid qilgan",
+        "ko'zi yetishi lozim bo'lgan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 21-modda)",
+       "fill": true
+      },
+      {
+       "q": "Oqibatlar kelib chiqishi mumkinligiga ko'zi yeta turib, ehtiyotkorlik choralariga ongli ravishda rioya etmay, ular kelib chiqmasligiga asossiz umid qilish ______, ko'zi yetmasa-da, ko'zi yetishi lozim va mumkin bo'lishi esa ______ deyiladi.",
+       "options": [
+        "o'z-o'ziga ishonish / beparvolik",
+        "beparvolik / o'z-o'ziga ishonish",
+        "egri qasd / beparvolik",
+        "o'z-o'ziga ishonish / egri qasd"
+       ],
+       "answer": 0,
+       "src": "JK (JK 22-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qasddan jinoyat sodir etish natijasida ehtiyotsizlik orqasida boshqa ijtimoiy xavfli oqibatlar yuz bergan va qonun uni qattiqroq javobgarlik bilan bog'lagan bo'lsa, bunday jinoyat ______ sodir etilgan deb topiladi.",
+       "options": [
+        "qasddan",
+        "ehtiyotsizlik orqasida",
+        "aybsiz holda",
+        "egri qasd bilan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 23-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shaxs qilmishining ijtimoiy xavfliligini anglamagan va anglashi mumkin ham, lozim ham bo'lmagan bo'lsa, qilmish ______ sodir etilgan deb topiladi.",
+       "options": [
+        "aybsiz holda",
+        "beparvolik orqasida",
+        "o'z-o'ziga ishonish oqibatida",
+        "affekt holatida"
+       ],
+       "answer": 0,
+       "src": "JK (JK 24-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qisqa muddatli, to'satdan paydo bo'luvchi, jabrlanuvchining huquqqa xilof, axloqsiz xatti-harakatlari natijasida kelib chiquvchi kuchli ruhiy hayajonlanish ______ deyiladi.",
+       "options": [
+        "affekt",
+        "stress",
+        "aqli norasolik",
+        "patologik mastlik"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 220)",
+       "fill": true
+      },
+      {
+       "q": "Shaxsning o'z qilmishining yuridik mohiyatini va yuridik oqibatlarini noto'g'ri baholashi ______ xato, jinoyat tarkibining obyektiv belgilarini ifodalovchi holatlar haqidagi noto'g'ri tasavvuri esa ______ xato deyiladi.",
+       "options": [
+        "yuridik / faktik",
+        "faktik / yuridik",
+        "yuridik / subyektiv",
+        "huquqiy / mantiqiy"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 221–222)",
+       "fill": true
+      },
+      {
+       "q": "Aybdorning o'zi sodir etgan ijtimoiy xavfli qilmishiga nisbatan ruhiy munosabati bo'lib, uning aybi, motivi, maqsadi va his-tuyg'usini ifodalaydigan element jinoyat tarkibining ______ deyiladi.",
+       "options": [
+        "subyektiv tomoni",
+        "subyekti",
+        "obyektiv tomoni",
+        "obyekti"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 176)",
+       "fill": true
       }
      ]
     },
@@ -15099,6 +15711,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom (R1: 260)"
+      },
+      {
+       "q": "Jinoyat qonunchiligida nazarda tutilgan jinoyatni sodir etgan va qonunda belgilangan yoshga yetgan aqli raso ______ jinoyat subyekti hisoblanadi.",
+       "options": [
+        "jismoniy shaxs",
+        "jismoniy yoki yuridik shaxs",
+        "fuqaro",
+        "mansabdor shaxs"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 233)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir etgunga qadar ______ yoshga to'lgan, aqli raso jismoniy shaxslar javobgarlikka tortiladilar (umumiy qoida).",
+       "options": [
+        "o'n olti",
+        "o'n to'rt",
+        "o'n sakkiz",
+        "o'n besh"
+       ],
+       "answer": 0,
+       "src": "JK (JK 17-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qasddan odam o'ldirish (JK 97-modda), o'g'irlik (JK 169-modda) kabi jinoyatlar uchun javobgarlik jinoyat sodir etgunga qadar ______ yoshga to'lgan shaxslarga qo'llaniladi.",
+       "options": [
+        "o'n to'rt",
+        "o'n olti",
+        "o'n ikki",
+        "o'n sakkiz"
+       ],
+       "answer": 0,
+       "src": "JK (JK 17-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir etish vaqtida o'z harakatlarining ijtimoiy xavfli xususiyatini anglagan va ularni ______ shaxs aqli raso deb topiladi.",
+       "options": [
+        "boshqara olgan",
+        "oqibatini istagan",
+        "sodir etishni rejalashtirgan",
+        "yashira olgan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 18-modda)",
+       "fill": true
+      },
+      {
+       "q": "Aqli norasolikning ______ mezoni – o'z harakatlarining ahamiyatini anglay olmaslik yoki boshqara olmaslik; ______ mezoni – ruhiy holat buzilishlaridan birining mavjudligi.",
+       "options": [
+        "yuridik / tibbiy",
+        "tibbiy / yuridik",
+        "intellektual / irodaviy",
+        "subyektiv / obyektiv"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 243–245)",
+       "fill": true
+      },
+      {
+       "q": "Mastlik holatida jinoyat sodir etgan shaxs javobgarlikdan ozod qilinmaydi va bu holat uni ______ deb topish uchun asos bo'lmaydi.",
+       "options": [
+        "aqli noraso",
+        "aqli raso",
+        "maxsus subyekt",
+        "jabrlanuvchi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 19-modda)",
+       "fill": true
+      },
+      {
+       "q": "Alkogol iste'mol qilish natijasidagi oddiy mastlik ______ mastlik, o'tkir qisqa muddatli ruhiy buzilish bo'lgani esa ______ mastlik deyiladi.",
+       "options": [
+        "fiziologik / patologik",
+        "patologik / fiziologik",
+        "oddiy / og'ir",
+        "ixtiyoriy / majburiy"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 247, 252)",
+       "fill": true
+      },
+      {
+       "q": "Zaruriy belgilardan tashqari JK Maxsus qismi moddalarida belgilangan qo'shimcha belgilarga ham ega bo'lgan subyekt ______ subyekt deyiladi.",
+       "options": [
+        "maxsus",
+        "umumiy",
+        "jamoaviy",
+        "kvalifikatsiyalangan"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 257)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir qilgan shaxsning uni jinoyat-huquqiy vositalar yordamida tuzatish imkoniyatlarida ifodalanuvchi ijtimoiy ahamiyatli xususiyatlar yig'indisi ______ deyiladi.",
+       "options": [
+        "jinoyatchining shaxsi",
+        "jinoyat subyekti",
+        "jinoyatning subyektiv tomoni",
+        "aybdorning xulq-atvori"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 260)",
+       "fill": true
+      },
+      {
+       "q": "O'n sakkiz yoshga to'lgunga qadar jinoyat sodir etgan shaxslar umumiy qoidalarga muvofiq va JK Umumiy qismi ______ bo'limida nazarda tutilgan xususiyatlar hisobga olingan holda javobgarlikka tortiladilar.",
+       "options": [
+        "oltinchi",
+        "beshinchi",
+        "to'rtinchi",
+        "ikkinchi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 17-modda)",
+       "fill": true
       }
      ]
     },
@@ -15798,6 +16530,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom; JK (R1: 283; JK 26-modda, 276-4-modda)"
+      },
+      {
+       "q": "Shaxsning qasddan qilinadigan jinoyatni sodir etish yoki yashirish uchun shart-sharoit yaratuvchi qilmishi o'ziga bog'liq bo'lmagan holatlarga ko'ra sodir etilishi boshlangunga qadar to'xtatilgan bo'lsa, bu jinoyatga ______ deb topiladi.",
+       "options": [
+        "tayyorgarlik ko'rish",
+        "suiqasd",
+        "ixtiyoriy qaytish",
+        "daxldorlik"
+       ],
+       "answer": 0,
+       "src": "JK (JK 25-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qasddan sodir etiladigan jinoyat boshlanib, shaxsga bog'liq bo'lmagan holatlarga ko'ra oxiriga yetkazilmagan bo'lsa, jinoyat sodir etishga ______ deb topiladi.",
+       "options": [
+        "suiqasd",
+        "tayyorgarlik ko'rish",
+        "ixtiyoriy qaytish",
+        "til biriktirish"
+       ],
+       "answer": 0,
+       "src": "JK (JK 25-modda)",
+       "fill": true
+      },
+      {
+       "q": "Agar jinoyat sodir etilishi boshlangunga qadar to'xtatilsa – jinoyatga ______, jinoyat boshlanib, oxiriga yetkazilmasa – jinoyat sodir etishga ______ bo'ladi.",
+       "options": [
+        "tayyorgarlik ko'rish / suiqasd",
+        "suiqasd / tayyorgarlik ko'rish",
+        "tayyorgarlik ko'rish / ixtiyoriy qaytish",
+        "til biriktirish / suiqasd"
+       ],
+       "answer": 0,
+       "src": "JK (JK 25-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyatga tayyorgarlik ko'rganlik va suiqasd qilganlik uchun javobgarlik JK Maxsus qismining ______ jinoyat uchun javobgarlikni belgilovchi moddasiga muvofiq hal qilinadi.",
+       "options": [
+        "tamom bo'lgan",
+        "tamom bo'lmagan",
+        "eng og'ir",
+        "eng yengil"
+       ],
+       "answer": 0,
+       "src": "JK (JK 25-modda)",
+       "fill": true
+      },
+      {
+       "q": "Subyekt zarur bo'lgan barcha harakatlarni qilgan, ammo obyektiv sabablarga ko'ra jinoiy oqibat kelib chiqmagan suiqasd ______ suiqasd deyiladi.",
+       "options": [
+        "tamom bo'lgan",
+        "tamom bo'lmagan",
+        "yaroqsiz",
+        "ixtiyoriy"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 275)",
+       "fill": true
+      },
+      {
+       "q": "Yaroqsiz obyektga yoki yaroqsiz vositalar bilan qilingan suiqasd subyektning ______ xatosiga asoslanadi.",
+       "options": [
+        "faktik",
+        "yuridik",
+        "huquqiy",
+        "protsessual"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 276)",
+       "fill": true
+      },
+      {
+       "q": "Shaxs jinoyatni oxiriga yetkazish mumkinligini ______ holda to'xtatsa, jinoyat sodir etishdan ixtiyoriy qaytish deb topiladi.",
+       "options": [
+        "anglagan",
+        "anglamagan",
+        "majburlangan",
+        "qo'lga tushgan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 26-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyat sodir etishdan ixtiyoriy qaytish javobgarlikni ______.",
+       "options": [
+        "istisno qiladi",
+        "yengillashtiradi",
+        "og'irlashtiradi",
+        "kechiktiradi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 26-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ixtiyoriy qaytgan shaxs, agar amalda sodir etgan qilmishida ______ barcha alomatlari bo'lsa, JK bo'yicha javobgarlikka tortiladi.",
+       "options": [
+        "boshqa jinoyat tarkibining",
+        "tayyorgarlikning",
+        "suiqasdning",
+        "ma'muriy huquqbuzarlikning"
+       ],
+       "answer": 0,
+       "src": "JK (JK 26-modda)",
+       "fill": true
+      },
+      {
+       "q": "Kamida ikki shaxsning muayyan jinoyat sodir etishi yoki uni yashirishga yordam berish haqida zarur kelishuvga erishishi ______ deyiladi.",
+       "options": [
+        "til biriktirish",
+        "dalolat qilish",
+        "uyushgan guruh",
+        "daxldorlik"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 269)",
+       "fill": true
       }
      ]
     },
@@ -16494,6 +17346,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom; JK (R1: 340; JK 31-modda)"
+      },
+      {
+       "q": "Ikki yoki undan ortiq shaxsning ______ jinoyat sodir etishda birgalashib qatnashishi ishtirokchilik deb topiladi.",
+       "options": [
+        "qasddan",
+        "qasddan yoki ehtiyotsizlik orqasida",
+        "oldindan til biriktirib",
+        "ehtiyotsizlik orqasida"
+       ],
+       "answer": 0,
+       "src": "JK (JK 27-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyatga tayyorgarlik ko'rilishiga yoki jinoyat sodir etilishiga rahbarlik qilgan shaxs ______, jinoyat sodir etilishiga qiziqtiruvchi shaxs esa ______ deb topiladi.",
+       "options": [
+        "tashkilotchi / dalolatchi",
+        "dalolatchi / tashkilotchi",
+        "bajaruvchi / yordamchi",
+        "tashkilotchi / yordamchi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 28-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyatni javobgarlikka tortilishi mumkin bo'lmagan shaxslardan yoki boshqa vositalardan foydalanib sodir etgan shaxs ______ deb topiladi.",
+       "options": [
+        "bajaruvchi",
+        "tashkilotchi",
+        "dalolatchi",
+        "yordamchi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 28-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyatchini yoki jinoiy yo'l bilan qo'lga kiritilgan narsalarni yashirishga ______ va'da bergan shaxs yordamchi hisoblanadi.",
+       "options": [
+        "oldindan",
+        "jinoyatdan keyin",
+        "pul evaziga",
+        "yozma ravishda"
+       ],
+       "answer": 0,
+       "src": "JK (JK 28-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ikki yoki undan ortiq shaxsning oldindan til biriktirmay jinoyat sodir etishda qatnashishi ______, oldindan til biriktirib ishtirok qilishi esa ______ ishtirokchilik deyiladi.",
+       "options": [
+        "oddiy / murakkab",
+        "murakkab / oddiy",
+        "oddiy / uyushgan",
+        "tasodifiy / rejali"
+       ],
+       "answer": 0,
+       "src": "JK (JK 29-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ikki yoki undan ortiq shaxsning birgalikda jinoiy faoliyat olib borish uchun oldindan bir guruhga birlashishi ______ deb topiladi.",
+       "options": [
+        "uyushgan guruh",
+        "jinoiy uyushma",
+        "murakkab ishtirokchilik",
+        "oddiy ishtirokchilik"
+       ],
+       "answer": 0,
+       "src": "JK (JK 29-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ikki yoki undan ortiq ______ jinoiy faoliyat bilan shug'ullanish uchun oldindan birlashishi jinoiy uyushma deb topiladi.",
+       "options": [
+        "uyushgan guruhning",
+        "shaxsning",
+        "bajaruvchining",
+        "tashkilotchining"
+       ],
+       "answer": 0,
+       "src": "JK (JK 29-modda)",
+       "fill": true
+      },
+      {
+       "q": "Bajaruvchining boshqa ishtirokchilarning jinoiy niyati bilan qamrab olinmagan qilmishi bajaruvchi ______ deyiladi; uning uchun faqat uni sodir etgan shaxs javob beradi.",
+       "options": [
+        "eksessi",
+        "xatosi",
+        "dalolati",
+        "suiqasdi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 30-modda)",
+       "fill": true
+      },
+      {
+       "q": "Oldindan va'da bermagan holda jinoyat haqida xabar qilmaslik yoki jinoyatni yashirish ishtirokchilik emas, balki jinoyatga ______ hisoblanadi.",
+       "options": [
+        "daxldorlik",
+        "yordamchilik",
+        "dalolatchilik",
+        "sheriklik"
+       ],
+       "answer": 0,
+       "src": "JK (JK 31-modda)",
+       "fill": true
+      },
+      {
+       "q": "Javobgarlikka tortilmaydigan shaxs (masalan, aqli noraso yoki yoshga yetmagan) orqali jinoyat sodir etish ______ bajaruvchilik deyiladi; bunda ishtirokchilik bo'lmaydi.",
+       "options": [
+        "bilvosita",
+        "birgalikdagi",
+        "murakkab",
+        "yashirin"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 298)",
+       "fill": true
       }
      ]
     },
@@ -17205,6 +18177,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom; JK (R1: 438; JK 41-1-modda)"
+      },
+      {
+       "q": "Qilmishda JKda nazarda tutilgan alomatlar rasmiy jihatdan mavjud bo'lsa-da, u ijtimoiy xavfli, g'ayriqonuniy yoki ______ bo'lmasa, qilmishning jinoiyligini istisno qiladigan holat deb topiladi.",
+       "options": [
+        "aybli",
+        "qasddan",
+        "zararli",
+        "jazoga sazovor"
+       ],
+       "answer": 0,
+       "src": "JK (JK 35-modda)",
+       "fill": true
+      },
+      {
+       "q": "Tajovuzning xususiyati va xavfliligi darajasiga ______ muvofiq kelmaydigan mudofaa zaruriy mudofaa chegarasidan chetga chiqish deb topiladi.",
+       "options": [
+        "butunlay",
+        "qisman",
+        "vaqt jihatidan",
+        "ozgina"
+       ],
+       "answer": 0,
+       "src": "JK (JK 37-modda)",
+       "fill": true
+      },
+      {
+       "q": "Boshqa shaxslarga yoki hokimiyat organlariga yordam so'rab murojaat qilish yoxud tajovuzdan o'zga yo'sinda qutulish imkoniyati bor-yo'qligidan ______, zaruriy mudofaa huquqi shaxsga tegishlidir.",
+       "options": [
+        "qat'i nazar",
+        "kelib chiqib",
+        "faqat bunday imkoniyat bo'lmaganda",
+        "sud qaroriga ko'ra"
+       ],
+       "answer": 0,
+       "src": "JK (JK 37-modda)",
+       "fill": true
+      },
+      {
+       "q": "Zarar yetkazish maqsadida qasddan hujum qilish istagini qo'zg'atish zaruriy mudofaa ______.",
+       "options": [
+        "deb topilmaydi",
+        "deb topiladi",
+        "chegarasidan chetga chiqish deb topiladi",
+        "oxirgi zarurat deb topiladi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 37-modda)",
+       "fill": true
+      },
+      {
+       "q": "Oxirgi zarurat holatida keltirilgan zarar oldi olingan zararga qaraganda ______ bo'lishi kerak.",
+       "options": [
+        "kamroq",
+        "teng yoki kamroq",
+        "ko'proq",
+        "teng"
+       ],
+       "answer": 0,
+       "src": "JK (JK 38-modda)",
+       "fill": true
+      },
+      {
+       "q": "Qonunga xilof tajovuzdan tajovuzchiga zarar yetkazib himoyalanish ______, tahdid soluvchi xavfni qaytarish uchun qo'riqlanadigan manfaatlarga, boshqa choralar bilan qaytarish iloji bo'lmaganda, zarar yetkazish esa ______ deyiladi.",
+       "options": [
+        "zaruriy mudofaa / oxirgi zarurat",
+        "oxirgi zarurat / zaruriy mudofaa",
+        "zaruriy mudofaa / asosli tavakkalchilik",
+        "xayoliy mudofaa / oxirgi zarurat"
+       ],
+       "answer": 0,
+       "src": "JK (JK 37–38-moddalar)",
+       "fill": true
+      },
+      {
+       "q": "Haqiqiy tajovuz bo'lmagan holda shaxs uni mavjud deb xato taxmin qilib, taxmin etilgan tajovuzchiga zarar yetkazishi ______ mudofaa deyiladi.",
+       "options": [
+        "xayoliy",
+        "zaruriy",
+        "kechikkan",
+        "oldindan"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 390)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavfli qilmish sodir etgan shaxsni ______ topshirish maqsadida ushlash vaqtida unga zarar yetkazish, agar zarur choralar chegarasidan chetga chiqilmagan bo'lsa, jinoyat deb topilmaydi.",
+       "options": [
+        "hokimiyat organlariga",
+        "jabrlanuvchiga",
+        "jamoatchilikka",
+        "qarindoshlariga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 39-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy foydali maqsadga erishish uchun kasb yoki xo'jalik faoliyatiga bog'liq ______ qilib, qo'riqlanadigan manfaatlarga zarar yetkazish jinoyat deb topilmaydi.",
+       "options": [
+        "asosli tavakkalchilik",
+        "oxirgi zarurat",
+        "buyruqni bajarish",
+        "zaruriy mudofaa"
+       ],
+       "answer": 0,
+       "src": "JK (JK 41-modda)",
+       "fill": true
+      },
+      {
+       "q": "Majburlash oqibatida shaxs o'z harakatlarini boshqarish imkoniyatini saqlab qolgan bo'lsa, javobgarlik masalasi ______ qoidalari inobatga olingan holda hal etiladi.",
+       "options": [
+        "oxirgi zarurat",
+        "zaruriy mudofaa",
+        "asosli tavakkalchilik",
+        "ixtiyoriy qaytish"
+       ],
+       "answer": 0,
+       "src": "JK (JK 41-1-modda)",
+       "fill": true
       }
      ]
     },
@@ -17895,6 +18987,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 1-tom (R1: 375)"
+      },
+      {
+       "q": "JK Maxsus qismining aynan bir moddasida nazarda tutilgan ikki yoki bir necha jinoyatni shaxs turli vaqtlarda sodir etgan, ammo birortasi uchun ham sudlanmagan bo'lsa, bu jinoyatni ______ sodir etish deyiladi.",
+       "options": [
+        "takroran",
+        "majmui bo'yicha",
+        "retsidiv tarzida",
+        "davomli tarzda"
+       ],
+       "answer": 0,
+       "src": "JK (JK 32-modda)",
+       "fill": true
+      },
+      {
+       "q": "JK Maxsus qismining turli moddalarida yoki bitta moddasining turli qismlarida nazarda tutilgan ikki yoki bir necha jinoyatni sodir etish, agar birortasi uchun ham sudlanmagan bo'lsa, jinoyatlar ______ deyiladi.",
+       "options": [
+        "majmui",
+        "takrorligi",
+        "retsidivi",
+        "raqobati"
+       ],
+       "answer": 0,
+       "src": "JK (JK 33-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shaxsning ilgari qasddan sodir etgan jinoyati uchun ______ keyin qasddan yangi jinoyat sodir etishi retsidiv jinoyat deb topiladi.",
+       "options": [
+        "sudlanganidan",
+        "ozod qilinganidan",
+        "jinoyat ishi qo'zg'atilganidan",
+        "ogohlantirilganidan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 34-modda)",
+       "fill": true
+      },
+      {
+       "q": "Agar birortasi uchun sudlanmagan bo'lsa, bir moddadagi jinoyatlar ______, turli moddalardagi jinoyatlar esa ______ hosil qiladi; sudlanganidan keyin yangi qasddan jinoyat esa retsidivdir.",
+       "options": [
+        "takroriylik / jinoyatlar majmui",
+        "jinoyatlar majmui / takroriylik",
+        "retsidiv / takroriylik",
+        "takroriylik / hukmlar majmui"
+       ],
+       "answer": 0,
+       "src": "JK (JK 32–34-moddalar)",
+       "fill": true
+      },
+      {
+       "q": "Umumiy qasd bilan qamrab olingan va yagona maqsadga yo'naltirilgan, bir-biriga o'xshash bir necha jinoiy qilmishlardan iborat jinoyat ______ jinoyat deyiladi.",
+       "options": [
+        "davomli",
+        "uzoqqa cho'zilgan",
+        "tarkibli",
+        "takroriy"
+       ],
+       "answer": 0,
+       "src": "JK (JK 32-modda)",
+       "fill": true
+      },
+      {
+       "q": "Vazifalarini uzoq vaqt mobaynida bajarmaslikdan iborat bo'lib, bir jinoyatning uzluksiz tarkibini tashkil qilgan jinoyat ______ jinoyat deyiladi.",
+       "options": [
+        "uzoqqa cho'zilgan",
+        "davomli",
+        "tarkibli",
+        "takroriy"
+       ],
+       "answer": 0,
+       "src": "JK (JK 32-modda)",
+       "fill": true
+      },
+      {
+       "q": "Turli vaqtlarda, turli mustaqil harakatlar bilan sodir etilgan ikki yoki undan ortiq jinoyat ______ majmuni, bir qilmish bilan bir vaqtda sodir etilgan ikki yoki undan ortiq jinoyat esa ______ majmuni tashkil etadi.",
+       "options": [
+        "real / ideal",
+        "ideal / real",
+        "real / formal",
+        "haqiqiy / xayoliy"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 361–362)",
+       "fill": true
+      },
+      {
+       "q": "Bitta qilmish JK Maxsus qismining ikki yoki undan ortiq moddasi belgilariga tushsa-yu, faqat bitta norma qo'llanishi lozim bo'lsa, bu normalar ______ deyiladi.",
+       "options": [
+        "raqobati",
+        "majmui",
+        "ierarxiyasi",
+        "takrorligi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 1-tom (R1: 364)",
+       "fill": true
+      },
+      {
+       "q": "Ilgari hukm qilingan jinoyatiga o'xshash jinoyat sodir etgan shaxsning qasddan yangi jinoyat sodir etishi ______ retsidiv jinoyat deb topiladi.",
+       "options": [
+        "xavfli",
+        "o'ta xavfli",
+        "oddiy",
+        "maxsus"
+       ],
+       "answer": 0,
+       "src": "JK (JK 34-modda)",
+       "fill": true
+      },
+      {
+       "q": "O'ta xavfli retsidiv jinoyat uchun yangi qasddan jinoyatga ______ kam bo'lmagan muddatga ozodlikdan mahrum qilish jazosi tayinlanishi mumkin bo'lishi kerak.",
+       "options": [
+        "besh yildan",
+        "uch yildan",
+        "o'n yildan",
+        "yetti yildan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 34-modda)",
+       "fill": true
       }
      ]
     },
@@ -18595,6 +19807,126 @@
        ],
        "answer": 0,
        "src": "JK (JK 51-modda)"
+      },
+      {
+       "q": "Jazo – jinoyat sodir etishda aybli deb topilgan shaxsga nisbatan davlat nomidan ______ bilan qo'llanadigan majburlov chorasidir.",
+       "options": [
+        "sud hukmi",
+        "prokuror qarori",
+        "tergovchi qarori",
+        "ichki ishlar organi qarori"
+       ],
+       "answer": 0,
+       "src": "JK (JK 42-modda)",
+       "fill": true
+      },
+      {
+       "q": "Davlat tomonidan jazoni qo'llash vositasida erishishga intilayotgan yakuniy natija jazoning ______ deyiladi.",
+       "options": [
+        "maqsadi",
+        "vazifasi",
+        "mazmuni",
+        "tizimi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 13)",
+       "fill": true
+      },
+      {
+       "q": "Nisbiy og'irligini inobatga olgan holda yengilidan og'iriga qarab qat'iy tartibda joylashtirilgan davlat majburlov choralarining to'la ro'yxati jazo ______ deyiladi.",
+       "options": [
+        "tizimi",
+        "turi",
+        "maqsadi",
+        "sanksiyasi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 22)",
+       "fill": true
+      },
+      {
+       "q": "Jarima bazaviy hisoblash miqdorining ______ miqdorda belgilanadi.",
+       "options": [
+        "besh baravaridan olti yuz baravarigacha",
+        "bir baravaridan yuz baravarigacha",
+        "o'n baravaridan bir ming baravarigacha",
+        "besh baravaridan uch yuz baravarigacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 44-modda)",
+       "fill": true
+      },
+      {
+       "q": "Majburiy jamoat ishlari ______ bo'lgan muddatga tayinlanadi.",
+       "options": [
+        "bir yuz yigirma soatdan to'rt yuz sakson soatgacha",
+        "oltmish soatdan ikki yuz qirq soatgacha",
+        "bir oydan olti oygacha",
+        "ikki yuz soatdan olti yuz soatgacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 45¹-modda)",
+       "fill": true
+      },
+      {
+       "q": "Axloq tuzatish ishlari shaxs ish haqining ______ miqdorini davlat daromadi hisobiga ushlab qolgan holda mehnatga majburan jalb qilishdan iborat.",
+       "options": [
+        "o'n foizidan o'ttiz foizigacha",
+        "besh foizidan yigirma foizigacha",
+        "yigirma foizidan ellik foizigacha",
+        "o'n foizidan yigirma foizigacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 46-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ozodlikni cheklash ______ muddatga tayinlanadi.",
+       "options": [
+        "bir oydan besh yilgacha",
+        "olti oydan uch yilgacha",
+        "bir yildan o'n yilgacha",
+        "uch oydan ikki yilgacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 48¹-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ozodlikdan mahrum qilish mahkumni jamiyatdan ajratib ______ joylashtirishdan iboratdir.",
+       "options": [
+        "jazoni ijro etish koloniyasi yoki turmaga",
+        "faqat turmaga",
+        "intizomiy qismga",
+        "tibbiy muassasaga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 50-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ozodlikdan mahrum qilish, JK 50-moddasining uchinchi qismidagi hollar bundan mustasno, ______ muddatga belgilanadi.",
+       "options": [
+        "bir oydan yigirma yilgacha",
+        "olti oydan o'n besh yilgacha",
+        "bir yildan yigirma besh yilgacha",
+        "uch oydan o'n yilgacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 50-modda)",
+       "fill": true
+      },
+      {
+       "q": "Umrbod ozodlikdan mahrum qilish ______ jazo chorasi bo'lib, mahkumni maxsus tartibli koloniyaga joylashtirish orqali jamiyatdan muddatsiz ajratib qo'yishdan iborat.",
+       "options": [
+        "favqulodda",
+        "qo'shimcha",
+        "muqobil",
+        "shartli"
+       ],
+       "answer": 0,
+       "src": "JK (JK 51-modda)",
+       "fill": true
       }
      ]
     },
@@ -19297,6 +20629,126 @@
        ],
        "answer": 0,
        "src": "JK (JK 62-modda)"
+      },
+      {
+       "q": "Sud tomonidan JK Maxsus qismi moddasining sanksiyasi doirasida aybdorga muayyan davlat majburlov chorasini belgilash jazoni ______ deyiladi.",
+       "options": [
+        "individuallashtirish",
+        "kvalifikatsiya qilish",
+        "differensiatsiya qilish",
+        "yengillashtirish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 81)",
+       "fill": true
+      },
+      {
+       "q": "Amalda sodir etilgan qilmishning JK Maxsus qismi moddasidagi jinoyat tarkibi belgilariga muvofiq kelishini aniqlash yuzasidan mantiqiy faoliyat ______ deyiladi.",
+       "options": [
+        "kvalifikatsiya",
+        "individuallashtirish",
+        "sharhlash",
+        "analogiya"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 81)",
+       "fill": true
+      },
+      {
+       "q": "Sud JKda nazarda tutilmagan boshqa holatlarni ham jazoni ______ holat deb topishi mumkin, lekin jazoni ______ holat deb topishi mumkin emas.",
+       "options": [
+        "yengillashtiruvchi / og'irlashtiruvchi",
+        "og'irlashtiruvchi / yengillashtiruvchi",
+        "og'irlashtiruvchi / istisno qiluvchi",
+        "istisno qiluvchi / yengillashtiruvchi"
+       ],
+       "answer": 0,
+       "src": "JK (JK 55–56-moddalar)",
+       "fill": true
+      },
+      {
+       "q": "Sud alohida hollarda jinoyat uchun belgilangan jazoning ______ kamroq yoki moddada nazarda tutilmagan boshqa yengilroq turdagi jazoni tayinlashi mumkin.",
+       "options": [
+        "eng kam qismidan ham",
+        "yarmidan",
+        "uchdan biridan",
+        "eng ko'p qismidan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 57-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyatlar majmuida tayinlangan yengilroq jazoni og'irrog'i bilan ______, jazolarni to'la yoki qisman qo'shish esa ______ prinsipi deyiladi.",
+       "options": [
+        "qoplash / qo'shish",
+        "qo'shish / qoplash",
+        "qoplash / almashtirish",
+        "yutish / bo'lish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 137)",
+       "fill": true
+      },
+      {
+       "q": "Mahkum jazoni to'la o'tamay turib yangi jinoyat sodir etganda yangi jazoga ilgarigi hukmning o'talmagan qismi qo'shiladi; bu ______ majmui bo'yicha jazo tayinlashdir.",
+       "options": [
+        "hukmlar",
+        "jinoyatlar",
+        "jazolar",
+        "retsidivlar"
+       ],
+       "answer": 0,
+       "src": "JK (JK 60-modda)",
+       "fill": true
+      },
+      {
+       "q": "Har xil turdagi asosiy jazolarni qo'shganda ozodlikdan mahrum qilishning bir kuni axloq tuzatish ishlarining ______ to'g'ri keladi.",
+       "options": [
+        "uch kuniga",
+        "bir kuniga",
+        "ikki kuniga",
+        "to'rt soatiga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 61-modda)",
+       "fill": true
+      },
+      {
+       "q": "Har xil turdagi asosiy jazolarni qo'shganda ozodlikdan mahrum qilishning bir kuni majburiy jamoat ishlarining ______ to'g'ri keladi.",
+       "options": [
+        "to'rt soatiga",
+        "sakkiz soatiga",
+        "ikki soatiga",
+        "uch kuniga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 61-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shaxsning o'z aybini to'liq va ochiq tan olishi, jinoyat va zarardan sidqidildan afsuslanishi, jazoni adolatli oqibat sifatida qabul qilishi ______ deyiladi.",
+       "options": [
+        "chin ko'ngildan pushaymon bo'lish",
+        "aybga iqrorlik to'g'risida kelishuv",
+        "ixtiyoriy qaytish",
+        "jinoyatdan ixtiyoriy qaytish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 92)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavflilik ______ – tajovuzning qo'riqlanadigan ijtimoiy munosabatlarga qay darajada salbiy ta'sir qilishini ko'rsatuvchi miqdoriy tavsif.",
+       "options": [
+        "darajasi",
+        "xususiyati",
+        "mazmuni",
+        "shakli"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 84)",
+       "fill": true
       }
      ]
     },
@@ -20003,6 +21455,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 2-tom (R2: 193)"
+      },
+      {
+       "q": "Ijtimoiy xavfi katta bo'lmagan jinoyat sodir etilgan kundan boshlab ______ o'tgan bo'lsa, shaxs javobgarlikka tortish muddati o'tganligi sababli javobgarlikdan ozod qilinadi.",
+       "options": [
+        "ikki yil",
+        "bir yil",
+        "uch yil",
+        "to'rt yil"
+       ],
+       "answer": 0,
+       "src": "JK (JK 64-modda)",
+       "fill": true
+      },
+      {
+       "q": "Og'ir jinoyat uchun javobgarlikka tortish muddati ______, o'ta og'ir jinoyat uchun esa ______.",
+       "options": [
+        "sakkiz yil / o'n to'rt yil",
+        "o'n yil / o'n besh yil",
+        "besh yil / o'n yil",
+        "sakkiz yil / yigirma yil"
+       ],
+       "answer": 0,
+       "src": "JK (JK 64-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jinoiy javobgarlikdan ozod qilishda ayblov hukmi chiqarilmaydi va ______ vujudga kelmaydi.",
+       "options": [
+        "sudlanganlik",
+        "jinoiy-huquqiy munosabat",
+        "jinoyat tarkibi",
+        "fuqaroviy javobgarlik"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 161–162)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavfi katta bo'lmagan yoki uncha og'ir bo'lmagan jinoyatni ______ sodir etgan shaxs aybini bo'yniga olgan, pushaymon bo'lgan, jinoyat ochilishiga faol yordam bergan va zararni bartaraf qilgan bo'lsa, javobgarlikdan ozod qilinishi mumkin.",
+       "options": [
+        "birinchi marta",
+        "takroran",
+        "ehtiyotsizlik orqasida",
+        "voyaga yetmasdan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 66-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jabrlanuvchining oddiy kechirishi emas, balki uning o'z dastlabki talab va da'volaridan rasmiy ravishda voz kechishi ______ deyiladi.",
+       "options": [
+        "yarashuv",
+        "amalda pushaymonlik",
+        "amnistiya",
+        "afv etish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 186)",
+       "fill": true
+      },
+      {
+       "q": "Muayyan toifadagi jinoyatlarni sodir etgan muayyan toifadagi shaxslarni kechirish to'g'risidagi, sud tartibida qo'llaniladigan normativ-huquqiy hujjat ______ deyiladi.",
+       "options": [
+        "amnistiya",
+        "afv etish",
+        "reabilitatsiya",
+        "yarashuv"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 190)",
+       "fill": true
+      },
+      {
+       "q": "Jinoyatni sodir etgan, lekin hozircha gumondor yoki aybdor deb topilmagan shaxsning jinoyat to'g'risida xabar berishi ______ deyiladi.",
+       "options": [
+        "aybini bo'yniga olish to'g'risida arz qilish",
+        "chin ko'ngildan pushaymon bo'lish",
+        "jinoyatga daxldorlik",
+        "ixtiyoriy qaytish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 181)",
+       "fill": true
+      },
+      {
+       "q": "Ishni tergov qilish yoki sudda ko'rish vaqtida qilmish yoki shaxs ijtimoiy xavfliligini yo'qotgan bo'lsa, shaxs ______ munosabati bilan javobgarlikdan ozod qilinishi mumkin.",
+       "options": [
+        "sharoitning o'zgarishi",
+        "muddatning o'tishi",
+        "amnistiya",
+        "kasallik"
+       ],
+       "answer": 0,
+       "src": "JK (JK 65-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shaxsning javobgarlikdan qutulish maqsadida qasddan sodir qilgan, tergov va sudni uni qidirish zaruriyati oldida qo'yadigan harakatlari tergov va suddan ______ deyiladi.",
+       "options": [
+        "bo'yin tovlash",
+        "voz kechish",
+        "qarshilik ko'rsatish",
+        "daxldorlik"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 171)",
+       "fill": true
+      },
+      {
+       "q": "Jinoiy javobgarlikdan ozod qilishda shaxs ______, jazodan ozod qilishda esa sud tomonidan ______.",
+       "options": [
+        "aybdor deb topilmaydi / aybdor deb topiladi",
+        "aybdor deb topiladi / aybdor deb topilmaydi",
+        "oqlanadi / reabilitatsiya qilinadi",
+        "sudlangan hisoblanadi / sudlanmagan hisoblanadi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 161–162, 198)",
+       "fill": true
       }
      ]
     },
@@ -20734,6 +22306,126 @@
        ],
        "answer": 0,
        "src": "JK (JK 76-modda)"
+      },
+      {
+       "q": "Davlatning jinoyat sodir etganligi uchun sudlangan shaxsga qonundagi asoslar va shartlar mavjud bo'lganda jazoni tayinlashdan yoki ijro etishdan voz kechishi jazodan ______ deyiladi.",
+       "options": [
+        "ozod qilish",
+        "kechish",
+        "almashtirish",
+        "kechiktirish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 198)",
+       "fill": true
+      },
+      {
+       "q": "Uch yildan ortiq bo'lmagan muddatga ozodlikdan mahrum qilinganda hukm qonuniy kuchga kirgan kundan boshlab ______ ichida ijro etilmagan bo'lsa, mahkum jazodan ozod qilinadi.",
+       "options": [
+        "uch yil",
+        "ikki yil",
+        "besh yil",
+        "bir yil"
+       ],
+       "answer": 0,
+       "src": "JK (JK 69-modda)",
+       "fill": true
+      },
+      {
+       "q": "Mahkum jazoni o'tashdan bo'yin tovlasa, jazoni ijro etish muddati ______ ko'payadi, lekin yigirma besh yildan oshmasligi kerak.",
+       "options": [
+        "ikki baravar",
+        "uch baravar",
+        "bir yarim baravar",
+        "o'n yilga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 69-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shartli hukm qilinganda sinov muddati ______ belgilanib, hukm chiqarilgan kundan boshlab hisoblanadi.",
+       "options": [
+        "bir yildan uch yilgacha",
+        "olti oydan ikki yilgacha",
+        "bir yildan besh yilgacha",
+        "uch yildan besh yilgacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 72-modda)",
+       "fill": true
+      },
+      {
+       "q": "Shartli hukm qilingan shaxslarning xulqi ustidan ______, harbiy xizmatchilar xulqi ustidan esa harbiy qism qo'mondonligi nazorat olib boradi.",
+       "options": [
+        "ichki ishlar organlari",
+        "prokuratura organlari",
+        "mahalla fuqarolar yig'ini",
+        "sud ijrochilari"
+       ],
+       "answer": 0,
+       "src": "JK (JK 72-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavfi katta bo'lmagan yoki uncha og'ir bo'lmagan jinoyati uchun mahkum jazo muddatining kamida ______ o'tagach, muddatidan ilgari shartli ozod qilinishi mumkin.",
+       "options": [
+        "uchdan bir qismini",
+        "yarmini",
+        "uchdan ikki qismini",
+        "to'rtdan uch qismini"
+       ],
+       "answer": 0,
+       "src": "JK (JK 73-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jazoni o'tash davrida individuallashtirish prinsipini amalga oshirishning mustaqil shakli bo'lib, tayinlangan jazo turini yengilrog'i bilan almashtirish jazoni ______ deyiladi.",
+       "options": [
+        "yengilrog'i bilan almashtirish",
+        "shartli ozod qilish",
+        "muddatini qisqartirish",
+        "afv etish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 235)",
+       "fill": true
+      },
+      {
+       "q": "Prezidentning aniq-individual hujjati bo'lib, uning asosida muayyan shaxs jazodan ozod qilinishi yoki jazosi yengillashtirilishi mumkin – bu ______.",
+       "options": [
+        "afv etish",
+        "amnistiya",
+        "shartli hukm qilish",
+        "reabilitatsiya"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 247)",
+       "fill": true
+      },
+      {
+       "q": "Muayyan toifadagi shaxslarga qo'llaniladigan, sud tartibida amalga oshiriladigan kechirish ______, muayyan shaxsga nisbatan Prezident hujjati bilan kechirish esa ______ deyiladi.",
+       "options": [
+        "amnistiya / afv etish",
+        "afv etish / amnistiya",
+        "amnistiya / reabilitatsiya",
+        "yarashuv / afv etish"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 190, 247)",
+       "fill": true
+      },
+      {
+       "q": "JK 66-moddasi bo'yicha shaxs javobgarlikdan ozod qilinadi va ayblov hukmi chiqmaydi; JK ______-moddasi bo'yicha esa sud shaxsni aybdor deb topib, jazodan ozod qiladi.",
+       "options": [
+        "71",
+        "64",
+        "68",
+        "87"
+       ],
+       "answer": 0,
+       "src": "JK (JK 66, 71-moddalar)",
+       "fill": true
       }
      ]
     },
@@ -21490,6 +23182,126 @@
        ],
        "answer": 0,
        "src": "Rustamboyev, 2-tom; JK (R2: 315, 320; JK 93-modda)"
+      },
+      {
+       "q": "Shaxsning sodir etgan jinoyati uchun hukm etilganligidan kelib chiqadigan huquqiy holat ______ deyiladi.",
+       "options": [
+        "sudlanganlik",
+        "jinoiy javobgarlik",
+        "retsidiv",
+        "mahkumlik muddati"
+       ],
+       "answer": 0,
+       "src": "JK (JK 77-modda)",
+       "fill": true
+      },
+      {
+       "q": "Jazo tayinlangan ayblov hukmi ______ kundan boshlab shaxs sudlangan deb hisoblanadi.",
+       "options": [
+        "qonuniy kuchga kirgan",
+        "e'lon qilingan",
+        "chiqarilgan",
+        "ijro etila boshlagan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 77-modda)",
+       "fill": true
+      },
+      {
+       "q": "Muayyan muddatlar o'tishi bilan sudning maxsus qarorisiz sudlanganlikning tugashi sudlanganlik holatining ______, muddat o'tmasdan sud ajrimi yoki afv, amnistiya asosida bekor qilinishi esa sudlanganlikning ______ deyiladi.",
+       "options": [
+        "tugallanishi / olib tashlanishi",
+        "olib tashlanishi / tugallanishi",
+        "to'xtatilishi / bekor qilinishi",
+        "tugallanishi / to'xtatilishi"
+       ],
+       "answer": 0,
+       "src": "Rustamboyev, 2-tom (R2: 256–257)",
+       "fill": true
+      },
+      {
+       "q": "Shartli hukm qilinganlarda sudlanganlik holati ______ tugallanadi.",
+       "options": [
+        "sinov muddati tugagan kundan boshlab",
+        "hukm chiqarilgandan bir yil o'tgach",
+        "jazo o'talgandan uch yil o'tgach",
+        "sinov muddati boshlangan kundan"
+       ],
+       "answer": 0,
+       "src": "JK (JK 78-modda)",
+       "fill": true
+      },
+      {
+       "q": "Voyaga yetmaganlarga nisbatan ozodlikdan mahrum qilish jazosi, JK 86-moddasidagi istisnolardan tashqari, ______ muddatga tayinlanadi.",
+       "options": [
+        "bir oydan o'n yilgacha",
+        "olti oydan besh yilgacha",
+        "bir yildan o'n besh yilgacha",
+        "bir oydan yigirma yilgacha"
+       ],
+       "answer": 0,
+       "src": "JK (JK 85-modda)",
+       "fill": true
+      },
+      {
+       "q": "Ijtimoiy xavfi katta bo'lmagan jinoyatni birinchi marta sodir etgan voyaga yetmagan javobgarlikdan ozod qilinib, ish ______ ko'rishga topshirilishi mumkin.",
+       "options": [
+        "bolalar masalalari bo'yicha komissiyada",
+        "mahalla fuqarolar yig'inida",
+        "ota-ona majlisida",
+        "vasiylik organida"
+       ],
+       "answer": 0,
+       "src": "JK (JK 87-modda)",
+       "fill": true
+      },
+      {
+       "q": "Voyaga yetmaganlarga nisbatan majburlov choralari: jabrlanuvchidan uzr so'rash majburiyati, zararni to'lash majburiyati va ______ joylashtirish.",
+       "options": [
+        "maxsus o'quv-tarbiya muassasasiga",
+        "tarbiya koloniyasiga",
+        "intizomiy qismga",
+        "ruhiy kasalliklar shifoxonasiga"
+       ],
+       "answer": 0,
+       "src": "JK (JK 88-modda)",
+       "fill": true
+      },
+      {
+       "q": "Hukm chiqarish paytida o'n sakkiz yoshga to'lmagan shaxslar ozodlikdan mahrum qilish jazosini ______ o'taydilar.",
+       "options": [
+        "tarbiya koloniyasida",
+        "umumiy tartibli koloniyada",
+        "maxsus o'quv-tarbiya muassasasida",
+        "turmada"
+       ],
+       "answer": 0,
+       "src": "JK (JK 85-modda)",
+       "fill": true
+      },
+      {
+       "q": "Tibbiy yo'sindagi majburlov choralari ruhiy holati buzilgan shaxslarni ______ va yangi ijtimoiy xavfli qilmishlar sodir etishining oldini olish maqsadida tayinlanadi.",
+       "options": [
+        "davolash",
+        "jazolash",
+        "jamiyatdan ajratish",
+        "axloqan tuzatish"
+       ],
+       "answer": 0,
+       "src": "JK (JK 91-modda)",
+       "fill": true
+      },
+      {
+       "q": "Tibbiy yo'sindagi majburlov choralarini uzaytirish, o'zgartirish va tugatish masalasini sud ______ xulosasi asosida hal qiladi.",
+       "options": [
+        "shifokor psixiatrlar komissiyasi",
+        "sud-tibbiy ekspertiza",
+        "bosh shifokor",
+        "prokuror"
+       ],
+       "answer": 0,
+       "src": "JK (JK 95-modda)",
+       "fill": true
       }
      ]
     }
