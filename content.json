@@ -701,6 +701,138 @@
      ],
      "answer": 0,
      "src": "O'zbekiston Respublikasi Konstitutsiyasi (lex.uz) ()"
+    },
+    {
+     "q": "______ – bu davlat-huquqiy hodisalarning vujudga kelishi, rivojlanishi va amal qilishini o'rganuvchi umumnazariy yuridik qonuniyatlar haqidagi bilimlar tizimidir.",
+     "options": [
+      "Davlat va huquq nazariyasi",
+      "Konstitutsiyaviy huquq",
+      "Siyosiy va huquqiy ta'limotlar tarixi",
+      "Qiyosiy huquqshunoslik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (7)",
+     "fill": true
+    },
+    {
+     "q": "Fanning ______ u nimani o'rganadi degan savolga javob bersa, ______ esa qanday o'rganilishi haqidagi savolga javob beradi.",
+     "options": [
+      "predmeti / metodlari",
+      "metodlari / predmeti",
+      "funksiyalari / vazifalari",
+      "predmeti / vazifalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (12)",
+     "fill": true
+    },
+    {
+     "q": "Davlat va huquq nazariyasi yagona fan bo'lib, nisbatan mustaqil bo'lgan ikki qismga – ______ ajratiladi.",
+     "options": [
+      "davlat nazariyasi va huquq nazariyasiga",
+      "umumiy va maxsus qismga",
+      "tarixiy va amaliy qismga",
+      "moddiy va protsessual qismga"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (8)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayev tasnifiga ko'ra, ______ eng umumiy metodlar guruhiga kiradi.",
+     "options": [
+      "metafizik va dialektik metodlar",
+      "analiz va sintez metodlari",
+      "formal-yuridik va qiyosiy-huquqiy metodlar",
+      "sotsiologik va statistik metodlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (12)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayev tasnifiga ko'ra, formal-yuridik, qiyosiy-huquqiy va huquqiy modellashtirish metodlari ______ metodlar guruhiga kiradi.",
+     "options": [
+      "xususiy-huquqiy",
+      "eng umumiy",
+      "umumilmiy",
+      "falsafiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (12)",
+     "fill": true
+    },
+    {
+     "q": "______ usuli – davlat va huquqqa doir biror norma qo'llanishining maqsadga muvofiqligini tajriba yo'li bilan muayyan hududlarda sinab ko'rish.",
+     "options": [
+      "Sotsial-eksperiment",
+      "Formal-mantiqiy",
+      "Qiyosiy-huquqiy",
+      "Tizimli"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (13)",
+     "fill": true
+    },
+    {
+     "q": "______ usul huquq normalarini va huquqning ichki tuzilishini o'rganadi, huquqning shakllari va manbalarini tahlil qiladi.",
+     "options": [
+      "Formal-yuridik",
+      "Formal-mantiqiy",
+      "Sotsial-eksperiment",
+      "Tarixiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (13)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu haqiqatni, yangiliklarni izlab topish san'ati.",
+     "options": [
+      "Evristika",
+      "Ontologiya",
+      "Gnoseologiya",
+      "Metodologiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (14)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu ijtimoiy hayot haqidagi qarashlar bo'lib, bunda uning prinsiplari, tuzilishi va qonuniyatlari o'rganiladi.",
+     "options": [
+      "Ontologiya",
+      "Evristika",
+      "Gnoseologiya",
+      "Prognostika"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (13)",
+     "fill": true
+    },
+    {
+     "q": "Kriminalistika, sud buxgalteriyasi, sud meditsinasi va sud psixiatriyasi ______ yuridik fanlar qatoriga kiradi.",
+     "options": [
+      "amaliy",
+      "nazariy-tarixiy",
+      "tarmoq",
+      "xalqaro huquqiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (11)",
+     "fill": true
+    },
+    {
+     "q": "Yurisprudensiya uchun fundamental fan hisoblanadigan davlat va huquq nazariyasi sohaviy yuridik fanlarga nisbatan ______ funksiyani bajaradi.",
+     "options": [
+      "metodologik",
+      "mafkuraviy",
+      "prognostik",
+      "siyosiy-boshqaruv"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (14)",
+     "fill": true
     }
    ]
   },
@@ -1438,6 +1570,150 @@
      ],
      "answer": 0,
      "src": "Saydullayev; Konstitutsiya, 20-modda (S: 32)"
+    },
+    {
+     "q": "Jamiyatning birinchi tabiiy bo'g'inini tashkil etuvchi institut – bu ______.",
+     "options": [
+      "oila",
+      "urug'",
+      "qabila",
+      "davlat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (20)",
+     "fill": true
+    },
+    {
+     "q": "Siyosiy institutlarning eng dastlabkisi ______ hisoblanadi.",
+     "options": [
+      "davlat",
+      "siyosiy partiya",
+      "parlament",
+      "sud"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (20)",
+     "fill": true
+    },
+    {
+     "q": "Ibtidoiy jamiyatda kishilarning asosiy manfaati – yashash uchun kurashni ifoda etgan normalar adabiyotlarda ______ deb ataladi.",
+     "options": [
+      "mononormalar",
+      "polinormalar",
+      "korporativ normalar",
+      "odat huquqi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (23)",
+     "fill": true
+    },
+    {
+     "q": "Teologik nazariya ustun bo'lgan davrda G'arbiy Yevropada «______» nazariyasi keng ommalashgan: unga ko'ra cherkov bir qilichni o'zida saqlab, ikkinchisidan foydalanish huquqini hukmdorlarga bergan.",
+     "options": [
+      "ikki qilich",
+      "ikki toj",
+      "ikki shahar",
+      "ilohiy qalqon"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (28)",
+     "fill": true
+    },
+    {
+     "q": "Davlat va huquqning kelib chiqishini xudoning irodasi bilan bog'lovchi, Avreliy Avgustin, Foma Akvinskiy kabi mutafakkirlar ilgari surgan nazariya – ______.",
+     "options": [
+      "teologik nazariya",
+      "patriarxal nazariya",
+      "psixologik nazariya",
+      "ijtimoiy shartnoma nazariyasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (28)",
+     "fill": true
+    },
+    {
+     "q": "Asoschilari Aristotel, Aflotun va Konfutsiy hisoblangan, davlat oilaning rivojlanishi asosida vujudga kelgan deb tushuntiruvchi nazariya – ______.",
+     "options": [
+      "patriarxal nazariya",
+      "teologik nazariya",
+      "ijtimoiy shartnoma nazariyasi",
+      "materialistik nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (28–29)",
+     "fill": true
+    },
+    {
+     "q": "Davlat hokimiyatini kishilarning o'zaro birlashib ixtiyoriy shartlashganliklarining ifodasi deb hisoblovchi nazariya – ______ (J.Lokk, T.Gobbs, J.Russo).",
+     "options": [
+      "ijtimoiy shartnoma nazariyasi",
+      "patriarxal nazariya",
+      "zo'ravonlik nazariyasi",
+      "irrigatsion nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (29)",
+     "fill": true
+    },
+    {
+     "q": "Davlat iqtisodiy munosabatlarning rivojlanishi, bir-biriga qarama-qarshi sinflarning yuzaga kelishi natijasida vujudga kelgan, deb hisoblovchi nazariya – ______.",
+     "options": [
+      "materialistik nazariya",
+      "zo'ravonlik nazariyasi",
+      "psixologik nazariya",
+      "patriarxal nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (30)",
+     "fill": true
+    },
+    {
+     "q": "Davlat kelib chiqishining bosh sababini bosqinchilik va bir qabilani ikkinchi qabila tomonidan zulmga duchor etish deb biluvchi nazariya – ______ (E.Dyuring, L.Gumplovich, K.Kautskiy).",
+     "options": [
+      "zo'ravonlik nazariyasi",
+      "materialistik nazariya",
+      "irrigatsion nazariya",
+      "psixologik nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (30)",
+     "fill": true
+    },
+    {
+     "q": "Kishilarning ruhiyatini jamiyat, axloq, huquq va davlat rivojlanishini belgilab beruvchi asosiy omil deb biluvchi nazariya – ______ (G.Tard, L.Petrajitskiy).",
+     "options": [
+      "psixologik nazariya",
+      "teologik nazariya",
+      "patriarxal nazariya",
+      "materialistik nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (30)",
+     "fill": true
+    },
+    {
+     "q": "Davlat Sharq xalqlarida yirik irrigatsion inshootlarni barpo etish zarurati asosida kelib chiqqan, deb hisoblovchi nazariya – ______ (K.Vittfogel).",
+     "options": [
+      "irrigatsion nazariya",
+      "zo'ravonlik nazariyasi",
+      "patriarxal nazariya",
+      "teologik nazariya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (31)",
+     "fill": true
+    },
+    {
+     "q": "O'zbekiston Respublikasining amaldagi (2023-yilgi) Konstitutsiyasi ______ bo'limdan iborat.",
+     "options": [
+      "olti",
+      "besh",
+      "yetti",
+      "to'rt"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya (31)",
+     "fill": true
     }
    ]
   },
@@ -2159,6 +2435,150 @@
      ],
      "answer": 0,
      "src": "Saydullayev (44)"
+    },
+    {
+     "q": "Hozirgi zamon yuridik fanida ______ deganda muayyan davlatning suvereniteti tatbiq etiladigan doira nazarda tutiladi.",
+     "options": [
+      "davlat hududi",
+      "davlat apparati",
+      "davlat mexanizmi",
+      "davlat shakli"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (36–37)",
+     "fill": true
+    },
+    {
+     "q": "Davlatning asosiy belgilaridan biri – aholining ______ asosga ko'ra birlashganligi.",
+     "options": [
+      "hududiy",
+      "qon-qarindoshlik",
+      "diniy",
+      "kasbiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (36)",
+     "fill": true
+    },
+    {
+     "q": "Davlatga ______ nuqtai nazardan berilgan ta'rifga ko'ra, u iqtisodiy va siyosiy jihatdan hukmron bo'lgan sinfning manfaatlariga xizmat qiluvchi siyosiy tashkilotdir.",
+     "options": [
+      "sinfiy",
+      "sotsiologik",
+      "yuridik",
+      "elitar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (35)",
+     "fill": true
+    },
+    {
+     "q": "______ o'z hokimiyatini mamlakatning butun hududi va aholisiga tarqatadigan, maxsus boshqaruv apparatiga ega bo'lgan, hamma uchun majburiy qonun-qoidalar o'rnatadigan va suverenitetga ega bo'lgan jamiyatning yagona siyosiy tashkiloti hisoblanadi.",
+     "options": [
+      "Davlat",
+      "Siyosiy partiya",
+      "Fuqarolik jamiyati",
+      "Siyosiy tizim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (44)",
+     "fill": true
+    },
+    {
+     "q": "______ nazariyasining bosh g'oyasiga ko'ra, go'yo xalq ommasi davlatni idora etishga qodir emas, shuning uchun boshqarish jamiyatning hukmron doirasi tomonidan amalga oshirilishi lozim.",
+     "options": [
+      "Elita",
+      "Plyuralistik demokratiya",
+      "Umumfarovonlik davlati",
+      "Ijtimoiy shartnoma"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (38)",
+     "fill": true
+    },
+    {
+     "q": "______ nazariyasiga ko'ra, jamiyat yoshi, kasb-kori, istiqomat joyi va boshqa belgilariga ko'ra yuzaga keladigan ijtimoiy birlashmalar (stratalar) yig'indisidan iborat.",
+     "options": [
+      "Plyuralistik demokratiya",
+      "Elita",
+      "Teologik",
+      "Patriarxal"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (39)",
+     "fill": true
+    },
+    {
+     "q": "______ deganda umumiy ma'noda muayyan subyektning boshqa subyekt irodasini va yurish-turishini bo'ysundirishi tushuniladi.",
+     "options": [
+      "Hokimiyat",
+      "Davlat suvereniteti",
+      "Siyosiy rejim",
+      "Huquqiy ong"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (40)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu davlat kuchiga tayanadigan, subyektlar o'rtasida hukmronlik va tobelikka asoslanadigan ommaviy-siyosiy munosabatlar tizimidir.",
+     "options": [
+      "Davlat hokimiyati",
+      "Siyosiy tizim",
+      "Davlat mexanizmi",
+      "Fuqarolik jamiyati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (41)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu muayyan davlatlarga xos bo'lgan bir xil, muhim va umumiy belgilar yig'indisidir.",
+     "options": [
+      "Davlatning tipi",
+      "Davlatning shakli",
+      "Davlatning funksiyasi",
+      "Davlatning mohiyati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (42)",
+     "fill": true
+    },
+    {
+     "q": "Davlatlarni ijtimoiy-iqtisodiy rivojlanish darajasi, bazis va ustqurmasi mezoniga ko'ra tiplarga ajratish ______ yondashuv deyiladi.",
+     "options": [
+      "formatsiyaviy",
+      "sivilizatsiyaviy",
+      "elitar",
+      "texnokratik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (42)",
+     "fill": true
+    },
+    {
+     "q": "Formatsiyaviy mezonlar bilan bir qatorda ko'proq xalqlarning ma'naviy, axloqiy, diniy va madaniy rivojlanish darajasiga qarab davlatlarni tiplarga ajratish ______ yondashuv deyiladi.",
+     "options": [
+      "sivilizatsiyaviy",
+      "formatsiyaviy",
+      "sinfiy",
+      "elitar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (44)",
+     "fill": true
+    },
+    {
+     "q": "Ingliz tarixchisi ______ sivilizatsion yondashuvning yorqin namoyandasi hisoblanadi.",
+     "options": [
+      "A.Toynbi",
+      "K.Marks",
+      "F.Engels",
+      "V.Pareto"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (44)",
+     "fill": true
     }
    ]
   },
@@ -2902,6 +3322,162 @@
      ],
      "answer": 0,
      "src": "Saydullayev (56)"
+    },
+    {
+     "q": "______ – bu davlatning maqsad va vazifalarini amalga oshirishga qaratilgan davlat faoliyatining asosiy (bosh) yo'nalishlaridir.",
+     "options": [
+      "Davlat funksiyalari",
+      "Davlat organlari",
+      "Davlat shakli",
+      "Davlat mexanizmi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (47)",
+     "fill": true
+    },
+    {
+     "q": "Maqsad – davlat erishmoqchi bo'lgan holat, vazifa – unga erishish uchun hal etilishi lozim bo'lgan masalalar bo'lsa, ______ – vazifalar yechimiga yo'naltirilgan faoliyat yo'nalishidir.",
+     "options": [
+      "funksiya",
+      "metod",
+      "vakolat",
+      "kompetensiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (48)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayev keltirgan misolga ko'ra, fuqarolik jamiyatini shakllantirish va huquqiy demokratik davlat barpo etish davlatning ______ hisoblanadi.",
+     "options": [
+      "maqsadi",
+      "funksiyasi",
+      "metodi",
+      "vazifasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (48)",
+     "fill": true
+    },
+    {
+     "q": "______ funksiya – davlat tomonidan iqtisodiyotni rivojlantirish borasida asosiy yo'nalishlarni ishlab chiqish, bu sohada boshqaruvni amalga oshirish va tartibga solib turish.",
+     "options": [
+      "Iqtisodiy",
+      "Ijtimoiy",
+      "Siyosiy",
+      "Ekologik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (50)",
+     "fill": true
+    },
+    {
+     "q": "Aholini ijtimoiy himoya qilish, ijtimoiy tengsizlikni kamaytirish, ta'lim, sog'liqni saqlash va madaniyatni rivojlantirish davlatning ______ funksiyasi mazmunini tashkil etadi.",
+     "options": [
+      "ijtimoiy",
+      "siyosiy",
+      "iqtisodiy",
+      "mudofaa"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (50)",
+     "fill": true
+    },
+    {
+     "q": "Davlat organlarini shakllantirish hamda ularning faoliyatini tashkil etish davlatning ______ funksiyasiga kiradi.",
+     "options": [
+      "siyosiy",
+      "ijtimoiy",
+      "ekologik",
+      "iqtisodiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (50)",
+     "fill": true
+    },
+    {
+     "q": "Turli millatlar va ijtimoiy guruhlarni murosai madorada saqlab turish, ular orasidagi nizolarning oldini olish davlatning ______ funksiyasidir.",
+     "options": [
+      "tinchlikni ta'minlash",
+      "mudofaa",
+      "ekologik",
+      "iqtisodiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (50)",
+     "fill": true
+    },
+    {
+     "q": "Atrof tabiiy muhitni muhofaza qilish, tabiiy resurslardan oqilona foydalanish, ularni tiklash va ko'paytirish davlatning ______ funksiyasidir.",
+     "options": [
+      "ekologik",
+      "iqtisodiy",
+      "ijtimoiy",
+      "siyosiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (51)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayevga ko'ra, ______ hozirgi zamon davlatlarining siyosiy manfaatlarini muvofiqlashtiruvchi asosiy xalqaro organ hisoblanadi.",
+     "options": [
+      "BMT",
+      "NATO",
+      "MDH",
+      "YEXHT"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (52)",
+     "fill": true
+    },
+    {
+     "q": "Hozirgi zamon davlatlarining aksariyati qabul qilgan ______ doktrinasining mohiyati agressiyani bartaraf etish uchun maqbul darajada yetarli kuch va vositalarni yaratishdan iborat.",
+     "options": [
+      "mudofaa",
+      "hujum",
+      "yadroviy to'xtatish",
+      "ekspansiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (53)",
+     "fill": true
+    },
+    {
+     "q": "______ – kishilarni tanlov huquqini cheklagan holda kuch ishlatish orqali muayyan faoliyat yuritishga undashni nazarda tutadi.",
+     "options": [
+      "Majburlash",
+      "Rag'batlantirish",
+      "Tavsiya qilish",
+      "Ishontirish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)",
+     "fill": true
+    },
+    {
+     "q": "______ – kishilarni rag'batlantirish tizimi orqali jamiyat va davlat manfaatdor bo'lgan ijtimoiy foydali faoliyat yuritishga undashdir.",
+     "options": [
+      "Rag'batlantirish",
+      "Majburlash",
+      "Tavsiya qilish",
+      "Taqiqlash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)",
+     "fill": true
+    },
+    {
+     "q": "______ – kishilarni jamiyat va davlat nuqtai nazaridan istalgan va ijobiy xatti-harakatni amalga oshirishga yo'naltirishdir.",
+     "options": [
+      "Tavsiya qilish",
+      "Majburlash",
+      "Taqiqlash",
+      "Jazolash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (55)",
+     "fill": true
     }
    ]
   },
@@ -3604,6 +4180,174 @@
      ],
      "answer": 0,
      "src": "Saydullayev; Konstitutsiya, 85-modda (66)"
+    },
+    {
+     "q": "______ – boshqaruv shakli, davlat tuzilishi shakli va siyosiy rejimni qamrab oluvchi siyosiy hokimiyatni tashkil etish usullari yig'indisidir.",
+     "options": [
+      "Davlat shakli",
+      "Davlat mexanizmi",
+      "Davlat apparati",
+      "Siyosiy tizim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (59)",
+     "fill": true
+    },
+    {
+     "q": "______ – davlat hokimiyatining oliy organlarini tashkil etish hamda bu organlarning o'zaro va aholi bilan munosabatlarini belgilovchi davlat shaklining tarkibiy qismi.",
+     "options": [
+      "Davlat boshqaruv shakli",
+      "Davlat tuzilishi shakli",
+      "Siyosiy rejim",
+      "Davlat mexanizmi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (60)",
+     "fill": true
+    },
+    {
+     "q": "______ – boshqaruv shakli bo'lib, bunda, qoida tariqasida, oliy davlat hokimiyati yakka shaxs tomonidan amalga oshiriladi.",
+     "options": [
+      "Monarxiya",
+      "Respublika",
+      "Federatsiya",
+      "Konfederatsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (60)",
+     "fill": true
+    },
+    {
+     "q": "______ monarxiyada davlat suverenitetining birdan-bir egasi monarx bo'lib, uning hokimiyati aholi yoki birorta organ tomonidan cheklanmagan bo'ladi.",
+     "options": [
+      "Mutlaq (absolyut)",
+      "Dualistik",
+      "Parlamentar",
+      "Konstitutsiyaviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (60)",
+     "fill": true
+    },
+    {
+     "q": "______ monarxiyada monarx hokimiyati vakillik organi tomonidan muayyan darajada cheklangan va monarxning huquqiy maqomi konstitutsiya bilan chegaralab qo'yilgan bo'ladi.",
+     "options": [
+      "Cheklangan (konstitutsiyaviy)",
+      "Mutlaq (absolyut)",
+      "Teokratik",
+      "Saylanadigan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (60)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayev darsligida hozirgi Buyuk Britaniya ______ monarxiya mamlakati sifatida keltiriladi.",
+     "options": [
+      "parlamentar",
+      "mutlaq",
+      "teokratik",
+      "dualistik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (60)",
+     "fill": true
+    },
+    {
+     "q": "______ – davlat boshqaruvining shunday shakliki, bunda davlat hokimiyati aholi tomonidan muayyan muddatga saylab qo'yiladigan organlar va davlat boshlig'i tomonidan amalga oshiriladi.",
+     "options": [
+      "Respublika",
+      "Monarxiya",
+      "Federatsiya",
+      "Konfederatsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (61)",
+     "fill": true
+    },
+    {
+     "q": "Hukumat parlament saylovlarida ko'pchilik o'rin olgan partiyalar deputatlari tomonidan shakllantiriladigan, prezident esa odatda parlament a'zolari yoki maxsus kengash tomonidan saylanadigan respublika – ______.",
+     "options": [
+      "parlamentar respublika",
+      "prezidentlik respublikasi",
+      "aralash respublika",
+      "konstitutsiyaviy monarxiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (62)",
+     "fill": true
+    },
+    {
+     "q": "______ – davlatning siyosiy va ma'muriy-hududiy tuzilishi bo'lib, markaziy va mahalliy organlar o'rtasidagi o'zaro aloqalarni tavsiflaydigan davlat shaklining tarkibiy qismidir.",
+     "options": [
+      "Davlatning tuzilish shakli",
+      "Davlat boshqaruv shakli",
+      "Siyosiy rejim",
+      "Davlat apparati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (63)",
+     "fill": true
+    },
+    {
+     "q": "______ davlat yagona bo'lib, uning tarkibiy qismlari suverenitet belgilariga ega bo'lmagan ma'muriy-hududiy birliklardan iborat bo'ladi.",
+     "options": [
+      "Unitar",
+      "Federativ",
+      "Konfederativ",
+      "Murakkab"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (63)",
+     "fill": true
+    },
+    {
+     "q": "______ – mustaqil bo'lgan bir necha davlat tuzilmalarining ixtiyoriy asosda birlashgan yagona ittifoqi.",
+     "options": [
+      "Federativ davlat",
+      "Konfederatsiya",
+      "Unitar davlat",
+      "Avtonomiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (63)",
+     "fill": true
+    },
+    {
+     "q": "______ – muayyan maqsadlarga erishish uchun tashkil qilinadigan davlatlarning muvaqqat ittifoqi.",
+     "options": [
+      "Konfederatsiya",
+      "Federatsiya",
+      "Unitar davlat",
+      "Imperiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (64)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu siyosiy hokimiyatni amalga oshirishda qo'llaniladigan usul, uslub va vositalar yig'indisidir.",
+     "options": [
+      "Siyosiy (davlat) rejim",
+      "Boshqaruv shakli",
+      "Davlat tuzilishi shakli",
+      "Davlat mexanizmi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (64)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaning 1-moddasiga ko'ra, O'zbekiston – boshqaruvning ______ shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat.",
+     "options": [
+      "respublika",
+      "prezidentlik",
+      "parlamentar",
+      "federativ"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 1-modda (2023)",
+     "fill": true
     }
    ]
   },
@@ -4317,6 +5061,150 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev; Konstitutsiya, 114-modda (O: 146–147)"
+    },
+    {
+     "q": "______ davlat apparati va tashkilotlari tizimidan iborat bo'lib, ular vositasida davlat hokimiyati amalga oshiriladi va jamiyat ustidan davlatning rahbarligi ta'minlanadi.",
+     "options": [
+      "Davlat mexanizmi",
+      "Siyosiy tizim",
+      "Davlat shakli",
+      "Fuqarolik jamiyati"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (70)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu davlat hokimiyatining qonun chiqaruvchi, ijro etuvchi va sud hokimiyati tarmoqlariga taqsimlanishidir.",
+     "options": [
+      "Hokimiyatlar bo'linishi prinsipi",
+      "Qonuniylik prinsipi",
+      "Federalizm prinsipi",
+      "Demokratik markazlashuv prinsipi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (70)",
+     "fill": true
+    },
+    {
+     "q": "Hokimiyat vakolatlari taqsimlanishi prinsipiga ko'ra, hokimiyat tarmoqlari «______» orqali bir-birini nazorat qiladi.",
+     "options": [
+      "o'zaro muvozanat va cheklovlar tizimi",
+      "demokratik markazlashuv",
+      "vertikal bo'ysunuv tizimi",
+      "yagona hokimiyat tizimi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (71)",
+     "fill": true
+    },
+    {
+     "q": "Hokimiyat vakolatlarini taqsimlash nazariyasi fransuz mutafakkiri ______ «Qonunlar ruhi haqida» asarida bayon etilgan.",
+     "options": [
+      "Sh.L.Monteskyening",
+      "J.J.Russoning",
+      "T.Gobbsning",
+      "N.Makiavellining"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (71)",
+     "fill": true
+    },
+    {
+     "q": "Hokimiyat vakolatlari taqsimlanishi prinsipi ilk bor ______-yilgi AQSh Konstitutsiyasida o'z ifodasini topgan.",
+     "options": [
+      "1787",
+      "1776",
+      "1789",
+      "1791"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (71)",
+     "fill": true
+    },
+    {
+     "q": "Hokimiyatlar bo'linishi prinsipining vazifasi davlat hokimiyati to'laligicha ______ qo'lida jamlanishiga yo'l qo'ymaslikdan iborat.",
+     "options": [
+      "bir shaxs yoki organ",
+      "qonun chiqaruvchi va sud organlari",
+      "mahalliy hokimliklar",
+      "jamoat birlashmalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (71)",
+     "fill": true
+    },
+    {
+     "q": "______ – davlat mexanizmining tarkibiy qismi bo'lib, davlat hokimiyatini amalga oshirish uchun berilgan vakolatlarga ega bo'lgan davlat organlari majmuidan iborat.",
+     "options": [
+      "Davlat apparati",
+      "Davlat mexanizmi",
+      "Siyosiy tizim",
+      "Davlat shakli"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (72)",
+     "fill": true
+    },
+    {
+     "q": "______ – qonuniy asosda tashkil etiladigan, muayyan vakolatlarga ega bo'lgan, davlat apparatining mustaqil bo'g'ini.",
+     "options": [
+      "Davlat organi",
+      "Davlat korxonasi",
+      "Jamoat birlashmasi",
+      "Siyosiy partiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (73)",
+     "fill": true
+    },
+    {
+     "q": "Shakllanish usuliga ko'ra Qonunchilik palatasi va Prezident ______ davlat organlari hisoblanadi.",
+     "options": [
+      "birlamchi",
+      "hosilaviy",
+      "maxsus kompetensiyali",
+      "mahalliy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (73)",
+     "fill": true
+    },
+    {
+     "q": "Qaror qabul qilish tartibiga ko'ra Prezident va hokimlar ______ tartibda qaror qabul qiladigan davlat organlari hisoblanadi.",
+     "options": [
+      "yakka",
+      "kollegial",
+      "hosilaviy",
+      "jamoaviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (74)",
+     "fill": true
+    },
+    {
+     "q": "Vazirliklar, davlat qo'mitalari va agentliklar ______ kompetensiyali davlat organlari hisoblanadi.",
+     "options": [
+      "maxsus",
+      "umumiy",
+      "birlamchi",
+      "cheklanmagan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (74)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaning 11-moddasiga ko'ra, O'zbekiston Respublikasi davlat hokimiyatining tizimi ______ prinsipiga asoslanadi.",
+     "options": [
+      "hokimiyatning qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linishi",
+      "hokimiyatning yagonaligi",
+      "demokratik markazlashuv",
+      "partiyaviy rahbarlik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 11-modda (72)",
+     "fill": true
     }
    ]
   },
@@ -5035,6 +5923,138 @@
      ],
      "answer": 0,
      "src": "Saydullayev (209)"
+    },
+    {
+     "q": "______ – xalq irodasiga muvofiq, siyosiy hokimiyatni amalga oshirishga xizmat qiluvchi siyosiy tashkilotlar, siyosiy normalar, prinsiplar, institutlar va jarayonlarning o'zaro aloqadorligi va mushtarak yig'indisidir.",
+     "options": [
+      "Siyosiy tizim",
+      "Davlat mexanizmi",
+      "Fuqarolik jamiyati",
+      "Siyosiy rejim"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (164)",
+     "fill": true
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, siyosiy tizimning asosiy tarkibiy bo'g'inini, o'zagini ______ tashkil etadi.",
+     "options": [
+      "davlat",
+      "siyosiy partiyalar",
+      "jamoat birlashmalari",
+      "ommaviy axborot vositalari"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (163)",
+     "fill": true
+    },
+    {
+     "q": "______ doirasida qabul qilinadigan qarorlar butun jamiyat uchun majburiydir.",
+     "options": [
+      "Siyosiy tizim",
+      "Jamoat birlashmalari",
+      "Siyosiy partiya",
+      "Korporativ tizim"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (163)",
+     "fill": true
+    },
+    {
+     "q": "______ – ijtimoiy subyektlarning siyosiy tizimni shakllantirish, o'zgartirish, qayta tuzish va ro'yobga chiqarish borasidagi barcha harakatlarining yig'indisi.",
+     "options": [
+      "Siyosiy jarayon",
+      "Siyosiy rejim",
+      "Siyosiy madaniyat",
+      "Siyosiy institut"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (167)",
+     "fill": true
+    },
+    {
+     "q": "Siyosiy hayot shakllarining rivojiga ko'ra siyosiy tizimlar demokratik, avtoritar va ______ turlarga ajratiladi.",
+     "options": [
+      "totalitar",
+      "federativ",
+      "unitar",
+      "monarxik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (165)",
+     "fill": true
+    },
+    {
+     "q": "______ turdagi siyosiy tizimlar yakka shaxs yoki muayyan guruh qo'lida kuchli hokimiyatning to'planganligi bilan ajralib turadi.",
+     "options": [
+      "Avtoritar",
+      "Demokratik",
+      "Modernizatsiyalashgan",
+      "Plyuralistik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (166)",
+     "fill": true
+    },
+    {
+     "q": "______ turdagi siyosiy tizimlar davlatning jamiyat hayoti barcha sohalarida to'la nazorat o'rnatganligi bilan ajralib turadi.",
+     "options": [
+      "Totalitar",
+      "Demokratik",
+      "An'anaviy",
+      "Modernizatsiyalashgan"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (166)",
+     "fill": true
+    },
+    {
+     "q": "______, ya'ni olomon hokimiyati xavfi o'tish davri siyosiy tizimlarida namoyon bo'ladi.",
+     "options": [
+      "Oxlokratiya",
+      "Oligarxiya",
+      "Aristokratiya",
+      "Teokratiya"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (167)",
+     "fill": true
+    },
+    {
+     "q": "Siyosiy tizimning ______ jihati – davlat, siyosiy partiyalar, ijtimoiy harakatlar, jamoat birlashmalari va nodavlat tashkilotlardan iborat.",
+     "options": [
+      "tashkiliy (institutsional)",
+      "me'yoriy (normativ)",
+      "mafkuraviy",
+      "kommunikativ"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (169)",
+     "fill": true
+    },
+    {
+     "q": "Siyosiy tizimning ______ jihati – huquq, siyosiy norma va an'analar, siyosiy hayot doirasidagi axloq va madaniyat qoidalaridan iborat.",
+     "options": [
+      "me'yoriy (normativ)",
+      "tashkiliy (institutsional)",
+      "mafkuraviy",
+      "kommunikativ"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (169)",
+     "fill": true
+    },
+    {
+     "q": "Saylovlar, referendumlar, ommaviy muhokamalar va ommaviy axborot vositalari faoliyati siyosiy tizimning ______ jihatiga kiradi.",
+     "options": [
+      "aloqalar tizimiga oid (kommunikativ)",
+      "me'yoriy (normativ)",
+      "mafkuraviy",
+      "tashkiliy (institutsional)"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (169)",
+     "fill": true
     }
    ]
   },
@@ -5761,6 +6781,138 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev (460)"
+    },
+    {
+     "q": "______ deganda jamiyatda kishilar o'rtasida yuzaga keladigan ongli, maqsadga yo'naltirilgan aloqalar tushuniladi.",
+     "options": [
+      "Ijtimoiy munosabatlar",
+      "Ijtimoiy normalar",
+      "Ijtimoiy tartibga solish",
+      "Siyosiy tizim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (78)",
+     "fill": true
+    },
+    {
+     "q": "______ – jamiyatda kishilar xulq-atvorini, muayyan guruh va jamoalar o'rtasidagi munosabatlarni tartibga soluvchi qoidalar majmuidir.",
+     "options": [
+      "Ijtimoiy normalar tizimi",
+      "Ijtimoiy munosabatlar",
+      "Huquqiy ong",
+      "Siyosiy tizim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)",
+     "fill": true
+    },
+    {
+     "q": "Ijtimoiy tartibga solish ikki xil – normativ va ______ ko'rinishga ega.",
+     "options": [
+      "individual",
+      "jamoaviy",
+      "diniy",
+      "huquqiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (79)",
+     "fill": true
+    },
+    {
+     "q": "______ tartibga solish aniq subyektga taalluqli bo'lib, tegishli tarzda harakat qilish uchun berilgan individual ko'rsatmalardan iborat bo'ladi.",
+     "options": [
+      "Individual",
+      "Normativ",
+      "Umumiy",
+      "Korporativ"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (79)",
+     "fill": true
+    },
+    {
+     "q": "______ – kishilar hamda ularning jamoalari o'rtasidagi muayyan munosabatni tartibga soluvchi xulq-atvor qoidasidir.",
+     "options": [
+      "Ijtimoiy norma",
+      "Huquqiy munosabat",
+      "Ijtimoiy institut",
+      "Yuridik fakt"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)",
+     "fill": true
+    },
+    {
+     "q": "______ normalar – jamiyatni boshqarish jarayonida siyosiy hokimiyat subyektlarining o'zaro va shaxslar bilan bo'ladigan munosabatlarini tartibga soluvchi qoidalar.",
+     "options": [
+      "Siyosiy",
+      "Korporativ",
+      "Diniy",
+      "Urf-odat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)",
+     "fill": true
+    },
+    {
+     "q": "______ normalar – shaxslarning muayyan uyushmalari, guruhlari doirasida yuzaga keladigan munosabatlarni tartibga solishga qaratilgan xulq-atvor qoidalari.",
+     "options": [
+      "Korporativ",
+      "Siyosiy",
+      "Diniy",
+      "Axloq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)",
+     "fill": true
+    },
+    {
+     "q": "______ normalar – shaxslarning ibodatga, muayyan din hukmron mafkura bo'lgan mamlakatlarda esa o'zaro muomalaga oid munosabatlarini tartibga solishga qaratilgan qoidalar.",
+     "options": [
+      "Diniy",
+      "Axloq",
+      "Korporativ",
+      "Urf-odat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (80)",
+     "fill": true
+    },
+    {
+     "q": "______ normalari – kishilar o'rtasida ko'p marta takrorlanganligi sababli odatga aylangan va avloddan-avlodga o'tib kelayotgan xulq-atvor qoidalari.",
+     "options": [
+      "Urf-odat",
+      "Korporativ",
+      "Siyosiy",
+      "Diniy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (81)",
+     "fill": true
+    },
+    {
+     "q": "______ normalar – jamiyatda qaror topgan ilg'or, ijobiy an'analarni asrash munosabati bilan yuzaga keladigan umumlashgan va barqaror xulq-atvor qoidalari.",
+     "options": [
+      "An'anaviy",
+      "Korporativ",
+      "Siyosiy",
+      "Diniy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (81)",
+     "fill": true
+    },
+    {
+     "q": "Inson qilmishlariga ezgulik va yovuzlik, maqtov va qoralash, vijdon, or-nomus, burch nuqtai nazaridan yondashadigan ijtimoiy normalar – ______ normalari.",
+     "options": [
+      "axloq",
+      "huquq",
+      "korporativ",
+      "siyosiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (83)",
+     "fill": true
     }
    ]
   },
@@ -6471,6 +7623,174 @@
      ],
      "answer": 0,
      "src": "Saydullayev (90)"
+    },
+    {
+     "q": "______ (yuridik ma'noda) – davlat tomonidan himoya qilinadigan, o'zida erkinlik, tenglik va adolat tamoyillarini ifodalaydigan, ijtimoiy munosabatlarni tartibga solishga qaratilgan umummajburiy xulq-atvor qoidalari yig'indisi.",
+     "options": [
+      "Huquq",
+      "Axloq",
+      "Huquqiy ong",
+      "Huquqiy madaniyat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)",
+     "fill": true
+    },
+    {
+     "q": "Odilqoriyev darsligida huquq belgilaridan biri sifatida ______, ya'ni huquq normalarida ifodalangan talablar jamiyatning barcha a'zolari tomonidan bajarilishi shartligi ko'rsatiladi.",
+     "options": [
+      "umummajburiylik (normativlik)",
+      "formal aniqlik",
+      "tizimlilik",
+      "ixtiyoriylik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (187)",
+     "fill": true
+    },
+    {
+     "q": "Qadimgi Rim huquqshunosi ______ huquqni har kimga o'ziga tegishli bo'lgan huquqni berishga qaratilgan doimiy va uzluksiz iroda sifatida tushuntiradi.",
+     "options": [
+      "Ulpian",
+      "Sitseron",
+      "Yustinian",
+      "Aflotun"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (189)",
+     "fill": true
+    },
+    {
+     "q": "Qadimgi yunon mutafakkiri ______ ta'biri bilan aytganda, huquq «adolat mezoni» bo'lib xizmat qilishi lozim.",
+     "options": [
+      "Aristotel",
+      "Aflotun",
+      "Suqrot",
+      "Pifagor"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (183)",
+     "fill": true
+    },
+    {
+     "q": "Rim huquqining boshqa mamlakatlar huquqiy tizimlariga ta'siri yuridik adabiyotlarda «Rim huquqi ______» deb ataladi.",
+     "options": [
+      "retsepsiyasi",
+      "kodifikatsiyasi",
+      "inkorporatsiyasi",
+      "implementatsiyasi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (183)",
+     "fill": true
+    },
+    {
+     "q": "1804-yilgi ______ nomi bilan mashhur Fransiya Fuqarolik kodeksi Rim huquqini chuqur o'rganish asosida tayyorlangan.",
+     "options": [
+      "Napoleon kodeksi",
+      "Yustinian kodeksi",
+      "Hammurapi qonunlari",
+      "Saksoniya ko'zgusi"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (183)",
+     "fill": true
+    },
+    {
+     "q": "Huquq va qonunni aynanlashtiruvchi ______ yondashuvni T.Gobbs, J.Ostin, R.Iyering, G.Kelzen va boshqalar asoslab bergan.",
+     "options": [
+      "legistik",
+      "tabiiy-huquqiy",
+      "sotsiologik",
+      "psixologik"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (190)",
+     "fill": true
+    },
+    {
+     "q": "Avstriyalik huquqshunos G.Kelzen yuridik pozitivizmning bir shakli hisoblangan ______ asos solgan.",
+     "options": [
+      "normativizmga",
+      "tabiiy huquq nazariyasiga",
+      "psixologik nazariyaga",
+      "sotsiologik maktabga"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (191)",
+     "fill": true
+    },
+    {
+     "q": "______ nazariyasiga ko'ra, davlat yaratadigan pozitiv huquqdan tashqari barcha uchun umumiy bo'lgan va undan ustun turuvchi huquq ham mavjud.",
+     "options": [
+      "Tabiiy huquq",
+      "Normativizm",
+      "Realistik huquq maktabi",
+      "Psixologik huquq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (87)",
+     "fill": true
+    },
+    {
+     "q": "______ ta'biricha, huquq – himoyalangan davlat manfaatidir.",
+     "options": [
+      "R.Iyering",
+      "G.Kelzen",
+      "L.Petrajitskiy",
+      "J.Ostin"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (88)",
+     "fill": true
+    },
+    {
+     "q": "Sotsiologik maktab diqqat markazini «______», ya'ni huquqiy munosabatlar tizimini, odamlar xulq-atvorini o'rganishga ko'chirish kerak deb hisoblaydi.",
+     "options": [
+      "jonli huquq",
+      "sof huquq",
+      "tabiiy huquq",
+      "ilohiy huquq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (89)",
+     "fill": true
+    },
+    {
+     "q": "Islom nazariyasiga ko'ra huquqiy masalalar shariatning ______ qismiga tegishli hisoblanadi.",
+     "options": [
+      "muomalot",
+      "ibodat",
+      "aqoid",
+      "axloq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (90)",
+     "fill": true
+    },
+    {
+     "q": "Odilqoriyev darsligiga ko'ra, ______ majburlov deganda shaxs bo'ysunmagan holda qo'llanishi qonun bilan nazarda tutilgan choralarga yo'liqishdan qo'rqish birinchi o'rinda turadi.",
+     "options": [
+      "ruhiy",
+      "jismoniy",
+      "iqtisodiy",
+      "ma'muriy"
+     ],
+     "answer": 0,
+     "src": "Odilqoriyev (188)",
+     "fill": true
+    },
+    {
+     "q": "______ huquqi har bir insonning ajralmas huquqidir va u qonun bilan muhofaza qilinadi (Konstitutsiya, 25-modda).",
+     "options": [
+      "Yashash",
+      "Mulk",
+      "Mehnat qilish",
+      "Ta'lim olish"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 25-modda (87)",
+     "fill": true
     }
    ]
   },
@@ -7188,6 +8508,162 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev (212)"
+    },
+    {
+     "q": "______ – bu huquqning ijtimoiy munosabatlarni tartibga soluvchi vosita sifatidagi mohiyatini ifodalovchi boshlang'ich normativ asoslar, eng asosiy qarashlar, g'oyalar va qoidalardir.",
+     "options": [
+      "Huquq prinsiplari",
+      "Huquq funksiyalari",
+      "Huquq normalari",
+      "Huquq manbalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)",
+     "fill": true
+    },
+    {
+     "q": "______ prinsiplar huquq tizimining barcha sohalariga tegishli bo'ladi.",
+     "options": [
+      "Umumhuquqiy",
+      "Sohaviy",
+      "Sohalararo",
+      "Protsessual"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (84)",
+     "fill": true
+    },
+    {
+     "q": "______ prinsiplar huquq tizimining ikki yoki undan ortiq sohalariga oid bo'ladi.",
+     "options": [
+      "Sohalararo",
+      "Umumhuquqiy",
+      "Sohaviy",
+      "Konstitutsiyaviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)",
+     "fill": true
+    },
+    {
+     "q": "______ prinsiplar huquq tizimining muayyan bir sohasi mazmun-mohiyatining rahbariy qoidasi sifatida namoyon bo'ladi.",
+     "options": [
+      "Sohaviy",
+      "Umumhuquqiy",
+      "Sohalararo",
+      "Konstitutsiyaviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)",
+     "fill": true
+    },
+    {
+     "q": "Javobgarlikning muqarrarligi, oshkoralik, fuqarolik va jinoyat protsessidagi tortishuvlilik tamoyili Saydullayev tasnifida ______ prinsiplarga misol qilib keltiriladi.",
+     "options": [
+      "sohalararo",
+      "umumhuquqiy",
+      "sohaviy",
+      "xalqaro"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)",
+     "fill": true
+    },
+    {
+     "q": "Jinoyat jarayoni huquqidagi aybsizlik prezumpsiyasi Saydullayev tasnifida ______ prinsipga misol bo'ladi.",
+     "options": [
+      "sohaviy",
+      "sohalararo",
+      "umumhuquqiy",
+      "xalqaro"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu jamiyatda ijtimoiy munosabatlarga va kishilarning yurish-turishlariga huquqiy ta'sir qilishning asosiy yo'nalishlaridir.",
+     "options": [
+      "Huquqning funksiyalari",
+      "Huquq prinsiplari",
+      "Huquq manbalari",
+      "Davlat funksiyalari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)",
+     "fill": true
+    },
+    {
+     "q": "Huquq funksiyalarini maxsus yuridik (tor ma'noda) va ______ (keng ma'noda) turlarga tasniflash mumkin.",
+     "options": [
+      "umumijtimoiy",
+      "xalqaro",
+      "siyosiy",
+      "protsessual"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (85)",
+     "fill": true
+    },
+    {
+     "q": "Maxsus yuridik funksiyalar tartibga soluvchi (regulyativ) va ______ funksiyalarga bo'linadi.",
+     "options": [
+      "qo'riqlovchi",
+      "tarbiyaviy",
+      "iqtisodiy",
+      "ekologik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (86)",
+     "fill": true
+    },
+    {
+     "q": "______ funksiya – eng muhim iqtisodiy, siyosiy, milliy va boshqa ijtimoiy munosabatlarni, ularning daxlsizligini muhofaza qilish, jamiyatga yot munosabatlarni siqib chiqarishga qaratilgan huquqiy ta'sir yo'nalishi.",
+     "options": [
+      "Qo'riqlovchi",
+      "Tartibga soluvchi",
+      "Tarbiyaviy",
+      "Iqtisodiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (86)",
+     "fill": true
+    },
+    {
+     "q": "Tartibga solish funksiyasi doirasida ikki kichik funksiya – ______ va dinamik tartibga solish funksiyalari ajralib turadi.",
+     "options": [
+      "statik",
+      "statistik",
+      "individual",
+      "preventiv"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (86)",
+     "fill": true
+    },
+    {
+     "q": "Huquqning ______ tartibga solish funksiyasi ijtimoiy munosabatlar harakatini, ya'ni dinamikasini rasmiylashtirish yo'li bilan ularga ta'sir o'tkazishida ifodalanadi.",
+     "options": [
+      "dinamik",
+      "statik",
+      "qo'riqlovchi",
+      "tarbiyaviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (86)",
+     "fill": true
+    },
+    {
+     "q": "Huquqning umumijtimoiy funksiyalaridan ______ funksiya ma'naviy sohaga huquqiy ta'sir o'tkazadi.",
+     "options": [
+      "tarbiyaviy",
+      "iqtisodiy",
+      "siyosiy",
+      "ekologik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (86)",
+     "fill": true
     }
    ]
   },
@@ -7914,6 +9390,150 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev (307)"
+    },
+    {
+     "q": "______ – ijtimoiy ongning shakllaridan biri bo'lib, kishilarda huquqqa, qonunchilikka va boshqa huquqiy hodisalarga nisbatan bo'lgan g'oyalar, his-tuyg'ular, tasavvurlar yig'indisidir.",
+     "options": [
+      "Huquqiy ong",
+      "Huquqiy madaniyat",
+      "Huquqiy tarbiya",
+      "Huquqiy ideologiya (mafkura)"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (93)",
+     "fill": true
+    },
+    {
+     "q": "______ – huquqiy ongning stixiyali ravishda vujudga keladigan huquqiy tuyg'ular, hissiyotlar, kayfiyatlar, fikrlar yig'indisidan iborat tarkibiy elementi.",
+     "options": [
+      "Huquqiy ruhiyat (psixologiya)",
+      "Huquqiy mafkura",
+      "Huquqiy madaniyat",
+      "Huquqiy tarbiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (94)",
+     "fill": true
+    },
+    {
+     "q": "______ huquqiy ong – har bir shaxsga, alohida insonga xos huquqiy bilimlar, baholar, hissiyotlar va tuyg'ular majmui.",
+     "options": [
+      "Individual",
+      "Ijtimoiy",
+      "Ilmiy",
+      "Kasbiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (95)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu muayyan ijtimoiy guruhlarning, jamiyatning huquqiy qarashlari, g'oyalari, tasavvurlari va talablarining ilmiy tizimlashtirilgan ifodasidir.",
+     "options": [
+      "Huquqiy mafkura",
+      "Huquqiy ruhiyat",
+      "Huquqiy nigilizm",
+      "Huquqiy madaniyat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (95)",
+     "fill": true
+    },
+    {
+     "q": "______ huquqiy ong – huquqni tizimga solib, nazariy o'zlashtirishda ifodalanuvchi g'oyalar, konsepsiyalar, qarashlardan iborat.",
+     "options": [
+      "Ilmiy",
+      "Oddiy",
+      "Individual",
+      "Guruhiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (96)",
+     "fill": true
+    },
+    {
+     "q": "Huquqiy ongning ______ funksiyasi amaldagi huquqni har tomonlama o'rganishdan, uning xususiyatlari, prinsiplari va asosiy institutlarini o'rganishdan iborat.",
+     "options": [
+      "bilish",
+      "baholash",
+      "tartibga solish",
+      "prognostik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (97)",
+     "fill": true
+    },
+    {
+     "q": "______ – kishilarning huquqiy bilim darajasi, huquqqa nisbatan ongli munosabati, huquqni hurmat qilishi va unga rioya qilishidir.",
+     "options": [
+      "Huquqiy madaniyat",
+      "Huquqiy ong",
+      "Huquqiy tarbiya",
+      "Huquqiy ruhiyat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (99)",
+     "fill": true
+    },
+    {
+     "q": "______ – jamiyat a'zolarining yurish-turish madaniyatiga va ongiga huquq haqidagi bilimlarni doimiy ravishda maqsadga muvofiq ta'sir etish orqali singdirib borish jarayonidir.",
+     "options": [
+      "Huquqiy tarbiya",
+      "Huquqiy madaniyat",
+      "Huquqiy ong",
+      "Huquqiy mafkura"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (101)",
+     "fill": true
+    },
+    {
+     "q": "«Hech narsa», «inkor» ma'nosini anglatuvchi lotincha «nihil» so'zidan ______ atamasi kelib chiqqan.",
+     "options": [
+      "nigilizm",
+      "idealizm",
+      "pozitivizm",
+      "normativizm"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (102)",
+     "fill": true
+    },
+    {
+     "q": "______ huquqiy nigilizm – ijtimoiy munosabatlarda huquqni ochiqdan-ochiq inkor qilish.",
+     "options": [
+      "Faol",
+      "Sust",
+      "Ilmiy",
+      "Kasbiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (102)",
+     "fill": true
+    },
+    {
+     "q": "______ huquqiy nigilizm – jamiyatdagi kishilar tomonidan amaldagi huquq normalarini mensimaslik.",
+     "options": [
+      "Sust",
+      "Faol",
+      "Ilmiy",
+      "Kasbiy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (102)",
+     "fill": true
+    },
+    {
+     "q": "______ – huquqning ijtimoiy munosabatlarga ta'sir ko'rsatish imkoniyatlariga ortiqcha baho berib yuborilishi bilan ajralib turadigan huquqiy ong holatidir.",
+     "options": [
+      "Huquqiy idealizm",
+      "Huquqiy nigilizm",
+      "Huquqiy pozitivizm",
+      "Huquqiy ruhiyat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (102)",
+     "fill": true
     }
    ]
   },
@@ -8658,6 +10278,174 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev (280)"
+    },
+    {
+     "q": "______ – davlat tomonidan o'rnatiladigan yoki ma'qullanadigan, muayyan shaklda ifodalanadigan, ijtimoiy munosabatni tartibga solishga qaratilgan umummajburiy xulq-atvor qoidasi.",
+     "options": [
+      "Huquq normasi",
+      "Huquq prinsipi",
+      "Huquqiy munosabat",
+      "Axloq normasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (107)",
+     "fill": true
+    },
+    {
+     "q": "Huquq normasining tuzilishi uch elementdan iborat: gipoteza, dispozitsiya va ______.",
+     "options": [
+      "sanksiya",
+      "preambula",
+      "prezumpsiya",
+      "fiksiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (108)",
+     "fill": true
+    },
+    {
+     "q": "______ gipotezada huquq normasining amal qilishi ikki yoki undan ortiq holatlarning mavjud yoki mavjud emasligiga bog'liqligi ko'rsatiladi.",
+     "options": [
+      "Murakkab",
+      "Oddiy",
+      "Alternativ (muqobil)",
+      "Mutlaq aniq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (110)",
+     "fill": true
+    },
+    {
+     "q": "______ (muqobil) gipoteza huquq normasining amal qilishi sanab o'tilgan shart-sharoitlardan biriga bog'liqligini bayon etadi.",
+     "options": [
+      "Alternativ",
+      "Oddiy",
+      "Murakkab",
+      "Blanket"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (110)",
+     "fill": true
+    },
+    {
+     "q": "______ dispozitsiya huquq subyektlarining subyektiv huquq va yuridik majburiyatlari hamda xatti-harakatlarining to'liq bayonini ifoda etadi.",
+     "options": [
+      "Tavsiflovchi",
+      "Oddiy",
+      "Blanket",
+      "Havola etuvchi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (112)",
+     "fill": true
+    },
+    {
+     "q": "______ dispozitsiya subyektlarning huquq va majburiyatlari mazmunini aniqlash uchun boshqa hujjatlar normalarida belgilangan qoidalarga havola qiladi (masalan, JK 257-moddasi).",
+     "options": [
+      "Blanket",
+      "Oddiy",
+      "Tavsiflovchi",
+      "Mutlaq aniq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (112)",
+     "fill": true
+    },
+    {
+     "q": "______ dispozitsiya qo'llanayotgan norma mansub bo'lgan hujjatning boshqa normasiga yoki boshqa normativ-huquqiy hujjatga murojaat etishni nazarda tutadi (masalan, JK 110-moddasi).",
+     "options": [
+      "Havola etuvchi",
+      "Tavsiflovchi",
+      "Oddiy",
+      "Mutlaq aniq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (112)",
+     "fill": true
+    },
+    {
+     "q": "______ – dispozitsiyada ko'rsatilgan talablarni bajarmaganlik uchun beriladigan ta'sir chorasi yoki tavsiya etilgan harakatni sodir etganlik uchun rag'batlantirishning turi va o'lchovi.",
+     "options": [
+      "Sanksiya",
+      "Gipoteza",
+      "Dispozitsiya",
+      "Prezumpsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (112)",
+     "fill": true
+    },
+    {
+     "q": "Huquq subyektiga muayyan harakatlarni sodir etish mumkinligini ko'rsatuvchi huquq normalari ______ normalar deyiladi.",
+     "options": [
+      "huquq va vakolat beruvchi",
+      "majburiyat yuklovchi",
+      "taqiqlovchi",
+      "rag'batlantiruvchi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (113)",
+     "fill": true
+    },
+    {
+     "q": "Huquq subyektiga muayyan harakatlarni sodir etish lozimligini ko'rsatuvchi huquq normalari ______ normalar deyiladi.",
+     "options": [
+      "majburiyat yuklovchi",
+      "taqiqlovchi",
+      "vakolat beruvchi",
+      "rag'batlantiruvchi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (114)",
+     "fill": true
+    },
+    {
+     "q": "Huquq subyektiga muayyan xatti-harakatlarni sodir etishni man qiluvchi normalar ______ normalar deb ataladi.",
+     "options": [
+      "taqiqlovchi",
+      "majburiyat yuklovchi",
+      "vakolat beruvchi",
+      "rag'batlantiruvchi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (114)",
+     "fill": true
+    },
+    {
+     "q": "«Prezident Oliy Majlis majlisida qasamyod qabul qilgan paytdan boshlab o'z lavozimiga kirishgan hisoblanadi» (Konstitutsiya, 108-modda) normasida ______ gipoteza ifodalangan.",
+     "options": [
+      "oddiy",
+      "murakkab",
+      "alternativ (muqobil)",
+      "mutlaq aniq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 108-modda (110)",
+     "fill": true
+    },
+    {
+     "q": "«Prezident lavozimiga o'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan, bevosita saylovgacha kamida 10 yil O'zbekiston hududida muqim yashayotgan fuqaro saylanishi mumkin» (Konstitutsiya, 106-modda) normasida ______ gipoteza ifodalangan.",
+     "options": [
+      "murakkab",
+      "oddiy",
+      "alternativ (muqobil)",
+      "mutlaq aniq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 106-modda (110)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayev darsligida «Voyaga yetgan, mehnatga layoqatli farzandlar o'z ota-onalari haqida g'amxo'rlik qilishga majburdirlar» degan norma (amaldagi Konstitutsiyada 80-modda) ______ gipotezaga misol qilib keltirilgan.",
+     "options": [
+      "alternativ (muqobil)",
+      "oddiy",
+      "murakkab",
+      "mutlaq aniq"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 80-modda (110)",
+     "fill": true
     }
    ]
   },
@@ -9374,6 +11162,114 @@
      ],
      "answer": 0,
      "src": "Saydullayev (183)"
+    },
+    {
+     "q": "Umumiy ma'noda ______ deganda huquqni ifoda etilish shakli tushuniladi.",
+     "options": [
+      "huquq manbasi",
+      "huquq tizimi",
+      "huquq normasi",
+      "huquqiy ong"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (117)",
+     "fill": true
+    },
+    {
+     "q": "Tarixan huquqning dastlabki manbai (shakli) ______ hisoblanadi.",
+     "options": [
+      "huquqiy odat",
+      "qonun",
+      "sud presedenti",
+      "normativ shartnoma"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (118)",
+     "fill": true
+    },
+    {
+     "q": "______ – uzoq davr mobaynida amalda bo'lish natijasida shakllangan va davlat tomonidan umummajburiy qoida sifatida tan olingan yurish-turish qoidasidir.",
+     "options": [
+      "Huquqiy odat",
+      "Sud presedenti",
+      "Normativ shartnoma",
+      "Axloq normasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (118)",
+     "fill": true
+    },
+    {
+     "q": "______ – muayyan ish bo'yicha sudning shunday qarorki, u boshqa sudyalarga kelgusida shunga o'xshash ishlarni hal qilishda qanday qaror qabul qilish lozimligini ko'rsatadi.",
+     "options": [
+      "Sud presedenti",
+      "Huquqiy odat",
+      "Normativ shartnoma",
+      "Huquqiy doktrina"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (119)",
+     "fill": true
+    },
+    {
+     "q": "______ – vakolatli davlat organining belgilangan tartibda qabul qilgan, umummajburiy tusdagi qoidalarni o'rnatuvchi, o'zgartiruvchi yoki bekor qiluvchi yuridik hujjati.",
+     "options": [
+      "Normativ-huquqiy hujjat",
+      "Huquqni qo'llash hujjati",
+      "Normativ shartnoma",
+      "Huquqiy odat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (122)",
+     "fill": true
+    },
+    {
+     "q": "______ – oliy vakillik va qonunchilik organi tomonidan yoki bevosita xalq tomonidan (masalan, referendum yo'li bilan) qabul qilingan, eng muhim ijtimoiy munosabatlarni tartibga soluvchi yuridik hujjat.",
+     "options": [
+      "Qonun",
+      "Farmon",
+      "Qaror",
+      "Sud presedenti"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (125)",
+     "fill": true
+    },
+    {
+     "q": "Ikki yoki undan ortiq mustaqil huquq subyektlari o'rtasida tuziladigan, ularning huquq va majburiyatlarini o'rnatadigan, o'zgartiradigan yoki bekor qiladigan bitimlar ______ deyiladi.",
+     "options": [
+      "normativ shartnomalar",
+      "sud presedentlari",
+      "huquqiy odatlar",
+      "qonunosti hujjatlar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (125)",
+     "fill": true
+    },
+    {
+     "q": "Vena konvensiyasining 2-moddasiga ko'ra, ______ – bu davlatlar o'rtasidagi kelishuv bo'lib, yozma ravishdagi xalqaro huquq bilan tartibga solinadi.",
+     "options": [
+      "xalqaro shartnoma",
+      "normativ shartnoma",
+      "deklaratsiya",
+      "xalqaro odat"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (126)",
+     "fill": true
+    },
+    {
+     "q": "Xalqaro shartnomalarni davlat ichida amalda joriy qilish, xalqaro huquqiy normalarni milliy qonunlar va qonunosti hujjatlarga aylantirish ______ deyiladi.",
+     "options": [
+      "implementatsiya",
+      "ratifikatsiya",
+      "denonsatsiya",
+      "kodifikatsiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (129)",
+     "fill": true
     }
    ]
   },
@@ -10096,6 +11992,174 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev (401)"
+    },
+    {
+     "q": "______ – jamiyat va davlatning huquqiy ehtiyojlarini aniqlash va baholash, vakolatli subyektlarning normativ-huquqiy hujjatlarini belgilangan tartibda shakllantirish va qabul qilishni qamrab oluvchi jarayondir.",
+     "options": [
+      "Huquq ijodkorligi",
+      "Huquqni qo'llash",
+      "Huquqni sharhlash",
+      "Huquqiy tarbiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (133)",
+     "fill": true
+    },
+    {
+     "q": "Saydullayev tasnifida umumxalq referendumi ______ huquq ijodkorligining ko'rinishi sifatida ko'rsatiladi.",
+     "options": [
+      "bevosita",
+      "mahalliy organlar",
+      "mansabdor shaxslar",
+      "idoraviy"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (134)",
+     "fill": true
+    },
+    {
+     "q": "Xalq xohish-irodasini aks ettirgan umummajburiy xulq-atvor qoidalarini yaratish ______ predmeti hisoblanadi.",
+     "options": [
+      "huquq ijodkorligining",
+      "huquqni qo'llashning",
+      "huquqiy tarbiyaning",
+      "huquqni sharhlashning"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (134)",
+     "fill": true
+    },
+    {
+     "q": "______ – muayyan davlat organlari va mansabdor shaxslarning qonun chiqarish masalasini qo'yish va uning loyihasini ko'rib chiqish uchun qonun chiqaruvchi organga taqdim etish huquqidir.",
+     "options": [
+      "Qonunchilik tashabbusi",
+      "Veto huquqi",
+      "Ratifikatsiya",
+      "Qonunni sharhlash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (136)",
+     "fill": true
+    },
+    {
+     "q": "Har bir qonunning mantiqiy izchillikka asoslangan, bir-biriga bog'liq normalar tizimidan iborat bo'lishi ______ning eng muhim talablaridan biridir.",
+     "options": [
+      "yuridik texnika",
+      "qonunchilik tashabbusi",
+      "huquqiy tarbiya",
+      "huquqni qo'llash"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (141)",
+     "fill": true
+    },
+    {
+     "q": "Milliy adabiy tilning ajralmas tarkibiy qismi bo'lgan, normativ-huquqiy hujjatlar matnini tayyorlashda qoidalariga qat'iy amal qilinishi lozim bo'lgan til – ______.",
+     "options": [
+      "qonun tili",
+      "so'zlashuv tili",
+      "ilmiy uslub",
+      "xalqaro huquq tili"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (143)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaning 98-moddasiga ko'ra, qonunchilik tashabbusi huquqiga Prezident, Qoraqalpog'iston Respublikasining oliy vakillik organi, Qonunchilik palatasi deputatlari va ______ egadir.",
+     "options": [
+      "Vazirlar Mahkamasi",
+      "Senat",
+      "Ombudsman",
+      "Markaziy saylov komissiyasi"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 98-modda (2023)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaning 99-moddasiga ko'ra, Senat Qonunchilik palatasidan kelgan qonunni ______ kun ichida ko'rib chiqadi.",
+     "options": [
+      "oltmish",
+      "o'ttiz",
+      "o'n",
+      "to'qson"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 99-modda (2023)",
+     "fill": true
+    },
+    {
+     "q": "Senat rad etgan qonunni Qonunchilik palatasi deputatlar umumiy sonining ______ iborat ko'pchilik ovozi bilan yana ma'qullasa, qonun Oliy Majlis tomonidan qabul qilingan hisoblanadi (Konstitutsiya, 99-modda).",
+     "options": [
+      "uchdan ikki qismidan",
+      "yarmidan ko'pidan",
+      "to'rtdan uch qismidan",
+      "beshdan uch qismidan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 99-modda (138)",
+     "fill": true
+    },
+    {
+     "q": "Prezident e'tiroz bilan qaytargan qonun avvalgi tahririda palatalarning uchdan ikki ko'pchilik ovozi bilan ma'qullansa, Prezident uni ______ kun ichida imzolashi va e'lon qilishi kerak (Konstitutsiya, 99-modda).",
+     "options": [
+      "o'n to'rt",
+      "o'ttiz",
+      "oltmish",
+      "o'n"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 99-modda (140)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaga o'zgartirish va qo'shimchalar Qonunchilik palatasi deputatlari va Senat a'zolari umumiy sonining kamida ______ iborat ko'pchiligi tomonidan qabul qilingan konstitutsiyaviy qonun yoki referendum bilan kiritiladi.",
+     "options": [
+      "uchdan ikki qismidan",
+      "yarmidan ko'pidan",
+      "to'rtdan uch qismidan",
+      "beshdan uch qismidan"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 154-modda (2023)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaning ______ qoidalari hamda 154-modda ikkinchi qismining qoidalari qayta ko'rib chiqilishi mumkin emas.",
+     "options": [
+      "1-moddasi",
+      "11-moddasi",
+      "25-moddasi",
+      "98-moddasi"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 154-modda (2023)",
+     "fill": true
+    },
+    {
+     "q": "Konstitutsiyaviy qonunlarni qabul qilishda barcha deputatlar, senatorlar umumiy sonining kamida ______ ishtirok etishi shart.",
+     "options": [
+      "uchdan ikki qismi",
+      "yarmidan ko'pi",
+      "to'rtdan uch qismi",
+      "beshdan uch qismi"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 96-modda (2023)",
+     "fill": true
+    },
+    {
+     "q": "O'zbekiston Respublikasi Prezidenti Senat ma'qullagan qonunni ______ kun ichida imzolaydi va e'lon qiladi.",
+     "options": [
+      "oltmish",
+      "o'n to'rt",
+      "o'ttiz",
+      "o'n"
+     ],
+     "answer": 0,
+     "src": "Konstitutsiya, 99-modda (2023)",
+     "fill": true
     }
    ]
   },
@@ -10828,6 +12892,162 @@
      ],
      "answer": 0,
      "src": "Odilqoriyev (333)"
+    },
+    {
+     "q": "______ – ijtimoiy munosabatlarning huquq normalari bilan tartibga solingan bir qismi bo'lib, ularning subyektlari subyektiv huquq va yuridik majburiyatlarga ega bo'ladi.",
+     "options": [
+      "Huquqiy munosabatlar",
+      "Ijtimoiy normalar",
+      "Yuridik faktlar",
+      "Huquq tizimi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (161)",
+     "fill": true
+    },
+    {
+     "q": "Huquqiy munosabat ______ – subyektlarning huquq va majburiyatlari qaratilgan narsa.",
+     "options": [
+      "obyekti",
+      "subyekti",
+      "mazmuni",
+      "asosi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (162)",
+     "fill": true
+    },
+    {
+     "q": "______ – shaxsning qonunda nazarda tutilgan subyektiv huquq va yuridik majburiyatlarga ega bo'lish layoqati.",
+     "options": [
+      "Huquq layoqati",
+      "Muomala layoqati",
+      "Delikt layoqati",
+      "Jinoiy javobgarlik"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (163)",
+     "fill": true
+    },
+    {
+     "q": "______ – fuqaro yoki yuridik shaxsning o'z harakatlari bilan huquqqa ega bo'lish va o'zi uchun majburiyatlar yaratish qobiliyati.",
+     "options": [
+      "Muomala layoqati",
+      "Huquq layoqati",
+      "Huquq subyekti",
+      "Yuridik fakt"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (163)",
+     "fill": true
+    },
+    {
+     "q": "Yuridik shaxsning huquq layoqati u tuzilgan, ya'ni ______ paytdan boshlab vujudga keladi.",
+     "options": [
+      "davlat ro'yxatidan o'tkazilgan",
+      "ta'sis shartnomasi imzolangan",
+      "birinchi foyda olgan",
+      "bank hisobi ochilgan"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (163)",
+     "fill": true
+    },
+    {
+     "q": "______ – bu subyektning sodir etishi mumkin bo'lgan xatti-harakati turi va o'lchovi.",
+     "options": [
+      "Subyektiv huquq",
+      "Subyektiv yuridik majburiyat",
+      "Muomala layoqati",
+      "Huquq normasi"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (163)",
+     "fill": true
+    },
+    {
+     "q": "______ – subyektning sodir etishi lozim bo'lgan xatti-harakati turi va o'lchovi.",
+     "options": [
+      "Subyektiv yuridik majburiyat",
+      "Subyektiv huquq",
+      "Huquq layoqati",
+      "Yuridik fakt"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (164)",
+     "fill": true
+    },
+    {
+     "q": "______ – huquqiy munosabatlarni vujudga keltiruvchi, o'zgartiruvchi va bekor qiluvchi holatlar.",
+     "options": [
+      "Yuridik faktlar",
+      "Prezumpsiyalar",
+      "Sanksiyalar",
+      "Huquqiy munosabat obyektlari"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (164)",
+     "fill": true
+    },
+    {
+     "q": "Huquq subyektlarining xohish-irodasidan qat'i nazar yuz beradigan vaziyatlar ______ hisoblanadi.",
+     "options": [
+      "hodisa",
+      "harakat",
+      "harakatsizlik",
+      "bitim"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (164)",
+     "fill": true
+    },
+    {
+     "q": "______ – insonlarning tashqi ifodaga ega bo'lmagan passiv yurish-turishidir.",
+     "options": [
+      "Harakatsizlik",
+      "Hodisa",
+      "Harakat",
+      "Fiksiya"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (164)",
+     "fill": true
+    },
+    {
+     "q": "______ – aksi tasdiqlanmaguncha biror dalilni yuridik jihatdan to'g'ri deb hisoblash.",
+     "options": [
+      "Prezumpsiya",
+      "Fiksiya",
+      "Presedent",
+      "Aksioma"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (165)",
+     "fill": true
+    },
+    {
+     "q": "Huquqdagi ______ – joriy qonunchilik bilan tan olingan va umummajburiy xarakter kasb etgan, lekin amalda mavjud bo'lmagan holatlar.",
+     "options": [
+      "fiksiyalar",
+      "prezumpsiyalar",
+      "presedentlar",
+      "aksiomalar"
+     ],
+     "answer": 0,
+     "src": "Saydullayev (166)",
+     "fill": true
+    },
+    {
+     "q": "Ayblanuvchining aybi qonunda nazarda tutilgan tartibda isbotlanmaguncha va sud hukmi bilan aniqlanmaguncha u aybsiz deb hisoblanishi ______ deyiladi (Konstitutsiya, 28-modda).",
+     "options": [
+      "aybsizlik prezumpsiyasi",
+      "qonunni bilish prezumpsiyasi",
+      "huquqiy fiksiya",
+      "sud presedenti"
+     ],
+     "answer": 0,
+     "src": "Saydullayev; Konstitutsiya, 28-modda (166)",
+     "fill": true
     }
    ]
   }
